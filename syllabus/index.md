@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Syllabus
 
 ## Teacher Contact Info
