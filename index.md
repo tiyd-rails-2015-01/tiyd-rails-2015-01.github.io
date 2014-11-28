@@ -8,3 +8,4 @@ Welcome to the TIY Durham Python class for Jan-Apr 2015! This site will contain 
 
 * [Syllabus](/syllabus/)
 * [Recommended work before class](/prework/)
+* [Resources -- documentation and places to learn more](/resources/)
