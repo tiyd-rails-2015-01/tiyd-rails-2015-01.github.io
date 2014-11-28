@@ -32,7 +32,15 @@ These web sites are great learning resources and will help you out during the co
 
 * [Full Stack Python](http://www.fullstackpython.com/)
 
+## Even More Information
+
+* [Awesome Python](https://github.com/vinta/awesome-python) - list of great Python libraries, websites, etc
+* [Python Subreddit](https://www.reddit.com/r/python)
+
 ## Blogs
 
 * [Flowing Data](http://flowingdata.com/)
 * [Hilary Mason](http://www.hilarymason.com/)
+* [Real Python](https://realpython.com/blog/)
+* [Free Python Tips](https://freepythontips.wordpress.com/)
+* [While My MCMC Gently Samples](https://twiecki.github.io/)
