@@ -4,7 +4,7 @@ layout: default
 
 ## Prework
 
-I ask that you complete each of these exercises before the first day of class. They will ensure you're a step ahead and we can get to the good stuff quickly. 
+We ask that you complete each of these exercises before the first day of class. They will ensure you're a step ahead and we can get to the good stuff quickly. 
 
 - Read [this Treehouse blog post about command-line basics](http://blog.teamtreehouse.com/command-line-basics). When reading the article, go through all the exercises in the article.
 - Work through [The Command Line Crash Course](The Command Line Crash Course). This is a long undertaking and you could spend eight hours working on this. The author has a brash and possibly abrasive tone. The material is good, however.
