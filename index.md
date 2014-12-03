@@ -4,8 +4,16 @@ layout: default
 
 ## Welcome!
 
-Welcome to the TIY Durham Rails class for Jan-Apr 2015! This site will contain references and resources for you to use while taking the class.
+Welcome to the The Iron Yard in Durham!  This site contains information you'll
+need for the Rails class running from January to April of 2015.  Here you'll
+find references and resources for you to use before, during, and after taking
+the class.
 
-* [Pre-work (before class)](/prework/)
+### Before Class
+
+* [Technical Exercises](/prework/code.html)
+
+### During Class
+
 * [Syllabus](/syllabus/)
 * [Resources](/resources/)
