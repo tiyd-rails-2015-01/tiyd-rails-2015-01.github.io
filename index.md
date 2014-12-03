@@ -11,9 +11,10 @@ the class.
 
 ### Before Class
 
-* [Technical Exercises](/prework/exercises.html)
-* [Mac Setup](/prework/setup.html)
-* [Account Signup](/prework/accounts.html)
+* Get a Mac!
+* [Set up your Mac](/prework/setup.html)
+* Go through these [technical exercises](/prework/exercises.html)
+* [Sign up for accounts](/prework/accounts.html)
 
 ### During Class
 

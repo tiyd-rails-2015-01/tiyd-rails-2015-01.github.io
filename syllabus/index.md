@@ -6,15 +6,15 @@ layout: default
 
 ## Teacher Contact Info
 
-Mason Matthews
+Mason F. Matthews
 
 mason.matthews@theironyard.com
 
-(919) 302-5139 -- call after 5 PM for emergencies only
+Cell: (919) 302-5139 (Only call after 5 PM for emergencies)
 
 ## Schedule
 
-Class is from January 12 to April 3, 2015.
+Class runs from January 12th to April 3rd.
 
 Lecture is from 9 AM to 12:30 PM Monday-Thursday, with breaks during that time.
 Depending on the topic, we may end early.
@@ -90,6 +90,7 @@ the end of that week.
 * Asset Pipeline
 * JavaScript
 * JQuery
+* JSON
 
 ### Week 7 (Common Web App Functionality)
 
@@ -104,7 +105,8 @@ the end of that week.
 * OAuth
 * Single sign-on
 * APIs
-* JSON & XML
+* Public Data Sets
+* NoSQL Options
 
 ### Week 9
 
@@ -113,7 +115,8 @@ to catch any spillover that may have occurred.  If we have time, we'll discuss:
 
 * Project Management
 * Developing on VMs
-* Basic sysadmin
+* Basic Sysadmin
+* More NoSQL Options
 
 ### Week 10
 
