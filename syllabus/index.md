@@ -6,9 +6,11 @@ layout: default
 
 ## Teacher Contact Info
 
-Clinton Dreisbach
-clinton@theironyard.com
-(919) 360-9150 -- call after 5 PM for emergencies only
+Mason Matthews
+
+mason.matthews@theironyard.com
+
+(919) 302-5139 -- call after 5 PM for emergencies only
 
 ## Schedule
 
@@ -28,7 +30,7 @@ communication.
 
 ### Holidays
 
-We will take off January 19th for Martin Luther King Day.
+We will take January 19th off for Martin Luther King Day.
 
 ## Topics
 
