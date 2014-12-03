@@ -42,84 +42,78 @@ the end of that week.
 
 ### Week 1
 
-By the end of this week, students should be comfortable with:
+* Computational Thinking
+* Agile Software Development
+* Object Oriented Principles
+* Ruby Basics
+* Data Structures
+* Debugging Basics
+* Git and Github
 
-* Computational thinking
-* Setting up your computer for development
-* Variables
-* Loops
-* Functions
-* Modules
-* Dictionaries
+### Week 2 (Ruby and Static Web)
 
-### Week 2
-
-* Using Git and GitHub to manage source code
-* Debugging
-* Testing your code
-* Tuples
-* Higher-order functions
-* Recursion
-* Exceptions
-* Object-oriented programming
-
-### Week 3: Data
-
-* Algorithmic complexity
-* Search and sort algorithms
-* Loading and manipulating data with pandas
-* Plotting data
-* Common data formats
-* Publicly available data sets
-* Consuming REST APIs
-* Data set quality
-* Basic statistical inquiry
-* NumPy
-
-### Week 4: Data
-
-* Relational databases
-* Database design
-* ORMs
-* NoSQL (MongoDB/NoSQL in Postgres)
-* Stochastic programming
-* Randomness
-* Simple statistics
-* Creating simulations
-* Monte Carlo simulations
-
-### Week 5: Data
-
-* Neural networks
-* Bayesian filtering
-* Clustering
-* Recommendation algorithms
-
-### Week 6: Web
-
+* Ruby (cont'd)
+* Object Oriented Programming (cont'd)
+* Test-Driven Development
+* Unit Testing
+* Package Management
 * HTML
 * CSS
-* Flask
+
+### Week 3 (Rails)
+
+* Rails
+* MVC Architecture
+* Rake
+* Relational Database Basics
+* Migrations
+
+### Week 4 (Rails: Database and Models)
+
+* Data Structure Design
+* ActiveRecord
+* AREL
+* Proper Model Design
+
+### Week 5 (Rails: Controllers and Views)
+
+* Rails and MVC (cont'd)
+* Authentication
+* Params and Session
+* Controller and Integration Testing
 * REST
+* Deploying to Heroku
 
-### Week 7: Web
+### Week 6 (Rails: JavaScript)
 
+* Rails and MVC (cont'd)
+* Asset Pipeline
 * JavaScript
-* Web dataviz
+* JQuery
 
-### Week 8: Systems
+### Week 7 (Common Web App Functionality)
 
-* Linux
-* Installing packages
-* Running programs remotely
-* Supervisors
-* Ansible
+* Sending e-mails
+* File uploads
+* Pagination
+* Search/Reporting
+* Tags/Favorites
+
+### Week 8 (Integrations and Data Sources)
+
+* OAuth
+* Single sign-on
+* APIs
+* JSON & XML
 
 ### Week 9
 
-This week is a week for review and catch-up. Things will fall through the cracks
-during the previous 8 weeks, and so we have this week as a flex week to make
-sure we cover everything you need.
+This week will mainly be a review of previous weeks, and provide an opportunity
+to catch any spillover that may have occurred.  If we have time, we'll discuss:
+
+* Project Management
+* Developing on VMs
+* Basic sysadmin
 
 ### Week 10
 
@@ -127,7 +121,7 @@ During this week, you will be pitching your final project ideas, forming groups,
 and getting feedback. In class, we will cover some software development
 principles. You should be comfortable with:
 
-* Breaking up features into distinct tasks to work on
+* Breaking up features into distinct tasks
 * Estimating the size of programming tasks
 * Using Agile development to run a project
 
@@ -135,25 +129,22 @@ principles. You should be comfortable with:
 
 You will be working on your final project and presentation during this time.
 
-
 ## Capstone Project
 
 During the last three weeks of the course, you will be working on your capstone
-project, putting all you've learned into practice. You will be working by
-yourself, or with a group of 2-4 people on your project. These people can be
-in any Iron Yard class in Durham.
+project, putting all you've learned into practice. You will be working with a
+group of 2-4 people on your project, and these groups CAN include students from
+the other two courses. Projects that span multiple courses typically turn out
+the best.
 
 During week 10, you'll present your idea for a final project and get feedback,
-helping you scope the project. During weeks 11 and 12, you'll work primarily
-on this project. We will have lecture time, but it will be tailored to what
-you need to know for your project and may be optional. We will let you know
-what days lecture is optional.
+helping you scope the project. During weeks 11 and 12, you'll spend all of your
+time working on this project. We will have occasional lecture time, but it will
+be tailored to what you need to know for your project and will be optional.
 
-This project must use Python. It can be a data project, a web project, a
-systems programming project, or something else! Because this is a general-
-purpose programming course, the choices are wide. If you are not working on a
-project with a strong visual component, I _highly_ suggest thinking about
-working with someone from another class to make your project visual.
+This project must use Rails. If you are not planning to spend much time on the
+visual user interface, I _highly_ suggest working with someone from another
+class to make your project visually appealing.
 
 ## Materials
 
@@ -163,7 +154,6 @@ and I recommend getting 8 GB of RAM and a 256 GB hard drive, but that’s your
 choice to make. Any of the current
 [MacBook Air models](http://www.apple.com/macbook-air/specs.html) or
 [MacBook Pro models](http://www.apple.com/macbook-pro/specs-retina/) will work.
-I have a 13-inch MacBook Pro and really dig it.
 
 Your MacBook _must_ be running OS X Mavericks or Yosemite. Both are free
 upgrades from the App Store.
@@ -175,20 +165,22 @@ There is no commercial software required for the class.
 ### Absence policy
 
 You can miss up to 4 lectures; after that, your enrollment in the job placement
-program is forfeit. I don't recommend missing any, as we will be moving very
+program is forfeit. I don't recommend missing any lectures, as we will be moving very
 fast.
 
 ### Late homework policy
 
-Your homework is due by 6 AM on the day it is due. After that, it is late.
+Your homework is due by 6 AM on the day it is due. After that, it is late.  If
+you regularly turn in your assignments late, your enrollment in the job placement
+program is forfeit.
 
-I would rather see a solid attempt on time than a complete assignment late.
-Solid attempts are not considered late.
+I would rather see a solid incomplete attempt on time than a complete assignment
+late. Solid incomplete attempts turned in on time are not considered late.
 
 ### Honor code
 
 You are expected to do your own work. You should use all resources available to
-you, including open-source code, but copy and pasting open-source code is
+you, including open-source code, but copy-pasting open-source code is
 prohibited: you should use it only for inspiration or as a library in a bigger
 project.
 
