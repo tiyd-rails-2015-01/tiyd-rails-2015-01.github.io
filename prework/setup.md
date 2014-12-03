@@ -13,21 +13,23 @@ mason.matthews@theironyard.com
 Again, we want to have all of these kinks worked out in advance, so PLEASE
 e-mail if things don't work as described below.
 
-* Install [Atom](atom.html)
+* Install Atom
   * Download Atom from [the Atom website](https://atom.io/).
   * Install and run it.
   * Run Atom > Install Shell Commands.
   * Run Atom > Preferences and install the Atom Lint package.
 
-* Install Google Chrome ([download](https://www.google.com/intl/en/chrome/browser/))
+* Install Google Chrome
+  * Get it [here](https://www.google.com/intl/en/chrome/browser/))
 
-* Install [XCode Command Line Tools](xcode.html)
+* Install XCode Command Line Tools
   * Go to the [Apple Developer Downloads site](https://developer.apple.com/downloads/).
   * You will have to register.
-  * Look for "Command Line Tools (OS X 10.9) for XCode - September 2014."
+  * If you are running Mavericks, look for "Command Line Tools (OS X 10.9) for Xcode - Xcode 6.1.1" (Uploaded December 2014).
+  * If you are running Yosemite, look for "Command Line Tools (OS X 10.10) for Xcode - Xcode 6.1.1" (Uploaded December 2014).
   * Download it, run it, and follow all the prompts.
 
-* Install [Homebrew](homebrew.html)
+* Install Homebrew
   * Open up Terminal
   * Paste `ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/homebrew/go/install)"`
   * Run `brew doctor`
@@ -37,11 +39,11 @@ e-mail if things don't work as described below.
   * `echo 'if which rbenv > /dev/null; then eval "$(rbenv init -)"; fi' >> ~/.profile`
   * Run `ls -a ~`. If you see `.bash_profile` or `.bashrc`, get a TA or instructor to help you.
 
-* Install ruby 2.1.2
+* Install ruby 2.1.5
   * Close and reopen Terminal.
-  * `rbenv install 2.1.2`
+  * `rbenv install 2.1.5`
   * Go and get some coffee. That last one will take a while.
-  * `rbenv global 2.1.2`
+  * `rbenv global 2.1.5`
 
 * Install nodejs
   * `brew install nodejs`
