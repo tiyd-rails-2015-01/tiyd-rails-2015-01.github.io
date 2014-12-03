@@ -14,10 +14,10 @@ Again, we want to have all of these kinks worked out in advance, so PLEASE
 e-mail if things don't work as described below.
 
 * Install [Atom](atom.html)
-  * Download Atom from [the Atom website](https://atom.io/).
-  * Install and run it.
-  * Run Atom > Install Shell Commands.
-  * Run Atom > Preferences and install the Atom Lint package.
+ * Download Atom from [the Atom website](https://atom.io/).
+ * Install and run it.
+ * Run Atom > Install Shell Commands.
+ * Run Atom > Preferences and install the Atom Lint package.
 * Install Google Chrome ([download](https://www.google.com/intl/en/chrome/browser/))
 * Install [XCode Command Line Tools](xcode.html)
   * Go to the [Apple Developer Downloads site](https://developer.apple.com/downloads/).
