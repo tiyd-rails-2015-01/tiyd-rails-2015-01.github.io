@@ -11,7 +11,7 @@ the class.
 
 ### Before Class
 
-* [Technical Exercises](/prework/code.html)
+* [Technical Exercises](/prework/exercises.html)
 
 ### During Class
 
