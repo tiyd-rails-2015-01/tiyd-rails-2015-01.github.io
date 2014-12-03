@@ -2,19 +2,14 @@
 layout: default
 ---
 
-## Accounts You'll need
+## Accounts You'll Need
 
-As soon as possible after receiving your Mac, run through the following steps.
-If you've done a lot of your own configuration, some of these steps may have to
-change.  If you run into ANY PROBLEMS, send me an e-mail at:
-
-mason.matthews@theironyard.com
-
-Again, we want to have all of these kinks worked out in advance, so PLEASE
-e-mail if things don't work as described below.
+Over the course of the class, we'll be using a number of online services.  We'll
+set up a few of them for you, but these are the ones you'll need to register for
+on your own. Please use the __same email address__ to register that you provided
+to Jessica for our Iron Yard communications.
 
 * [Github](https://github.com/)
 * [Stackoverflow](http://stackoverflow.com/)
-* [Gravatar](https://en.gravatar.com/)
-  * And upload a picture of yourself
+* [Gravatar](https://en.gravatar.com/) - And upload a picture of yourself
 * [Heroku](https://signup.heroku.com/identity)
