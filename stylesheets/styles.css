@@ -239,6 +239,9 @@ code, pre {
   color: #333;
   font-size: 12px;
   overflow-x: auto;
+  border: 1px solid grey;
+  border-radius: 2px;
+  background-color: #eee;
 }
 
 pre {

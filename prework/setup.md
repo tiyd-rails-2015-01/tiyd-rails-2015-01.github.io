@@ -20,7 +20,7 @@ e-mail if things don't work as described below.
   * Run Atom > Preferences and install the Atom Lint package.
 
 * Install Google Chrome
-  * Get it [here](https://www.google.com/intl/en/chrome/browser/))
+  * Get it [here](https://www.google.com/intl/en/chrome/browser/)
 
 * Install XCode Command Line Tools
   * Go to the [Apple Developer Downloads site](https://developer.apple.com/downloads/).
@@ -35,6 +35,7 @@ e-mail if things don't work as described below.
   * Run `brew doctor`
 
 * Install rbenv & ruby-build
+  * In Terminal
   * `brew install ruby-build rbenv`
   * `echo 'if which rbenv > /dev/null; then eval "$(rbenv init -)"; fi' >> ~/.profile`
   * Run `ls -a ~`. If you see `.bash_profile` or `.bashrc`, get a TA or instructor to help you.
@@ -46,9 +47,11 @@ e-mail if things don't work as described below.
   * `rbenv global 2.1.5`
 
 * Install nodejs
+  * In Terminal
   * `brew install nodejs`
 
 * Install git
+  * In Terminal
   * `brew install git`
 
 * Create an SSH key (__do not__ give it a password when it asks for one)

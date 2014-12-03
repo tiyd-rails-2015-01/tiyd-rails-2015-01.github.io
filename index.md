@@ -13,7 +13,7 @@ the class.
 
 * Get a Mac!
 * [Set up your Mac](/prework/setup.html)
-* Go through these [technical exercises](/prework/exercises.html)
+* [Do these technical exercises](/prework/exercises.html)
 * [Sign up for accounts](/prework/accounts.html)
 
 ### During Class
