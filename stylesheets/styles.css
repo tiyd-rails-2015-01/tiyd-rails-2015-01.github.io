@@ -1,12 +1,12 @@
 @import url(https://fonts.googleapis.com/css?family=Lato:300italic,700italic,300,700);
 html {
-  background: #6C7989;
-  background: #6c7989 -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #6c7989), color-stop(100%, #434b55)) fixed;
-  background: #6c7989 -webkit-linear-gradient(#6c7989, #434b55) fixed;
-  background: #6c7989 -moz-linear-gradient(#6c7989, #434b55) fixed;
-  background: #6c7989 -o-linear-gradient(#6c7989, #434b55) fixed;
-  background: #6c7989 -ms-linear-gradient(#6c7989, #434b55) fixed;
-  background: #6c7989 linear-gradient(#6c7989, #434b55) fixed;
+  background: #896C6C;
+  background: #896C6C -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #896C6C), color-stop(100%, #554343)) fixed;
+  background: #896C6C -webkit-linear-gradient(#896C6C, #554343) fixed;
+  background: #896C6C -moz-linear-gradient(#896C6C, #554343) fixed;
+  background: #896C6C -o-linear-gradient(#896C6C, #554343) fixed;
+  background: #896C6C -ms-linear-gradient(#896C6C, #554343) fixed;
+  background: #896C6C linear-gradient(#896C6C, #554343) fixed;
 }
 
 body {
@@ -37,7 +37,7 @@ header, section, footer {
 }
 
 a {
-  color: #069;
+  color: #C29999;
   text-decoration: none;
 }
 
@@ -57,24 +57,26 @@ header {
   -ms-border-radius: 8px 8px 0 0;
   -o-border-radius: 8px 8px 0 0;
   border-radius: 8px 8px 0 0;
-  background: #E7C6FA;
-  background: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #F1DDFC), color-stop(100%, #E7C6FA));
-  background: -webkit-linear-gradient(#F1DDFC, #E7C6FA);
-  background: -moz-linear-gradient(#F1DDFC, #E7C6FA);
-  background: -o-linear-gradient(#F1DDFC, #E7C6FA);
-  background: -ms-linear-gradient(#F1DDFC, #E7C6FA);
-  background: linear-gradient(#F1DDFC, #E7C6FA);
+  background: #FAC6C6;
+  background: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #FCDDDD), color-stop(100%, #FAC6C6));
+  background: -webkit-linear-gradient(#FCDDDD, #FAC6C6);
+  background: -moz-linear-gradient(#FCDDDD, #FAC6C6);
+  background: -o-linear-gradient(#FCDDDD, #FAC6C6);
+  background: -ms-linear-gradient(#FCDDDD, #FAC6C6);
+  background: linear-gradient(#FCDDDD, #FAC6C6);
   position: relative;
   padding: 15px 20px;
-  border-bottom: 1px solid #B2D2E1;
+  border-bottom: 1px solid #C29999;
 }
 header h1 {
   margin: 0;
   padding: 0;
   font-size: 24px;
   line-height: 1.2;
-  color: #069;
   text-shadow: rgba(255, 255, 255, 0.9) 0 1px 0;
+}
+header h1 a {
+  color: #896C6C;
 }
 header.without-description h1 {
   margin: 10px 0;
