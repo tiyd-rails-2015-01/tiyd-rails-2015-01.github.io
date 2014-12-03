@@ -17,7 +17,6 @@ e-mail if things don't work as described below.
   * Download Atom from [the Atom website](https://atom.io/).
   * Install and run it.
   * Run Atom > Install Shell Commands.
-  * Run Atom > Preferences and install the Atom Lint package.
 
 * Install Google Chrome
   * Get it [here](https://www.google.com/intl/en/chrome/browser/)
@@ -31,7 +30,7 @@ e-mail if things don't work as described below.
 
 * Install Homebrew
   * Open up Terminal
-  * Paste `ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/homebrew/go/install)"`
+  * Run `ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/homebrew/go/install)"`
   * Run `brew doctor`
 
 * Install rbenv & ruby-build

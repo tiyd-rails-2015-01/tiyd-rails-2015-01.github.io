@@ -237,7 +237,7 @@ img {
 code, pre {
   font-family: Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal;
   color: #333;
-  font-size: 12px;
+  font-size: 10px;
   overflow-x: auto;
   border: 1px solid #bbb;
   border-radius: 2px;
