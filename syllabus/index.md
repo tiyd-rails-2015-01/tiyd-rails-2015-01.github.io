@@ -99,6 +99,7 @@ the end of that week.
 * Pagination
 * Search/Reporting
 * Tags/Favorites
+* Background Processing
 
 ### Week 8 (Integrations and Data Sources)
 
