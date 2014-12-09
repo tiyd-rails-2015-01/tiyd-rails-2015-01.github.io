@@ -14,7 +14,7 @@ Another nice side-effect of this approach: to uninstall an application, you just
 
 ### The Second Thing to Know
 
-If you're a Windows person, you're used to downloading files from the Internet, but you've never *mounted a disk image.*  This is an odd concept, but once you've done it a few times, you get used to it.  FYI, the "image" in disk image does not mean "photograph" or "picture."  It's a different concept.
+If you're a Windows person, you're used to downloading files from the Internet, but you've never *mounted a disk image.*  This is an odd concept, but once you've done it a few times, you get used to it.  (FYI, the "image" in disk image does not mean "photograph" or "picture."  It's a different concept.)
 
 If you download a `.dmg` file from the Internet, that's a disk image (you can see the `d`, `m`, and `g` in "disk image").  When you open it (by double-clicking on it), you're *mounting* it.  It acts just like you plugged a disk drive or flash memory stick into the side of your computer; the Mac thinks it's just another drive.  Your desktop will look something like this:
 
@@ -52,6 +52,6 @@ Double-click on the file and you'll see something like this:
 
 ![Chrome Installer](chrome_installer.png)
 
-First, note that you've mounted the Chrome disk image.  Great.  Next, note that it brought up an installer window.  This guy's just giving you an easy way to install something.  If you grab the Chrome icon and drag it to the blue Applications folder, under the hood that's **exactly the same** as what you did for Atom: you dragged it into the same Applications folder as before.
+First, note that you've mounted the Chrome disk image.  Great.  Next, note that it brought up an installer window.  This is just Google giving you an easier way to move the `.app` file into your Applications folder.  If you grab the Chrome icon and drag it to the blue Applications folder, under the hood that's **exactly the same** as what you did for Atom.
 
 When you've done this, just close the installer window, eject the disk image, and delete the `.dmg` file you downloaded.
