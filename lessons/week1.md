@@ -4,7 +4,17 @@ layout: default
 
 ## Week 1
 
-### M
+### Overview
+
+* Computational Thinking
+* Agile Software Development
+* Object Oriented Principles
+* Ruby Basics
+* Data Structures
+* Debugging Basics
+* Git and Github
+
+### Monday
 
 * (Short lecture day; mostly administrative stuff; no time for mini-task)
 * Psychology/Learning
@@ -18,11 +28,11 @@ layout: default
 * if/else
 * looping
 
-### M Assignment
+### Monday Assignment
 
 Instructions for Blackjack: https://basecamp.com/1940253/projects/7003793/messages/30994283
 
-### T
+### Tuesday
 
 * ...
 * Git
@@ -33,13 +43,13 @@ Instructions for Blackjack: https://basecamp.com/1940253/projects/7003793/messag
 * Functions
 * Return values vs side effects (including puts)
 
-### T Assignment
+### Tuesday Assignment
 
 Number Guessing: https://basecamp.com/1940253/projects/7003793/messages/31053110
 
-### W
+### Wednesday
 
-### W Assignment
+### Wednesday Assignment
 
 Make Change: https://basecamp.com/1940253/projects/7003793/messages/31118709
 
