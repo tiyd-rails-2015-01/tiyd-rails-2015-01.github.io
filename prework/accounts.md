@@ -13,3 +13,9 @@ to Jessica for our Iron Yard communications.
 * [Stackoverflow](http://stackoverflow.com/)
 * [Gravatar](https://en.gravatar.com/) - And upload a picture of yourself
 * [Heroku](https://signup.heroku.com/identity)
+
+You may have heard that we also use the following tools, but don't sign up for them yet; we'll do that once you get here:
+
+* Basecamp
+* Hipchat
+* Trello
