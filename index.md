@@ -20,3 +20,7 @@ the class.
 
 * [Syllabus](/syllabus/)
 * [Resources](/resources/)
+
+### ...and beyond!
+
+* [HUGE List of Free Coding Books](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md)

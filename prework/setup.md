@@ -15,11 +15,12 @@ e-mail if things don't work as described below.
 
 * Install Atom
   * Download Atom from [the Atom website](https://atom.io/).
-  * Install and run it.
-  * Run Atom > Install Shell Commands.
+  * Install and run it.  If you're not familiar with installing apps on your Mac, [read more here](mac_installations.html).
+  * Click on the "Atom" option in your menu bar (all the way in the upper-left of your screen) and choose "Install Shell Commands."
 
 * Install Google Chrome
-  * Get it [here](https://www.google.com/intl/en/chrome/browser/)
+  * Download Chrome from [the Chrome download page](https://www.google.com/intl/en/chrome/browser/).
+  * Install and run it.  This install will work a little differently from Atom, so if you get confused, [read more here](mac_installations.html).
 
 * Install XCode Command Line Tools
   * Go to the [Apple Developer Downloads site](https://developer.apple.com/downloads/).
@@ -29,12 +30,12 @@ e-mail if things don't work as described below.
   * Download it, run it, and follow all the prompts.
 
 * Install Homebrew
-  * Open up Terminal
+  * Open up Terminal.  If you're not familiar with opening applications on your Mac, [read more here](mac_applications.html).
   * Run `ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/homebrew/go/install)"`
   * Run `brew doctor`
 
 * Install rbenv & ruby-build
-  * In Terminal
+  * Open up Terminal (or if you've still got it open, keep using it).
   * `brew install ruby-build rbenv`
   * `echo 'if which rbenv > /dev/null; then eval "$(rbenv init -)"; fi' >> ~/.profile`
   * Run `ls -a ~`. If you see `.bash_profile` or `.bashrc`, get a TA or instructor to help you.
@@ -55,3 +56,5 @@ e-mail if things don't work as described below.
 
 * Create an SSH key (__do not__ give it a password when it asks for one)
   * `ssh-keygen`
+  * Press enter at the first prompt to stick with the default file name.
+  * Press enter at the second prompt to give it no password.
