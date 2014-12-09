@@ -11,7 +11,7 @@ the class.
 
 ### Before Class
 
-* Get a Mac!
+* [Get a Mac!](/syllabus/mac.html)
 * [Set up your Mac](/prework/setup.html)
 * [Do technical exercises](/prework/exercises.html)
 * [Sign up for accounts](/prework/accounts.html)
@@ -20,7 +20,17 @@ the class.
 
 * [Syllabus](/syllabus/)
 * [Resources](/resources/)
+* Lessons and Assignments
+  * Week 1
+  * Week 2
+  * Week 3
+  * Week 4
+  * Week 5
+  * Week 6
+  * Week 7
+  * Week 8
+  * Week 9
 
 ### ...and beyond!
 
-* [HUGE List of Free Coding Books](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md)
+* [HUGE list of free coding books](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md)

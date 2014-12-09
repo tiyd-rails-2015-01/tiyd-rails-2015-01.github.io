@@ -30,7 +30,7 @@ e-mail if things don't work as described below.
   * Download it, run it, and follow all the prompts.
 
 * Install Homebrew
-  * Open up Terminal.  If you're not familiar with opening applications on your Mac, [read this page, especially the last section](mac_installations.html). 
+  * Open up Terminal.  If you're not familiar with opening applications on your Mac, [read this page, especially the last section](mac_installations.html).
   * Run `ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/homebrew/go/install)"`
   * Run `brew doctor`
 
@@ -58,3 +58,8 @@ e-mail if things don't work as described below.
   * `ssh-keygen`
   * Press enter at the first prompt to stick with the default file name.
   * Press enter at the second prompt to give it no password.
+
+* Add the following applications to your Dock
+  * Atom
+  * Chrome
+  * Terminal
