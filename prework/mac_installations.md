@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Installing Applications on a Mac
+## Applications on a Mac
 
 So.  You're new to this whole Mac thing, and you've been asked to install an application.  Macs do make installs easier, but they also give you a few different options, so you need to know more than one.
 
@@ -36,7 +36,7 @@ To install Atom, all you have to do is drag the `Atom.app` file over to the left
 
 If you want to see all of your installed applications, just click on "Applications" on the left.  You can also see them by clicking on the Launchpad icon down in your dock (it looks like a rocket taking off).
 
-Maybe you want to add it to your dock at the bottom of the screen.  The dock is this guy:
+Maybe you want to add it to your dock at the bottom of the screen.  The dock is this thing:
 
 ![Dock](dock.png)
 
@@ -52,6 +52,15 @@ Double-click on the file and you'll see something like this:
 
 ![Chrome Installer](chrome_installer.png)
 
-First, note that you've mounted the Chrome disk image.  Great.  Next, note that it brought up an installer window.  This is just Google giving you an easier way to move the `.app` file into your Applications folder.  If you grab the Chrome icon and drag it to the blue Applications folder, under the hood that's **exactly the same** as what you did for Atom.
+First, note that you've mounted the Chrome disk image.  Great.  Next, note that it brought up an installer window.  This is just Google giving you an easier way to move the `.app` file into your Applications folder.  If you grab the Chrome icon and drag it to the blue Applications folder, under the hood that's **exactly the same** as when you dragged `Atom.app` across.
 
 When you've done this, just close the installer window, eject the disk image, and delete the `.dmg` file you downloaded.
+
+### All the Ways You Can Open Applications
+
+Let's say that you just turned on your computer and you want to run Terminal.  There are lots of ways you can do this:
+
+* **The Dock:** If you've got it in your dock, just click on it!
+* **Launchpad:** Click on the Launchpad icon in your dock, then find Terminal on that screen and click on it.  Chances are that it's under Utilities.
+* **Finder:** Click on the Finder icon on your dock (the first icon).  Then click on "Applications" in the sidebar, then find Terminal and double-click on it.  Chances are that it's under Utilities.
+* **Spotlight:** On your keyboard, hit the `Command` and `Space` keys at the same time.  That'll bring up a little search bar.  Type "Terminal" (or a part of "Terminal") in that box and hit Enter.  Spotlight is a wicked-cool way to open anything from applications to files (to much more).  Play with it when you get a chance to see what it can do.

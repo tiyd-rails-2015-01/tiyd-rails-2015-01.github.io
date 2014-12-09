@@ -15,7 +15,7 @@ e-mail if things don't work as described below.
 
 * Install Atom
   * Download Atom from [the Atom website](https://atom.io/).
-  * Install and run it.  If you're not familiar with installing apps on your Mac, [read more here](mac_installations.html).
+  * Install and run it.  If you're not familiar with Mac installations, [read more here](mac_installations.html).
   * Click on the "Atom" option in your menu bar (all the way in the upper-left of your screen) and choose "Install Shell Commands."
 
 * Install Google Chrome
@@ -30,7 +30,7 @@ e-mail if things don't work as described below.
   * Download it, run it, and follow all the prompts.
 
 * Install Homebrew
-  * Open up Terminal.  If you're not familiar with opening applications on your Mac, [read more here](mac_applications.html).
+  * Open up Terminal.  If you're not familiar with opening applications on your Mac, [read this page, especially the last section](mac_installations.html). 
   * Run `ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/homebrew/go/install)"`
   * Run `brew doctor`
 
