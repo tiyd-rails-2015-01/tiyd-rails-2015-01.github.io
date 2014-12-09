@@ -14,9 +14,13 @@ Another nice side-effect of this approach: to uninstall an application, you just
 
 ### The Second Thing to Know
 
-If you're a Windows person, you're used to downloading files from the Internet, but you've never *mounted a disk image.*  This is an odd concept, but once you've done it a few times, you get used to it.
+If you're a Windows person, you're used to downloading files from the Internet, but you've never *mounted a disk image.*  This is an odd concept, but once you've done it a few times, you get used to it.  FYI, the "image" in disk image does not mean "photograph" or "picture."  It's a different concept.
 
-If you download a `.dmg` file from the Internet, that's a disk image.  It's as though you froze a state  a whole disk down into a single file so that you could .  If you double-click on one of those, it will *mount* that
+If you download a `.dmg` file from the Internet, that's a disk image (you can see the `d`, `m`, and `g` in "disk image").  When you open it (by double-clicking on it), you're *mounting* it.  It acts just like you plugged a disk drive or flash memory stick into the side of your computer; the Mac thinks it's just another drive.  Your desktop will look something like this:
+
+![Mounted Disk Image](mounted.png)
+
+When you're finished using a `.dmg` installer, you right-click on the icon on your desktop, choose "Eject", and then delete the `.dmg` file in your downloads folder.
 
 ### Example 1: Installing Atom
 
@@ -26,7 +30,7 @@ Let's say you download Atom from [the Atom website](https://atom.io/).  Once you
 
 That's a `.zip` file.  It is a compressed set of files, and it can contain anything.  In this case, it contains a `.app` file.  Double-click on it to extract its contents.  Now you get this:
 
-IMAGE.
+![Atom Download 2](atom_download_2.png)
 
 To install Atom, all you have to do is drag the `Atom.app` file over to the left sidebar where it says "Applications."  That's installing the application.  You're done.
 
@@ -34,12 +38,20 @@ If you want to see all of your installed applications, just click on "Applicatio
 
 Maybe you want to add it to your dock at the bottom of the screen.  The dock is this guy:
 
-IMAGE.
+![Dock](dock.png)
 
 From either the Applications folder or the Launchpad, you can drag an application icon down to the dock and it will stay there.  That'll make it easier for you to open it later.
 
 ### Example 2: Installing Chrome
 
-This guy's a little different.  Not harder, but different.  When you download Chrome, you don't get a zip file.  You get a `.dmg`:
+This one's a little different.  Not harder, but different.  When you download Chrome, you don't get a zip file.  You get a `.dmg`:
 
-IMAGE.
+![Chrome Download](chrome_download.png)
+
+Double-click on the file and you'll see something like this:
+
+![Chrome Installer](chrome_installer.png)
+
+First, note that you've mounted the Chrome disk image.  Great.  Next, note that it brought up an installer window.  This guy's just giving you an easy way to install something.  If you grab the Chrome icon and drag it to the blue Applications folder, under the hood that's **exactly the same** as what you did for Atom: you dragged it into the same Applications folder as before.
+
+When you've done this, just close the installer window, eject the disk image, and delete the `.dmg` file you downloaded.
