@@ -15,11 +15,11 @@ the class.
 * [Set up your Mac](/prework/setup.html)
 * [Do technical exercises](/prework/exercises.html)
 * [Sign up for accounts](/prework/accounts.html)
+* [Read the syllabus](/syllabus/)
 
 ### During Class
 
-* [Syllabus](/syllabus/)
-* [Resources](/resources/)
+* Class Basecamp
 * Lessons and Assignments
   * Week 1
   * Week 2
@@ -30,6 +30,8 @@ the class.
   * Week 7
   * Week 8
   * Week 9
+* [Syllabus](/syllabus/)
+* [Resources](/resources/)
 
 ### ...and beyond!
 
