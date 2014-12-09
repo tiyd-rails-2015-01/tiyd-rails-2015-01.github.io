@@ -20,6 +20,8 @@ the class.
 ### During Class
 
 * Class Basecamp
+* [Syllabus](/syllabus/)
+* [Resources](/resources/)
 * Lessons and Assignments
   * Week 1
   * Week 2
@@ -30,8 +32,6 @@ the class.
   * Week 7
   * Week 8
   * Week 9
-* [Syllabus](/syllabus/)
-* [Resources](/resources/)
 
 ### ...and beyond!
 
