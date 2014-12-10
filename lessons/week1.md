@@ -20,9 +20,9 @@ This is a short lecture day.  Much of the day will be taken up by administrative
 
 * Psychology/Learning
  * Comfort, Learning, and Panic Zones
- [//]: # (My job: Keep you at the outer edge of the Learning Zone)
+   <!-- My job: Keep you at the outer edge of the Learning Zone -->
  * Feedback Cycles
- [//]: # (Course feedback: Daily reports from you on where you are in the zones.)
+   <!-- Course feedback: Daily reports from you on where you are in the zones. -->
 * Review the Agile values and Feedback Cycle values above
 * Instructions and control flow
 * PB & J
