@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Class Values
+## Broad Teaching Goals (an aside)
 
 Here are some of the core things to know about my perspective on teaching software development:
 
