@@ -26,7 +26,7 @@ You'll need to complete all of these steps before January 12th.  If you have ANY
 
 * [Get a Mac!](/syllabus/mac_specs.html)
 * [Set up your Mac](/prework/setup.html)
-* [Do technical exercises](/prework/exercises.html)
+* [Do the technical exercises](/prework/exercises.html)
 * [Sign up for accounts](/prework/accounts.html)
 * [Read the syllabus](/syllabus/)
 
