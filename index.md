@@ -18,9 +18,11 @@ You're probably wondering what you're in for (or are at least wondering somethin
 
 I've got more to say on each of these, and if you'd like to know WHY these things mater, [click here](/syllabus/values.html).
 
-The remainder of this site gets down to brass tacks.  Here you'll find references and resources for you to use before, during, and after the class:
+The remainder of this site gets down to brass tacks.  Here you'll find references and resources for you to use before, during, and after the class.
 
 ### Steps to Take Before Class
+
+You'll need to complete all of these steps before January 12th.  If you have ANY questions at all, please reach out to me at mason.matthews@theironyard.com.
 
 * [Get a Mac!](/syllabus/mac_specs.html)
 * [Set up your Mac](/prework/setup.html)
@@ -31,7 +33,6 @@ The remainder of this site gets down to brass tacks.  Here you'll find reference
 ### Useful Content During Class
 
 * [Syllabus](/syllabus/)
-<!--* [How assignments will work](/syllabus/assignment_approach.html)-->
 * Lessons and Assignments
   * Week 1
   * Week 2

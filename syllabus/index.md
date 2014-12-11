@@ -133,7 +133,21 @@ principles. You should be comfortable with:
 
 You will be working on your final project and presentation during this time.
 
-## Capstone Project
+## Assignments
+
+### In-lecture Mini-assignments
+
+During breaks in the lecture, you will be given exercises for practicing the content you've just learned.  Sometimes I'll give you a set of tests, and you'll be asked to write code to make them pass.  Other times you'll be given a blank slate to start from.  In most cases, you won't have time to finish the exercises before I ask you to stop and throw away what you've done.  This is normal (if not disconcerting) and will be somewhat liberating by the end.
+
+### Nightly Assignments
+
+After classes on Mondays, Tuesdays, and Wednesdays, you'll be given a longer assignment.  You'll work on these during the lab time that afternoon, and it's expected that you won't finish them by 5pm.  You'll be asked to work on these as individuals, and you'll usually be expected to write tests first.
+
+### Weekly Assignments
+
+After classes on Thursdays, you'll be given a substantially longer assignment.  You'll usually work on these assignments in pairs (which we'll assign for you), and you'll occasionally be working with students from other courses.  Lab time on Thursday afternoon and all day Friday will be dedicated to helping you with these.  As above, we expect that you won't finish these by 5pm on Friday, and you'll be expected to write tests first.
+
+### Final Project
 
 During the last three weeks of the course, you will be working on your capstone
 project, putting all you've learned into practice. You will be working with a
