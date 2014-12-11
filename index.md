@@ -8,13 +8,13 @@ Welcome to the The Iron Yard in Durham!  Congratulations on being accepted, and 
 
 You're probably wondering what you're in for (or are at least wondering something about me), and while I can't answer all of your questions in this format, it's worth knowing that the class will be taking the following perspectives:
 
-* **Immersion is the best way to learn.**
-* **Both lectures and projects have value.**
-* **It's best to truly understand the fundamentals.**
-* **Each new concept should expand your boundaries.**
-* **We should form real-world coding habits as soon as possible.**
-* **Agile, iterative development should be taught early on.**
-* **Feedback is critical.**
+* Immersion is the best way to learn.
+* Both lectures and projects have value.
+* It's best to truly understand the fundamentals.
+* Each new concept should expand your boundaries.
+* We should form real-world coding habits as soon as possible.
+* Agile, iterative development should be taught early on.
+* Feedback is critical.
 
 I've got more to say on each of these, and if you'd like to know WHY these things mater, [click here](/syllabus/values.html).
 
@@ -31,7 +31,7 @@ The remainder of this site gets down to brass tacks.  Here you'll find reference
 ### Useful Content During Class
 
 * [Syllabus](/syllabus/)
-* [How Assignments Will Work](/syllabus/assignment_approach.html)
+<!--* [How assignments will work](/syllabus/assignment_approach.html)-->
 * Lessons and Assignments
   * Week 1
   * Week 2
