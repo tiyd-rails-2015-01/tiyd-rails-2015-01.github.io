@@ -16,7 +16,7 @@ You're probably wondering what you're in for (or are at least wondering somethin
 * Agile, iterative development should be taught early on.
 * Feedback is critical.
 
-I've got more to say on each of these, and if you'd like to know WHY these things mater, [click here](/syllabus/values.html).
+I've got more to say on each of these, and if you'd like to know WHY these things matter, [click here](/syllabus/values.html).
 
 The remainder of this site gets down to brass tacks.  Here you'll find references and resources for you to use before, during, and after the class.
 
