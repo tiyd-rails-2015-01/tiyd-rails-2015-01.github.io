@@ -16,13 +16,15 @@ layout: default
 
 ### Monday
 
-This is a short lecture day.  Much of the day will be taken up by administrative tasks, and there will be no time for the
+This is a short lecture day.  Much of the day will be taken up by administrative tasks, and there will be no time for mini-assignments in the middle of lecture.
 
-* Psychology/Learning
+* Human Learning
   * Comfort, Learning, and Panic Zones
-    <!-- My job: Keep you at the outer edge of the Learning Zone -->
+    <!-- My job is to keep you at the outer edge of the Learning Zone -->
   * Feedback Cycles
-    <!-- Course feedback: Daily reports from you on where you are in the zones. -->
+    <!-- They're important in life. The shorter and more frequent they are, the better. -->
+    <!-- You'll be giving the TA daily reports on where you are in the zones. -->
+    <!-- 1-6 for lecture, 1-6 for assignment, # of hours for assignment. -->
 * Review the Agile values and Feedback Cycle values above
 * Instructions and control flow
 * PB & J
