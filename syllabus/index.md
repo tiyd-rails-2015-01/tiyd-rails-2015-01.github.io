@@ -62,8 +62,9 @@ the end of that week.
 
 ### Week 3 (Rails)
 
-* Rails
+* Camping
 * MVC Architecture
+* Rails
 * Rake
 * Relational Database Basics
 * Migrations
@@ -122,7 +123,7 @@ to catch any spillover that may have occurred.  If we have time, we'll discuss:
 ### Week 10
 
 During this week, you will be pitching your final project ideas, forming groups,
-and getting feedback. In class, we will cover some software development
+and getting feedback. In ad hoc discussions, we will discuss software development
 principles. You should be comfortable with:
 
 * Breaking up features into distinct tasks
