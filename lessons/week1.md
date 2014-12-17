@@ -50,7 +50,7 @@ Begin [Git Immersion](http://gitimmersion.com/).  Get through XXXXYY.
 
 **Assignment**
 
-(https://github.com/tiyd-rails-2015-01/w1a-battleship-instructions)
+[https://github.com/tiyd-rails-2015-01/w1a-battleship-instructions]
 
 ### Tuesday
 
