@@ -20,7 +20,7 @@ Students should be comfortable with the following at the end of this week:
 
 This is a short lecture day.  Much of the day will be taken up by administrative tasks, and there will be no time for mini-assignments in the middle of lecture.
 
-**Lecture**
+**Monday's Human Learning Lecture**
 
 * Human Learning
   * Comfort, Learning, and Panic Zones
@@ -29,6 +29,9 @@ This is a short lecture day.  Much of the day will be taken up by administrative
   <!-- They're important in life. The shorter and more frequent they are, the better. -->
   <!-- You'll be giving the TA daily reports on where you are in the zones. -->
   <!-- 1-6 for lecture, 1-6 for assignment, # of hours for assignment. -->
+
+**Lecture**
+
 * Instructions
   * PB & J
 * Ruby History
@@ -44,13 +47,9 @@ This is a short lecture day.  Much of the day will be taken up by administrative
   * date/times
 * Markdown
 
-**Reading**
+**Reading:** Begin [Git Immersion](http://gitimmersion.com/).  Get through XXXXYY.
 
-Begin [Git Immersion](http://gitimmersion.com/).  Get through XXXXYY.
-
-**Assignment**
-
-[Create Instructions for Battleship](https://github.com/tiyd-rails-2015-01/w1a-battleship-instructions)
+**Assignment:** [Create Instructions for Battleship](https://github.com/tiyd-rails-2015-01/w1a-battleship-instructions)
 
 ### Tuesday
 
@@ -63,13 +62,10 @@ Begin [Git Immersion](http://gitimmersion.com/).  Get through XXXXYY.
 
 **Mini-Assignment 1**
 
-Create github repository.  Create a file.  git add.  git commit.  git push.
-
-Edit file once.  git add.  git commit.
-
-Edit file again.  git add.
-
-Look at all three files.
+* Create github repository.  Create a file.  git add.  git commit.  git push.
+* Edit file once.  git add.  git commit.
+* Edit file again.  git add.
+* Look at all three files.
 
 **Lecture Part 2**
 
@@ -80,7 +76,7 @@ Look at all three files.
 
 **Mini-Assignment 2**
 
-Write a function to say hello to more than one person.  Call it 3 times for three different people.
+* Write a function to do XXX to more than one YYY.  Call it 3 times for three different YYY.
 
 **Lecture Part 3**
 
@@ -91,13 +87,9 @@ Write a function to say hello to more than one person.  Call it 3 times for thre
   * Ranges
   * .each
 
-**Reading**
+**Reading:** Continue [Git Immersion](http://gitimmersion.com/).  Get through XXXX.
 
-Continue [Git Immersion](http://gitimmersion.com/).  Get through XXXX.
-
-**Assignment**
-
-[Number Guessing Game](https://github.com/tiyd-rails-2015-01/w1b-number-guessing)
+**Assignment:** [Number Guessing Game](https://github.com/tiyd-rails-2015-01/w1b-number-guessing)
 
 ### Wednesday
 
@@ -128,13 +120,9 @@ You are supposed to keep track of employees (with their names and salaries), dep
 * Surprise: everything in Ruby is an object!
   * All functions are actually methods on classes
 
-**Reading**
+**Reading:** Complete [Git Immersion](http://gitimmersion.com/).  Get through XXXX.
 
-Complete [Git Immersion](http://gitimmersion.com/).  Get through XXXX.
-
-**Assignment**
-
-[Battleship Objects](https://github.com/tiyd-rails-2015-01/w1c-battleship-objects)
+**Assignment:** [Battleship Objects](https://github.com/tiyd-rails-2015-01/w1c-battleship-objects)
 
 ### Thursday
 
@@ -149,6 +137,10 @@ Complete [Git Immersion](http://gitimmersion.com/).  Get through XXXX.
 **Mini-Assignment**
 
 OddArray class.  Array that can only contain odd numbers.  Give them a test suite.  Test suite includes empty array and array with strings.  Ask them to write the class.
+
+**Lecture Part 2**
+
+TBD
 
 **WEEKEND Assignment - As Individuals**
 
