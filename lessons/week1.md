@@ -20,15 +20,17 @@ Students should be comfortable with the following at the end of this week:
 
 This is a short lecture day.  Much of the day will be taken up by administrative tasks, and there will be no time for mini-assignments in the middle of lecture.
 
-**Monday's Human Learning Lecture**
+**Weekly Human Learning Discussion**
 
-* Human Learning
+* Topics
   * Comfort, Learning, and Panic Zones
   <!-- My job is to keep you at the outer edge of the Learning Zone -->
   * Feedback Cycles
   <!-- They're important in life. The shorter and more frequent they are, the better. -->
   <!-- You'll be giving the TA daily reports on where you are in the zones. -->
   <!-- 1-6 for lecture, 1-6 for assignment, # of hours for assignment. -->
+* Diagram: Three Concentric Zones
+
 
 **Lecture**
 
@@ -59,6 +61,8 @@ This is a short lecture day.  Much of the day will be taken up by administrative
   * Files and folders
   * Versions over time
   * Checking out
+  * Add, Commit, Push
+  * Good commit messages
 
 **Mini-Assignment 1**
 
@@ -76,7 +80,7 @@ This is a short lecture day.  Much of the day will be taken up by administrative
 
 **Mini-Assignment 2**
 
-* Write a function to do XXX to more than one YYY.  Call it 3 times for three different YYY.
+* Write a function to do XXX with more than one YYY.  Call it 3 times for three different YYY.
 
 **Lecture Part 3**
 
