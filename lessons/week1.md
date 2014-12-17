@@ -16,13 +16,11 @@ Students should be comfortable with the following at the end of this week:
 * Debugging Basics
 * Git and Github
 
-
-
 ### Monday
 
 This is a short lecture day.  Much of the day will be taken up by administrative tasks, and there will be no time for mini-assignments in the middle of lecture.
 
-**Part 1**
+**Lecture**
 
 * Human Learning
   * Comfort, Learning, and Panic Zones
@@ -74,6 +72,7 @@ You will be using these instructions to write a program this weekend, and they w
 **Mini-Assignment 1**
 
 Create github repository.  Create a file.  git add.  git commit.  git push.
+
 Edit file once.  git add.  git commit.
 
 Edit file again.  git add.
