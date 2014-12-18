@@ -119,10 +119,11 @@ You are supposed to keep track of employees (with their names and salaries), dep
 
 **Lecture Part 2**
 
-* Object Oriented Programming
-  * Perhaps do another EXAMPLE?
 * Surprise: everything in Ruby is an object!
   * All functions are actually methods on classes
+* Object Oriented Programming
+  * Inheritance
+  * EXAMPLE: Enumerator
 
 **Reading:** Complete [Git Immersion](http://gitimmersion.com/).  Get through XXXX.
 
