@@ -20,9 +20,9 @@ Students should be comfortable with the following at the end of this week:
 
 This is a short lecture day.  Much of the day will be taken up by administrative tasks, and there will be no time for mini-assignments in the middle of lecture.
 
-**Weekly Human Learning Discussion**
+**Lecture**
 
-* Topics
+* Human Learning
   * Comfort, Learning, and Panic Zones
   <!-- My job is to keep you at the outer edge of the Learning Zone -->
   * Feedback Cycles
@@ -30,10 +30,6 @@ This is a short lecture day.  Much of the day will be taken up by administrative
   <!-- You'll be giving the TA daily reports on where you are in the zones. -->
   <!-- 1-6 for lecture, 1-6 for assignment, # of hours for assignment. -->
 * Diagram: Three Concentric Zones
-
-
-**Lecture**
-
 * Instructions
   * PB & J
 * Ruby History
@@ -47,43 +43,31 @@ This is a short lecture day.  Much of the day will be taken up by administrative
   * other numbers
   * dates
   * date/times
+  * symbols
 * Markdown
 
 **Reading:** Begin [Git Immersion](http://gitimmersion.com/).  Get through XXXXYY.
 
-**Assignment:** [Create Instructions for Battleship](https://github.com/tiyd-rails-2015-01/w1a-battleship-instructions)
+**Assignment:** [Create Instructions for Battleship](https://github.com/masonfmatthews/rails_assignments/tree/master/assignments/battleship-instructions)
 
 ### Tuesday
 
-**Lecture Part 1**
+**Lecture**
 
+* Exercise?
 * Git
   * Files and folders
   * Versions over time
   * Checking out
   * Add, Commit, Push
   * Good commit messages
-
-**Mini-Assignment 1**
-
-* Create github repository.  Create a file.  git add.  git commit.  git push.
-* Edit file once.  git add.  git commit.
-* Edit file again.  git add.
-* Look at all three files.
-
-**Lecture Part 2**
-
+* Exercise: [My First Git Repo](https://github.com/masonfmatthews/rails_assignments/tree/master/exercises/my_first_git_repo)
 * Functions
   * Return values vs side effects (including puts)
   * EXAMPLE (Use Compose Method Pattern)
 * puts and gets
-
-**Mini-Assignment 2**
-
-* Write a function to do XXX with more than one YYY.  Call it 3 times for three different YYY.
-
-**Lecture Part 3**
-
+* Exercise: Write a function to do XXX with more than one YYY.  Call it 3 times for three different YYY.
+* Blocks
 * Data Structures
   * Arrays
   * Hashes
@@ -93,12 +77,13 @@ This is a short lecture day.  Much of the day will be taken up by administrative
 
 **Reading:** Continue [Git Immersion](http://gitimmersion.com/).  Get through XXXX.
 
-**Assignment:** [Number Guessing Game](https://github.com/tiyd-rails-2015-01/w1b-number-guessing)
+**Assignment:** [Number Guessing Game](https://github.com/masonfmatthews/rails_assignments/tree/master/assignments/number-guessing)
 
 ### Wednesday
 
-**Lecture Part 1**
+**Lecture**
 
+* Exercise?
 * Object Oriented Programming
   * What are objects?
     * State and behavior
@@ -108,17 +93,7 @@ This is a short lecture day.  Much of the day will be taken up by administrative
   * What are classes?
     * Blueprints for objects
   * EXAMPLE
-
-**Mini-Assignment**
-
-You are supposed to keep track of employees (with their names and salaries), departments (with their names), and which employees are in which department.  You should be able to:
-
-* Get an employee's name.
-* Give raises to an individual.
-* Give raises to a department.
-
-**Lecture Part 2**
-
+* Exercise: [Employees and Departments](https://github.com/masonfmatthews/rails_assignments/tree/master/exercises/employees_and_departments)
 * Surprise: everything in Ruby is an object!
   * All functions are actually methods on classes
 * Object Oriented Programming
@@ -127,26 +102,21 @@ You are supposed to keep track of employees (with their names and salaries), dep
 
 **Reading:** Complete [Git Immersion](http://gitimmersion.com/).  Get through XXXX.
 
-**Assignment:** [Battleship Objects](https://github.com/tiyd-rails-2015-01/w1c-battleship-objects)
+**Assignment:** [Battleship Objects](https://github.com/masonfmatthews/rails_assignments/tree/master/assignments/battleship-objects)
 
 ### Thursday
 
-**Lecture Part 1**
+**Lecture**
 
+* Exercise?
 * Catch up on what we missed.
 * Testing
   * MiniTest
   * Unit testing on models.
 * Running rake
+* Exercise: [OddArray](https://github.com/masonfmatthews/rails_assignments/tree/master/exercises/odd_array)
+* TBD
 
-**Mini-Assignment**
+### WEEKEND Assignment - As Individuals
 
-OddArray class.  Array that can only contain odd numbers.  Give them a test suite.  Test suite includes empty array and array with strings.  Ask them to write the class.
-
-**Lecture Part 2**
-
-TBD
-
-**WEEKEND Assignment - As Individuals**
-
-[Battleship!!](https://github.com/tiyd-rails-2015-01/w1d-battleship)
+[Battleship!!](https://github.com/masonfmatthews/rails_assignments/tree/master/projects/battleship)
