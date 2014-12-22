@@ -46,7 +46,7 @@ This is a short lecture day.  Much of the day will be taken up by administrative
   * symbols
 * Markdown
 
-**Reading:** Begin [Git Immersion](http://gitimmersion.com/).  Get through XXXXYY.
+**Reading:** Begin [Git Immersion](http://gitimmersion.com/).  Complete Labs 1 through 10.
 
 **Assignment:** [Create Instructions for Battleship](https://github.com/masonfmatthews/rails_assignments/tree/master/assignments/battleship-instructions)
 
@@ -54,7 +54,6 @@ This is a short lecture day.  Much of the day will be taken up by administrative
 
 **Lecture**
 
-* Exercise?
 * Git
   * Files and folders
   * Versions over time
@@ -64,18 +63,18 @@ This is a short lecture day.  Much of the day will be taken up by administrative
 * Exercise: [My First Git Repo](https://github.com/masonfmatthews/rails_assignments/tree/master/exercises/my_first_git_repo)
 * Functions
   * Return values vs side effects (including puts)
-  * EXAMPLE (Use Compose Method Pattern)
+  * EXAMPLE: Monkeys Jumping on the Bed
 * puts and gets
-* Exercise: Write a function to do XXX with more than one YYY.  Call it 3 times for three different YYY.
-* Blocks
+* Exercise: [Random Number in a Range](https://github.com/masonfmatthews/rails_assignments/tree/master/exercises/random_in_range)
 * Data Structures
   * Arrays
   * Hashes
   * Sets
   * Ranges
   * .each
+* Blocks
 
-**Reading:** Continue [Git Immersion](http://gitimmersion.com/).  Get through XXXX.
+**Reading:** Continue [Git Immersion](http://gitimmersion.com/).  Get through Lab 20.
 
 **Assignment:** [Number Guessing Game](https://github.com/masonfmatthews/rails_assignments/tree/master/assignments/number-guessing)
 
@@ -83,7 +82,6 @@ This is a short lecture day.  Much of the day will be taken up by administrative
 
 **Lecture**
 
-* Exercise?
 * Object Oriented Programming
   * What are objects?
     * State and behavior
@@ -92,15 +90,15 @@ This is a short lecture day.  Much of the day will be taken up by administrative
     * Tell, don't ask
   * What are classes?
     * Blueprints for objects
-  * EXAMPLE
+  * EXAMPLE: Need something behavior-based. ???
 * Exercise: [Employees and Departments](https://github.com/masonfmatthews/rails_assignments/tree/master/exercises/employees_and_departments)
 * Surprise: everything in Ruby is an object!
   * All functions are actually methods on classes
 * Object Oriented Programming
   * Inheritance
-  * EXAMPLE: Enumerator
+  * EXAMPLE: Dig into Array class.
 
-**Reading:** Complete [Git Immersion](http://gitimmersion.com/).  Get through XXXX.
+**Reading:** Start Ruby Katas
 
 **Assignment:** [Battleship Objects](https://github.com/masonfmatthews/rails_assignments/tree/master/assignments/battleship-objects)
 
@@ -108,14 +106,13 @@ This is a short lecture day.  Much of the day will be taken up by administrative
 
 **Lecture**
 
-* Exercise?
 * Catch up on what we missed.
 * Testing
   * MiniTest
   * Unit testing on models.
-* Running rake
+* Example: [Parental Test](https://github.com/masonfmatthews/rails_assignments/tree/master/exercises/parental_test)
 * Exercise: [OddArray](https://github.com/masonfmatthews/rails_assignments/tree/master/exercises/odd_array)
-* TBD
+* Running rake?
 
 ### WEEKEND Assignment - As Individuals
 
