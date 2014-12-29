@@ -2,9 +2,9 @@
 layout: default
 ---
 
-## Week 1
+# Week 1
 
-### Overview
+## Overview
 
 Students should be comfortable with the following at the end of this week:
 
@@ -16,11 +16,11 @@ Students should be comfortable with the following at the end of this week:
 * Debugging Basics
 * Git and Github
 
-### Monday
+## Monday
 
 This is a short lecture day.  Much of the day will be taken up by administrative tasks, and there will be no time for mini-assignments in the middle of lecture.
 
-**Lecture**
+#### Lecture
 
 * Human Learning
   * Comfort, Learning, and Panic Zones
@@ -46,11 +46,15 @@ This is a short lecture day.  Much of the day will be taken up by administrative
   * symbols
 * Markdown
 
-**Reading:** Begin [Git Immersion](http://gitimmersion.com/).  Complete Labs 1 through 10.
+#### Reading
 
-**Assignment:** [Create Instructions for Battleship](https://github.com/masonfmatthews/rails_assignments/tree/master/assignments/battleship-instructions)
+* Begin [Git Immersion](http://gitimmersion.com/).  Complete Labs 1 through 10.
 
-### Tuesday
+#### Assignment
+
+* [Create Instructions for Battleship](https://github.com/masonfmatthews/rails_assignments/tree/master/assignments/battleship-instructions)
+
+## Tuesday
 
 **Lecture**
 
@@ -78,7 +82,7 @@ This is a short lecture day.  Much of the day will be taken up by administrative
 
 **Assignment:** [Number Guessing Game](https://github.com/masonfmatthews/rails_assignments/tree/master/assignments/number-guessing)
 
-### Wednesday
+## Wednesday
 
 **Lecture**
 
@@ -102,7 +106,7 @@ This is a short lecture day.  Much of the day will be taken up by administrative
 
 **Assignment:** [Battleship Objects](https://github.com/masonfmatthews/rails_assignments/tree/master/assignments/battleship-objects)
 
-### Thursday
+## Thursday
 
 **Lecture**
 
@@ -114,6 +118,6 @@ This is a short lecture day.  Much of the day will be taken up by administrative
 * Exercise: [OddArray](https://github.com/masonfmatthews/rails_assignments/tree/master/exercises/odd_array)
 * Running rake?
 
-### WEEKEND Assignment - As Individuals
+## Weekend Assignment - As Individuals
 
 [Battleship!!](https://github.com/masonfmatthews/rails_assignments/tree/master/projects/battleship)
