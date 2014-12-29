@@ -2,9 +2,7 @@
 layout: default
 ---
 
-# Week 1
-
-## Overview
+## Week 1 - Overview
 
 Students should be comfortable with the following at the end of this week:
 
@@ -78,13 +76,17 @@ This is a short lecture day.  Much of the day will be taken up by administrative
   * .each
 * Blocks
 
-**Reading:** Continue [Git Immersion](http://gitimmersion.com/).  Get through Lab 20.
+#### Reading
 
-**Assignment:** [Number Guessing Game](https://github.com/masonfmatthews/rails_assignments/tree/master/assignments/number-guessing)
+* Continue [Git Immersion](http://gitimmersion.com/).  Get through Lab 20.
+
+#### Assignment
+
+* [Number Guessing Game](https://github.com/masonfmatthews/rails_assignments/tree/master/assignments/number-guessing)
 
 ## Wednesday
 
-**Lecture**
+#### Lecture
 
 * Object Oriented Programming
   * What are objects?
@@ -102,13 +104,17 @@ This is a short lecture day.  Much of the day will be taken up by administrative
   * Inheritance
   * EXAMPLE: Dig into Array class.
 
-**Reading:** Start Ruby Katas
+#### Reading
 
-**Assignment:** [Battleship Objects](https://github.com/masonfmatthews/rails_assignments/tree/master/assignments/battleship-objects)
+* Start Ruby Katas
+
+#### Assignment
+
+* [Battleship Objects](https://github.com/masonfmatthews/rails_assignments/tree/master/assignments/battleship-objects)
 
 ## Thursday
 
-**Lecture**
+#### Lecture
 
 * Catch up on what we missed.
 * Testing
@@ -116,7 +122,6 @@ This is a short lecture day.  Much of the day will be taken up by administrative
   * Unit testing on models.
 * Example: [Parental Test](https://github.com/masonfmatthews/rails_assignments/tree/master/exercises/parental_test)
 * Exercise: [OddArray](https://github.com/masonfmatthews/rails_assignments/tree/master/exercises/odd_array)
-* Running rake?
 
 ## Weekend Assignment - As Individuals
 
