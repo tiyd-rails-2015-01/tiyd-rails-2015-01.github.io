@@ -16,7 +16,7 @@ Students should be comfortable with the following at the end of this week:
 
 ## Monday
 
-This is a short lecture day.  Much of the day will be taken up by administrative tasks, and there will be no time for mini-assignments in the middle of lecture.
+This is a short lecture day.  Much of the day will be taken up by administrative tasks.
 
 #### Lecture
 
@@ -28,8 +28,7 @@ This is a short lecture day.  Much of the day will be taken up by administrative
   <!-- You'll be giving the TA daily reports on where you are in the zones. -->
   <!-- 1-6 for lecture, 1-6 for assignment, # of hours for assignment. -->
 * Diagram: Three Concentric Zones
-* Instructions
-  * PB & J
+* Instructions - PB & J
 * Ruby History
 * Control Flow
   * if/else
@@ -42,6 +41,7 @@ This is a short lecture day.  Much of the day will be taken up by administrative
   * dates
   * date/times
   * symbols
+* Exercise: ?
 * Markdown
 
 #### Reading
@@ -54,7 +54,7 @@ This is a short lecture day.  Much of the day will be taken up by administrative
 
 ## Tuesday
 
-**Lecture**
+#### Lecture
 
 * Git
   * Files and folders
@@ -65,7 +65,7 @@ This is a short lecture day.  Much of the day will be taken up by administrative
 * Exercise: [My First Git Repo](https://github.com/masonfmatthews/rails_assignments/tree/master/exercises/my_first_git_repo)
 * Functions
   * Return values vs side effects (including puts)
-  * EXAMPLE: Monkeys Jumping on the Bed
+* Example: Monkeys Jumping on the Bed.  Then Storybots Jumping on the Bed.  Then get rid of the "and."
 * puts and gets
 * Exercise: [Random Number in a Range](https://github.com/masonfmatthews/rails_assignments/tree/master/exercises/random_in_range)
 * Data Structures
@@ -96,17 +96,17 @@ This is a short lecture day.  Much of the day will be taken up by administrative
     * Tell, don't ask
   * What are classes?
     * Blueprints for objects
-  * EXAMPLE: Need something behavior-based. ???
+* Example: Need something behavior-based. ???
 * Exercise: [Employees and Departments](https://github.com/masonfmatthews/rails_assignments/tree/master/exercises/employees_and_departments)
 * Surprise: everything in Ruby is an object!
   * All functions are actually methods on classes
 * Object Oriented Programming
   * Inheritance
-  * EXAMPLE: Dig into Array class.
+* Example: Start with Float object.  Explore superclasses and classes.
 
 #### Reading
 
-* Start Ruby Katas
+* Start [Ruby Koans](http://rubykoans.com/).  Work through `about_symbols.rb`.
 
 #### Assignment
 
@@ -116,6 +116,7 @@ This is a short lecture day.  Much of the day will be taken up by administrative
 
 #### Lecture
 
+* Homework review and Koans check-in
 * Catch up on what we missed.
 * Testing
   * MiniTest
