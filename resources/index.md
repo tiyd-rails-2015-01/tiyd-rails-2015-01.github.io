@@ -63,6 +63,7 @@ These web sites are great learning resources and will help you out during the co
 * [The Git website](http://git-scm.com/) - lots of videos and resources to learn git
 * [GitHub Bootcamp](https://help.github.com/categories/54/articles) - series of articles on basic GitHub use
 * [GitHub Guides](https://guides.github.com/) - series of guides on further GitHub use
+* [Interactive Git Cheat Sheet](http://ndpsoftware.com/git-cheatsheet.html) - a bit hard to follow at first glance, but very deep
 
 #### Tutorials/Exercises/Games
 
