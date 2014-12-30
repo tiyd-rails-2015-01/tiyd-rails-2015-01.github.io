@@ -32,7 +32,7 @@ This is a short lecture day.  Much of the day will be taken up by administrative
 * Ruby History
 * Control Flow
   * if/else
-  * while loop (Fibonnaci numbers)
+  * while loop
   * indentation
 * Variable Assignment
   * strings
@@ -41,7 +41,7 @@ This is a short lecture day.  Much of the day will be taken up by administrative
   * dates
   * date/times
   * symbols
-* Exercise: ?
+* Exercise: Print out all the numbers between 1 and 100 which are divisible by 5.  Use a while, an if, and a variable.
 * Markdown
 
 #### Reading
@@ -96,13 +96,13 @@ This is a short lecture day.  Much of the day will be taken up by administrative
     * Tell, don't ask
   * What are classes?
     * Blueprints for objects
-* Example: Need something behavior-based. ???
+* Example: [Albums and Artists](https://github.com/masonfmatthews/rails_assignments/tree/master/exercises/albums_and_artists)
 * Exercise: [Employees and Departments](https://github.com/masonfmatthews/rails_assignments/tree/master/exercises/employees_and_departments)
 * Surprise: everything in Ruby is an object!
   * All functions are actually methods on classes
 * Object Oriented Programming
   * Inheritance
-* Example: Start with Float object.  Explore superclasses and classes.
+* Exploration: Start with Float object.  Explore superclasses and classes.
 
 #### Reading
 
@@ -117,7 +117,8 @@ This is a short lecture day.  Much of the day will be taken up by administrative
 #### Lecture
 
 * Homework review and Koans check-in
-* Catch up on what we missed.
+* More on inheritance.  Examples.
+* Exercise: [National Expressions](https://github.com/masonfmatthews/rails_assignments/tree/master/exercises/national_expressions)
 * Testing
   * MiniTest
   * Unit testing on models.
