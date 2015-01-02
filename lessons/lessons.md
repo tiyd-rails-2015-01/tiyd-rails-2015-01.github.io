@@ -10,28 +10,28 @@
 * M: Psych (Agile) ; TDD* ; OO (Composition, etc)
 * T: Gems ; Using External Code* ; Bundler
 * W: HTML ; CSS
-* Th: SCSS ; Pair Programming*
+* Th: SCSS ; Bourbon/Neat ; Pair Programming*
 
 ## Week 3 (Rails)
 
-* M: Psych (Culture) ; MVC ; Camping Intro
-* T: Camping* ; Camping
-* W: Rails Intro ; New Rails App*
-* Th: DB Basics ; Generators & Rake ; Migrations
+* M: Psych (Culture) ; HTML Forms and Verbs ; MVC ; Rails Intro w/o models
+* T: Generators (incl. Scaffold) ; Rake ; Migrations
+* W: Params in Depth ; Heroku and the value of Shipping It
+* Th: Working as Teams ; Git branching, merging, and conflicts
 
-## Week 4 (Rails: Database and Models)
+## Week 4 (Rails: Controllers and Views)
+
+* M: Psych (Data 1st vs Behavior 1st Thinking) ; MVC Recap ; Sessions
+* T: Integration Testing ; Routing ; REST
+* W: Heroku ; Heroku*
+* Th: Authentication ; Int Testing
+
+## Week 5 (Rails: Database and Models)
 
 * M: Psych (Scarring) ; Data Structure Design ; Design Examples*
 * T: Normalization ; SQL*
 * W: Active Record ; Relationships ; Scopes and Delegation
-* Th: AREL ; AREL*
-
-## Week 5 (Rails: Controllers and Views)
-
-* M: Psych (Data 1st vs Behavior 1st Thinking) ; MVC Recap ; Params and Sessions
-* T: Integration Testing ; Routing ; REST
-* W: Heroku ; Heroku*
-* Th: Authentication ; Int Testing ; Simple roll-your-own*
+* Th: AREL ; AREL* ; Indices
 
 ## Week 6 (Rails: JavaScript)
 

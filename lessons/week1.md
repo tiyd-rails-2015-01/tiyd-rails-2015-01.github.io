@@ -31,10 +31,12 @@ This is a short lecture day.  Much of the day will be taken up by administrative
 * Instructions - PB & J
 * Ruby History
 * Control Flow
+  * PB & J for the entire class.  Use a while, maybe an if.
   * if/else
   * while loop
   * indentation
 * Variable Assignment
+  * PB & J for the entire class, everyone wants a different jelly.
   * strings
   * integers
   * other numbers
@@ -56,12 +58,14 @@ This is a short lecture day.  Much of the day will be taken up by administrative
 
 #### Lecture
 
+* Homework review
 * Git
   * Files and folders
   * Versions over time
   * Checking out
   * Add, Commit, Push
   * Good commit messages
+  * Branching
 * Exercise: [My First Git Repo](https://github.com/masonfmatthews/rails_assignments/tree/master/exercises/my_first_git_repo)
 * Functions
   * Return values vs side effects (including puts)
@@ -88,6 +92,7 @@ This is a short lecture day.  Much of the day will be taken up by administrative
 
 #### Lecture
 
+* Homework review
 * Object Oriented Programming
   * What are objects?
     * State and behavior

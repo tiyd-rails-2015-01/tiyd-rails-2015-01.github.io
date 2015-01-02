@@ -38,24 +38,12 @@
 
 ### Week 4 (Rails: Database and Models)
 
-* Data Structure Design
-* ActiveRecord
-* AREL
-* Proper Model Design
-
 * M: [Life Tracker - Online Resume](https://github.com/tiy-durham-2014-09/life_tracker)
 * T: [Beef up Life Tracker](https://basecamp.com/1940253/projects/7003793/messages/32043132)
 * W: Oct 8th?
 * Weekend: Oct 9th?
 
 ### Week 5 (Rails: Controllers and Views)
-
-* Rails and MVC (cont'd)
-* Authentication
-* Params and Session
-* Controller and Integration Testing
-* REST
-* Deploying to Heroku
 
 * M: [Data Modeling](https://basecamp.com/1940253/projects/7003793/messages/32299259)
 * T: Oct 14th?
