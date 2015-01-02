@@ -18,17 +18,17 @@ Students should be comfortable with the following at the end of this week:
 
 #### Lecture
 
+* Project Review
 * Human Learning: agile development practices
   * Iterate (this gets back to feedback cycles).
   * Build fully-functional apps during each iteration.
-  * EXAMPLE: Build an ecommerce site for T-shirts.  You know you want it to:
+  * Example: Build an ecommerce site for T-shirts.  You know you want it to:
     * Accept credit card payments from customers
     * Allow orders to be made for specific size and color of shirts
     * Allow color/size combos to be marked as out-of-stock
     * Send sale e-mails
   * Pair programming (this gets back to feedback cycles)
 * Diagram: Feedback cycles of escalating size
-* Project Review
 * OO
   * Composition
   * Roles via modules
@@ -79,22 +79,7 @@ Students should be comfortable with the following at the end of this week:
 
 #### Assignment
 
-Your goal today is to reproduce two things that you might find on the web.
-
-The first is a (terribly ugly) webpage containing one of Shakespeare's sonnets.
-
-Here is the sonnet in text form: http://www.poetryfoundation.org/poem/174354
-
-Your goal is to make a webpage in JSFiddle that looks exactly like this: http://upload.wikimedia.org/wikipedia/commons/e/ee/Cssthingy.gif
-
-Your work will probably proceed like this:
-* Set up an account with JSFiddle.net.  Don't worry about registration fields you'd rather not enter.  Just leave them blank.
-* You should be taken directly to a blank fiddle, but if you aren't, you can always type "jsfiddle.net" directly into your website to be given a new fiddle.
-* Whenever you change your HTML or CSS, you'll have to hit the "Run" button to see your changes.
-* The first time you save, the button will be called "Save."  Every time after that, it will be called "Update." Regardless of its name, make sure to hit it often.  The "Run" button does NOT save by itself.
-* When you are finished, MAKE SURE TO HIT UPDATE, then hit the "Share" button, then copy and paste the first link into Basecamp as your completed assignment.
-
-The second is the following button: TODO
+* [CSS Reverse Engineering](https://github.com/masonfmatthews/rails_assignments/tree/master/assignments/css_reverse_engineering)
 
 ## Thursday
 
@@ -102,6 +87,9 @@ The second is the following button: TODO
 
 * Assignment and Koans Review
 * SCSS
+* Bourbon?  Neat?
 * Pair Programming Details
 
 ## Weekend Assignment - As Pairs
+
+[Google Scholar Screen Scraper](https://github.com/masonfmatthews/rails_assignments/tree/master/projects/screen_scraper)
