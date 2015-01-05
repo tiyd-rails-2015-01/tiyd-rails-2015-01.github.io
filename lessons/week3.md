@@ -32,7 +32,7 @@ Students should be comfortable with the following at the end of this week:
 
 #### Assignment
 
-* Build a Rails app to... give you motivational quotes?  Take information in a form and display it?
+* [Motivational Quotation Generator](https://github.com/masonfmatthews/rails_assignments/tree/master/assignments/motivational_quotations)
 
 ## Tuesday
 
@@ -47,14 +47,14 @@ Students should be comfortable with the following at the end of this week:
 
 #### Assignment
 
-* Build a Rails app to tell you how much money you have right now.  Data table of transactions. Simple edit/create forms. Display total amount on index page.
+* [Wallet](https://github.com/masonfmatthews/rails_assignments/tree/master/assignments/wallet)
 
 ## Wednesday
 
 #### Lecture
 
 * Assignment Review
-* W: Params in Depth ; Heroku and the value of Shipping It
+* W: Params in Depth ; More Bourbon and Neat; Heroku and the value of Shipping It
 
 #### Reading
 
@@ -62,7 +62,7 @@ Students should be comfortable with the following at the end of this week:
 
 #### Assignment
 
-* ... ??? ... but whatever it is, put it on Heroku!
+* [Merging Apps and Heroku Deployments](https://github.com/masonfmatthews/rails_assignments/tree/master/assignments/heroku_deployments) - AS PAIRS
 
 ## Thursday
 
