@@ -52,7 +52,7 @@ This is a short lecture day.  Much of the day will be taken up by administrative
 
 #### Assignment
 
-* [Create Instructions for Battleship](https://github.com/masonfmatthews/rails_assignments/tree/master/assignments/battleship-instructions)
+* [Create Instructions for Battleship](https://github.com/masonfmatthews/rails_assignments/tree/master/assignments/battleship_instructions)
 
 ## Tuesday
 
@@ -86,7 +86,7 @@ This is a short lecture day.  Much of the day will be taken up by administrative
 
 #### Assignment
 
-* [Number Guessing Game](https://github.com/masonfmatthews/rails_assignments/tree/master/assignments/number-guessing)
+* [Number Guessing Game](https://github.com/masonfmatthews/rails_assignments/tree/master/assignments/number_guessing)
 
 ## Wednesday
 
@@ -115,7 +115,7 @@ This is a short lecture day.  Much of the day will be taken up by administrative
 
 #### Assignment
 
-* [Battleship Objects](https://github.com/masonfmatthews/rails_assignments/tree/master/assignments/battleship-objects)
+* [Battleship Objects](https://github.com/masonfmatthews/rails_assignments/tree/master/assignments/battleship_objects)
 
 ## Thursday
 
