@@ -11,7 +11,6 @@ Students should be comfortable with the following at the end of this week:
 * Authentication
 * Controller and Integration Testing
 * REST
-* Intermediate Heroku
 
 ## Monday
 
@@ -19,8 +18,10 @@ Students should be comfortable with the following at the end of this week:
 
 * Project Review
 * Human Learning:
-  *
-* Diagram:
+  * Scarring with age
+  * Good scarring example: Saving hardest things for last sucks
+  * Bad scarring example: Millenials are lazy.  Taking risks on products costs too much money.
+* Diagram: Topological map of scarring
 
 #### Reading
 
@@ -28,7 +29,7 @@ Students should be comfortable with the following at the end of this week:
 
 #### Assignment
 
-*
+* Write a TON of Integration tests on your weekend's assignment - AS PAIRS
 
 ## Tuesday
 
@@ -42,7 +43,7 @@ Students should be comfortable with the following at the end of this week:
 
 #### Assignment
 
-*
+* Take an existing codebase and make partials and helpers?
 
 ## Wednesday
 
@@ -56,7 +57,7 @@ Students should be comfortable with the following at the end of this week:
 
 #### Assignment
 
-*
+* Roll-your-own Auth on a simple gradebook project?
 
 ## Thursday
 
@@ -66,4 +67,4 @@ Students should be comfortable with the following at the end of this week:
 
 ## Weekend Assignment - As Pairs
 
-[Education]
+[Concept Gradebook](https://github.com/masonfmatthews/rails_assignments/tree/master/projects/concept_gradebook)

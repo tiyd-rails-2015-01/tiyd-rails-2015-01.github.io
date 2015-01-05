@@ -16,11 +16,11 @@ Students should be comfortable with the following at the end of this week:
 #### Lecture
 
 * Project Review
-* Human Learning:
-  * Scarring with age
-  * Good scarring example: Saving hardest things for last sucks
-  * Bad scarring example: Millenials are lazy.  Taking risks on products costs too much money.
-* Diagram: Topological map of scarring
+* Human Learning
+  * Data 1st vs. Behavior 1st (Thinking in Nouns vs. Verbs)
+  * Example site of Data 1st: TODO
+  * Example site of Behavior 1st: TODO
+* Diagrams: Data model and site map
 
 * M: Psych (Scarring) ; Data Structure Design ; Design Examples*
 

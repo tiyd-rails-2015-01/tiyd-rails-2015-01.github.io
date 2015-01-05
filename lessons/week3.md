@@ -22,6 +22,7 @@ Students should be comfortable with the following at the end of this week:
   * Immerse yourself in the culture.
   * Read some every day.
   * Ruby Rogues and Ruby Weekly.
+  * The dark side: Dissecting a book vs drinking from a fire hydrant
 * Diagram: Developer spectrum.  Hammer-user all the way to shiny-object
 
 * M: Psych (Culture) ; HTML Forms and Verbs ; MVC ; Rails Intro w/o models

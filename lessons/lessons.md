@@ -21,14 +21,14 @@
 
 ## Week 4 (Rails: Controllers and Views)
 
-* M: Psych (Data 1st vs Behavior 1st Thinking) ; MVC Recap ; Sessions
-* T: Integration Testing ; Routing ; REST
-* W: Heroku ; Heroku*
-* Th: Authentication ; Int Testing
+* M: Psych (Scarring) ; MVC Recap ; Integration Testing
+* T: Helpers and Partials ; REST and Routes
+* W: Sessions ; Authentication
+* Th: Authorization ; More Int Testing
 
 ## Week 5 (Rails: Database and Models)
 
-* M: Psych (Scarring) ; Data Structure Design ; Design Examples*
+* M: Psych (Data 1st vs Behavior 1st Thinking) ; Data Structure Design ; Design Examples*
 * T: Normalization ; SQL*
 * W: Active Record ; Relationships ; Scopes and Delegation
 * Th: AREL ; AREL* ; Indices
