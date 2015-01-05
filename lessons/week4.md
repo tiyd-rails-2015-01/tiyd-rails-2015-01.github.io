@@ -65,3 +65,5 @@ Students should be comfortable with the following at the end of this week:
 * Assignment Review
 
 ## Weekend Assignment - As Pairs
+
+[Education]
