@@ -9,6 +9,7 @@ Students should be comfortable with the following at the end of this week:
 * Rails and MVC (cont'd)
 * Session
 * Authentication
+* Authorization
 * Controller and Integration Testing
 * REST
 
@@ -23,19 +24,22 @@ Students should be comfortable with the following at the end of this week:
   * Bad scarring example: Millenials are lazy.  Taking risks on products costs too much money.
 * Diagram: Topological map of scarring
 
+* MVC Recap ; Integration Testing
+
 #### Reading
 
 *
 
 #### Assignment
 
-* Write a TON of Integration tests on your weekend's assignment - AS PAIRS
+* [Integration Testing and Coverage](https://github.com/masonfmatthews/rails_assignments/tree/master/assignments/integration_testing_and_coverage)
 
 ## Tuesday
 
 #### Lecture
 
 * Assignment Review
+* Helpers and Partials ; REST and Routes
 
 #### Reading
 
@@ -43,13 +47,14 @@ Students should be comfortable with the following at the end of this week:
 
 #### Assignment
 
-* Take an existing codebase and make partials and helpers?
+* [Student Awards](https://github.com/masonfmatthews/rails_assignments/tree/master/assignments/student_awards)
 
 ## Wednesday
 
 #### Lecture
 
 * Assignment Review
+* Sessions ; Authentication
 
 #### Reading
 
@@ -57,13 +62,14 @@ Students should be comfortable with the following at the end of this week:
 
 #### Assignment
 
-* Roll-your-own Auth on a simple gradebook project?
+* [Simple Authentication](https://github.com/masonfmatthews/rails_assignments/tree/master/assignments/simple_authentication)
 
 ## Thursday
 
 #### Lecture
 
 * Assignment Review
+* Authorization ; More Int Testing
 
 ## Weekend Assignment - As Pairs
 
