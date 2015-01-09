@@ -22,7 +22,7 @@ Students should be comfortable with the following at the end of this week:
   * Example site of Behavior 1st: TODO
 * Diagrams: Data model and site map
 
-* M: Psych (Scarring) ; Data Structure Design ; Design Examples*
+* M: Psych (Technical Debt) ; Data Structure Design ; Design Examples*
 
 #### Reading
 
@@ -71,4 +71,4 @@ Students should be comfortable with the following at the end of this week:
 
 ## Weekend Assignment - As Pairs
 
-[Online Constituent Voting](https://github.com/masonfmatthews/rails_assignments/tree/master/projects/health_tracker)
+[Survey Opossum](https://github.com/tiyd-rails-2015-01/survey_opossum)

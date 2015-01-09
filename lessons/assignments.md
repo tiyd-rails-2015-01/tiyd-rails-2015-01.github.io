@@ -5,10 +5,10 @@
 * W1: Battleship (Greenfield, but with test suite)
 * W2: Google Scholar Screen Scraper (From existing - broken, non-OO codebase)
 * W3: Health Tracker - Activities and calories. (Greenfield)
-* W4: Online Voting - Congressperson who really wants to be representative. (Greenfield)
-* W5: Education - Software for teaching high school classes. (Greenfield; Cross-course)
-* W6: Transportation?  Ride Sharing? - [JS, AJAX] - Start with high-debt, flat, boring app, make it awesome with OO and JS? (From existing - working)
-* W7: Social - Facebook killer.  Take a ticket, build a feature. (From existing)
+* W4: Education - Software for teacher/student/parent interaction. (Greenfield)
+* W5: Survey Opossum - Survey builder.  (Greenfield; cross-class)
+* W6: Online Voting - Congressperson who really wants to be representative. (Greenfield)
+* W7: Social - Facebook killer. (From existing; Take a ticket, build a feature)
 * W8: Big(-ish) Data - Your own API merging 2 public data sets.  (Greenfield)
 
 # Clinton's Old Assignments
@@ -51,12 +51,6 @@
 * Weekend: Oct 16th?
 
 ### Week 6 (Rails: JavaScript)
-
-* Rails and MVC (cont'd)
-* Asset Pipeline
-* JavaScript
-* JQuery
-* JSON
 
 * M: [Finish Weekend Assignment](https://basecamp.com/1940253/projects/7003793/messages/32627688)
 * T: [User Verification in Question Box](https://basecamp.com/1940253/projects/7003793/messages/32672744)
