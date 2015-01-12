@@ -28,8 +28,10 @@ This is a short lecture day.  Much of the day will be taken up by administrative
   <!-- You'll be giving the TA daily reports on where you are in the zones. -->
   <!-- 1-6 for lecture, 1-6 for assignment, # of hours for assignment. -->
 * Diagram: Three Concentric Zones
+* Daily schedule
+* Types of assignments
+* Ruby History?
 * Instructions - PB & J
-* Ruby History
 * Control Flow
   * PB & J for the entire class.  Use a while, maybe an if.
   * if/else
