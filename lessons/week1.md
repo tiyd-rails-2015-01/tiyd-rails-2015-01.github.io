@@ -54,7 +54,7 @@ This is a short lecture day.  Much of the day will be taken up by administrative
 
 #### Assignment
 
-* [Create Instructions for Battleship](https://github.com/masonfmatthews/rails_assignments/tree/master/assignments/battleship_instructions)
+* [Create Instructions for Battleship](https://github.com/tiyd-rails-2015-01/battleship_instructions)
 
 ## Tuesday
 
@@ -82,14 +82,19 @@ This is a short lecture day.  Much of the day will be taken up by administrative
   * .each
 * Blocks
 
+#### Notes
+
+* [Notebook Transcript](w1m.html)
+
 #### Reading
 
 * Continue [Git Immersion](http://gitimmersion.com/).  Get through Lab 20.
 
 #### Assignment
 
-* [Number Guessing Game](https://github.com/masonfmatthews/rails_assignments/tree/master/assignments/number_guessing)
+* [Number Guessing Game](https://github.com/tiyd-rails-2015-01/number_guessing)
 
+<!--
 ## Wednesday
 
 #### Lecture
@@ -135,3 +140,5 @@ This is a short lecture day.  Much of the day will be taken up by administrative
 ## Weekend Assignment - As Individuals
 
 [Battleship!!](https://github.com/masonfmatthews/rails_assignments/tree/master/projects/battleship)
+
+-->

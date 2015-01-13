@@ -24,7 +24,7 @@ You'll need to complete all of these steps before January 12th.  If you have ANY
 
 * [Syllabus](/syllabus/)
 * Lessons and Assignments
-  * Week 1
+  * [Week 1](/lessons/week1.html)
   * Week 2
   * Week 3
   * Week 4
