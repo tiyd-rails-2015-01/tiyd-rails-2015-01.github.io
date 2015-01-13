@@ -11,7 +11,6 @@ Students should be comfortable with the following at the end of this week:
 * Object Oriented Principles
 * Ruby Basics
 * Data Structures
-* Debugging Basics
 * Git and Github
 
 ## Monday
