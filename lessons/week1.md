@@ -48,6 +48,11 @@ This is a short lecture day.  Much of the day will be taken up by administrative
 * Exercise: Print out all the numbers between 1 and 100 which are divisible by 5.  Use a while, an if, and a variable.
 * Markdown
 
+#### Notes
+
+* [Notebook Transcript](w1m.html)
+* [Our First PB&J Instructions](w1m_pbj.md)
+
 #### Reading
 
 * Begin [Git Immersion](http://gitimmersion.com/).  Complete Labs 1 through 10.
@@ -81,11 +86,6 @@ This is a short lecture day.  Much of the day will be taken up by administrative
   * Ranges
   * .each
 * Blocks
-
-#### Notes
-
-* [Notebook Transcript](w1m.html)
-* [Our First PB&J Instructions](w1m_pbj.md)
 
 #### Reading
 
