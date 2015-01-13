@@ -85,6 +85,7 @@ This is a short lecture day.  Much of the day will be taken up by administrative
 #### Notes
 
 * [Notebook Transcript](w1m.html)
+* [Our First PB&J Instructions](w1m_pbj.md)
 
 #### Reading
 
