@@ -126,6 +126,10 @@ This is a short lecture day.  Much of the day will be taken up by administrative
 #### Notes
 
 * [Screenshot of 3 Classes](w1-3/screenshot.png)
+* Classes from class (ha ha):
+  * [Human](w1-3/human.rb)
+  * [Phone](w1-3/phone.rb)
+  * [Code that makes humans and phones](w1-3/w1wb.rb)
 
 #### Assignment
 
