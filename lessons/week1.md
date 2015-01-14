@@ -47,8 +47,8 @@ This is a short lecture day.  Much of the day will be taken up by administrative
 
 #### Notes
 
-* [Notebook Transcript](w1m.html)
-* [Our First PB&J Instructions](w1m_pbj.md)
+* [Notebook Transcript](w1-1/w1m.html)
+* [Our First PB&J Instructions](w1-1/w1m_pbj.md)
 
 #### Reading
 
@@ -74,8 +74,8 @@ This is a short lecture day.  Much of the day will be taken up by administrative
 <!-- * Exercise: [My First Git Repo](https://github.com/masonfmatthews/rails_assignments/tree/master/exercises/my_first_git_repo) -->
 * Functions
   * Return values vs side effects (including puts)
-* Example: Monkeys Jumping on the Bed.  Then Storybots Jumping on the Bed.  Then get rid of the "and."
-* puts and gets
+* Example: Monkeys Jumping on the Bed.  Then Storybots Jumping on the Bed.  Then take care of differences in the last verse.
+* gets
 * Exercise: [Random Number in a Range](https://github.com/masonfmatthews/rails_assignments/tree/master/exercises/random_in_range)
 * Data Structures
   * Arrays
@@ -96,6 +96,7 @@ This is a short lecture day.  Much of the day will be taken up by administrative
 
 * Homework review
   * Talk about next, break, return, and exit
+  * [Not entering your password into git for every push](https://help.github.com/articles/caching-your-github-password-in-git/)
 * More on previous topics:
   * Talk about Ranges and how they were used in the assignment
   * Array Example: Keeping track of all the names in class
@@ -113,6 +114,7 @@ This is a short lecture day.  Much of the day will be taken up by administrative
   * What are classes?
     * Blueprints for objects
 * Example: [Albums and Artists](https://github.com/masonfmatthews/rails_assignments/tree/master/exercises/albums_and_artists)
+  * Demonstrate how to put two classes in two different files.
 * Exercise: [Employees and Departments](https://github.com/masonfmatthews/rails_assignments/tree/master/exercises/employees_and_departments)
 * Surprise: everything in Ruby is an object!
   * All functions are actually methods on classes
@@ -121,9 +123,9 @@ This is a short lecture day.  Much of the day will be taken up by administrative
 * Exploration: Start with Float object.  Explore superclasses and classes.
 * Primer on Koans
 
-#### Reading
+#### Notes
 
-* Start [Ruby Koans](http://rubykoans.com/).  Work through `about_symbols.rb`.
+* [Screenshot of 3 Classes](w1-3/screenshot.png)
 
 #### Assignment
 
@@ -132,6 +134,7 @@ This is a short lecture day.  Much of the day will be taken up by administrative
 <!--
 Still haven't done:
 * git branching
+* .gitignore
 * Symbols
 * .reduce, .select, .reject
 * Trying to change an array in an outer scope inside a called function.

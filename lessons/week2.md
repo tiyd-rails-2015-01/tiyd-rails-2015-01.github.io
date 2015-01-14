@@ -40,6 +40,10 @@ Students should be comfortable with the following at the end of this week:
 
 #### Reading
 
+* Start [Ruby Koans](http://rubykoans.com/).  Work through `about_symbols.rb`.
+
+#### Reading
+
 * Work on Ruby Koans through `about_triangle_project.rb`
 
 #### Assignment
