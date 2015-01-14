@@ -43,8 +43,6 @@ This is a short lecture day.  Much of the day will be taken up by administrative
   * other numbers
   * dates
   * date/times
-  * symbols
-* Exercise: Print out all the numbers between 1 and 100 which are divisible by 5.  Use a while, an if, and a variable.
 * Markdown
 
 #### Notes
@@ -65,6 +63,7 @@ This is a short lecture day.  Much of the day will be taken up by administrative
 #### Lecture
 
 * Homework review
+* Terminal
 * Git
   * Files and folders
   * Versions over time
@@ -72,7 +71,7 @@ This is a short lecture day.  Much of the day will be taken up by administrative
   * Add, Commit, Push
   * Good commit messages
   * Branching
-* Exercise: [My First Git Repo](https://github.com/masonfmatthews/rails_assignments/tree/master/exercises/my_first_git_repo)
+<!-- * Exercise: [My First Git Repo](https://github.com/masonfmatthews/rails_assignments/tree/master/exercises/my_first_git_repo) -->
 * Functions
   * Return values vs side effects (including puts)
 * Example: Monkeys Jumping on the Bed.  Then Storybots Jumping on the Bed.  Then get rid of the "and."
@@ -80,9 +79,6 @@ This is a short lecture day.  Much of the day will be taken up by administrative
 * Exercise: [Random Number in a Range](https://github.com/masonfmatthews/rails_assignments/tree/master/exercises/random_in_range)
 * Data Structures
   * Arrays
-  * Hashes
-  * Sets
-  * Ranges
   * .each
 * Blocks
 
@@ -94,12 +90,20 @@ This is a short lecture day.  Much of the day will be taken up by administrative
 
 * [Number Guessing Game](https://github.com/tiyd-rails-2015-01/number_guessing)
 
-<!--
 ## Wednesday
 
 #### Lecture
 
 * Homework review
+  * Talk about next, break, return, and exit
+* More on previous topics:
+  * Talk about Ranges and how they were used in the assignment
+  * Array Example: Keeping track of all the names in class
+  * Use a .each, then a .map
+  * To prevent duplicates, use a Set.
+  * To keep track of things like first names and last names, use an array of hashes
+  * Do a .each, then a .map on a hash
+* Break
 * Object Oriented Programming
   * What are objects?
     * State and behavior
@@ -115,6 +119,7 @@ This is a short lecture day.  Much of the day will be taken up by administrative
 * Object Oriented Programming
   * Inheritance
 * Exploration: Start with Float object.  Explore superclasses and classes.
+* Primer on Koans
 
 #### Reading
 
@@ -122,7 +127,14 @@ This is a short lecture day.  Much of the day will be taken up by administrative
 
 #### Assignment
 
-* [Battleship Objects](https://github.com/masonfmatthews/rails_assignments/tree/master/assignments/battleship_objects)
+* [Battleship Objects](https://github.com/tiyd-rails-2015-01/battleship_objects)
+
+<!--
+Still haven't done:
+* git branching
+* Symbols
+* .reduce, .select, .reject
+* Trying to change an array in an outer scope inside a called function.
 
 ## Thursday
 
