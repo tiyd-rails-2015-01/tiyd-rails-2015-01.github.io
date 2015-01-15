@@ -140,13 +140,6 @@ This is a short lecture day.  Much of the day will be taken up by administrative
 #### Lecture
 
 * Homework review
-* More on previous topics:
-  * git
-  * Good commit messages
-  * [Not entering your password into git for every push](https://help.github.com/articles/caching-your-github-password-in-git/)
-  * Hashes and Symbols (mini-lecture?)
-  * [Super-simple Search](https://github.com/masonfmatthews/rails_assignments/tree/master/exercises/super_simple_search)
-  * [Sorta-simple Search](https://github.com/masonfmatthews/rails_assignments/tree/master/exercises/sorta_simple_search)
 * Mac spaces
 * Inheritance <!-- Need additional example here for next time -->
 * Exploration: Start with Float object.  Explore superclasses and classes.
@@ -158,13 +151,26 @@ This is a short lecture day.  Much of the day will be taken up by administrative
   * MiniTest
   * Unit testing on models.
 * Example: [Parental Test](https://github.com/masonfmatthews/rails_assignments/tree/master/exercises/parental_test)
+<!-- Parental Test was awful. -->
 * Exercise: [OddArray](https://github.com/tiyd-rails-2015-01/odd_array)
 
-## Notes
+#### Notes
 
 * [Example of defining something twice](w1-4/double_def.rb)
 * [Parental Test Solution](w1-4/human_genome.rb)
 * [Player class trying to avoid inheritance](w1-4/player.rb)
+
+## Friday
+
+#### Mini-lecture
+
+* More on previous topics:
+  * git
+  * Good commit messages
+  * [Not entering your password into git for every push](https://help.github.com/articles/caching-your-github-password-in-git/)
+  * Hashes and Symbols (mini-lecture?)
+  * [Super-simple Search](https://github.com/masonfmatthews/rails_assignments/tree/master/exercises/super_simple_search)
+  * [Sorta-simple Search](https://github.com/masonfmatthews/rails_assignments/tree/master/exercises/sorta_simple_search)
 
 ## Weekend Assignment - As Individuals
 
