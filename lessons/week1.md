@@ -147,7 +147,8 @@ This is a short lecture day.  Much of the day will be taken up by administrative
   * Hashes and Symbols (mini-lecture?)
   * [Super-simple Search](https://github.com/masonfmatthews/rails_assignments/tree/master/exercises/super_simple_search)
   * [Sorta-simple Search](https://github.com/masonfmatthews/rails_assignments/tree/master/exercises/sorta_simple_search)
-* Inheritance
+* Mac spaces
+* Inheritance <!-- Need additional example here for next time -->
 * Exploration: Start with Float object.  Explore superclasses and classes.
 * Exercise: [National Expressions](https://github.com/masonfmatthews/rails_assignments/tree/master/exercises/national_expressions)
 * Surprise: everything in Ruby is an object!
@@ -157,7 +158,13 @@ This is a short lecture day.  Much of the day will be taken up by administrative
   * MiniTest
   * Unit testing on models.
 * Example: [Parental Test](https://github.com/masonfmatthews/rails_assignments/tree/master/exercises/parental_test)
-* Exercise: [OddArray](https://github.com/masonfmatthews/rails_assignments/tree/master/exercises/odd_array)
+* Exercise: [OddArray](https://github.com/tiyd-rails-2015-01/odd_array)
+
+## Notes
+
+* [Example of defining something twice](w1-4/double_def.rb)
+* [Parental Test Solution](w1-4/human_genome.rb)
+* [Player class trying to avoid inheritance](w1-4/player.rb)
 
 ## Weekend Assignment - As Individuals
 
@@ -166,8 +173,10 @@ This is a short lecture day.  Much of the day will be taken up by administrative
 
 <!--
 Still haven't done:
+* Removing incorrectly forked git repo
 * git branching
 * .gitignore
+* .map
 * .reduce, .select, .reject
 * Trying to change an array in an outer scope inside a called function.
 * Modules
