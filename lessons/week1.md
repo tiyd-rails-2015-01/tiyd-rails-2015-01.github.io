@@ -145,6 +145,8 @@ This is a short lecture day.  Much of the day will be taken up by administrative
   * Good commit messages
   * [Not entering your password into git for every push](https://help.github.com/articles/caching-your-github-password-in-git/)
   * Hashes and Symbols (mini-lecture?)
+  * [Super-simple Search](https://github.com/masonfmatthews/rails_assignments/tree/master/exercises/super_simple_search)
+  * [Sorta-simple Search](https://github.com/masonfmatthews/rails_assignments/tree/master/exercises/sorta_simple_search)
 * Inheritance
 * Exploration: Start with Float object.  Explore superclasses and classes.
 * Exercise: [National Expressions](https://github.com/masonfmatthews/rails_assignments/tree/master/exercises/national_expressions)
