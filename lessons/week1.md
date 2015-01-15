@@ -46,7 +46,7 @@ This is a short lecture day.  Much of the day will be taken up by administrative
   * Dates
   * Datetimes
 * Logical Statements
-  * && and ||
+  * Concepts of and and or
   * == vs =
 * Markdown
 
