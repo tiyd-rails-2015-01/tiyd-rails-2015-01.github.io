@@ -14,11 +14,15 @@ Students should be comfortable with the following at the end of this week:
 * HTML
 * CSS
 
-## Monday
+## Tuesday
 
 #### Lecture
 
 * Project Review
+  * Good commit messages
+  * [Not entering your password into git for every push](https://help.github.com/articles/caching-your-github-password-in-git/)
+  * Removing incorrectly forked git repo
+  * Show how easy refactoring is with good tests.  Perhaps turn a loop into a .any? or .all?
 * Human Learning: agile development practices
   * Iterate (this gets back to feedback cycles).
   * Build fully-functional apps during each iteration.
@@ -29,28 +33,50 @@ Students should be comfortable with the following at the end of this week:
     * Send sale e-mails
   * Pair programming (this gets back to feedback cycles)
 * Diagram: Feedback cycles of escalating size
+* Enumerable methods:
+  * .each
+  * .map
+  * .select / .reject
+  * .all? / .any?
+  * .reduce
+  * Do a .each, then a .map on a hash
+* Inline blocks (e.g. `array.map {|a| a.class }`)
+* Parameter passing without parentheses
+* Returning objects when true/false is expected
+* Methods ending in !
+* (Break)
+* Exercise: ??? [Celebrity Couple Names](https://github.com/masonfmatthews/rails_assignments/tree/master/exercises/celebrity_couple_names)
 * OO
   * Composition
   * Roles via modules
   * public vs private
-* Exercise:
+* Other uses of modules
+* Example:
 * Test-driven development
 * Example:
-* Exercise: Write tests for a class that doesn't exist yet.  Perhaps a class that ... TODO.
+* Exercise: [Employees and Departments](https://github.com/masonfmatthews/rails_assignments/tree/master/exercises/employees_and_departments)
+* Primer on Koans
 
 #### Reading
 
-* Start [Ruby Koans](http://rubykoans.com/).  Work through `about_symbols.rb`.
-
-#### Reading
-
-* Work on Ruby Koans through `about_triangle_project.rb`
+* Start [Ruby Koans](http://rubykoans.com/).  Work through `about_strings.rb`.
 
 #### Assignment
 
-* [Currency](https://github.com/masonfmatthews/rails_assignments/tree/master/assignments/currency)
+* [Currency](https://github.com/tiyd-rails-2015-01/currency)
 
-## Tuesday
+
+<!--
+Still haven't done:
+* git branching
+* .gitignore
+* Trying to change an array in an outer scope inside a called function.
+* Modules
+* Floating point arithmetic
+* Tell, don't ask
+* Exercise:
+
+## Wednesday
 
 #### Lecture
 
@@ -58,17 +84,17 @@ Students should be comfortable with the following at the end of this week:
 * Requiring external code
 * Gems
 * Bundler
-* Exercise???: [Celebrity Couple Names](https://github.com/masonfmatthews/rails_assignments/tree/master/exercises/celebrity_couple_names)
+* Exercise:
 
 #### Reading
 
-* Work on Ruby Koans through `about_dice_project.rb`
+* Work on Ruby Koans through `about_constants.rb`
 
 #### Assignment
 
 * [Currency Converter](https://github.com/masonfmatthews/rails_assignments/tree/master/assignments/currency_converter)
 
-## Wednesday
+## Thursday
 
 #### Lecture
 
@@ -79,13 +105,13 @@ Students should be comfortable with the following at the end of this week:
 
 #### Reading
 
-* Complete the Ruby Koans.
+* Work on Ruby Koans through `about_triangle_project_2.rb`
 
 #### Assignment
 
 * [CSS Reverse Engineering](https://github.com/masonfmatthews/rails_assignments/tree/master/assignments/css_reverse_engineering)
 
-## Thursday
+## Friday
 
 #### Lecture
 
@@ -97,3 +123,5 @@ Students should be comfortable with the following at the end of this week:
 ## Weekend Assignment - As Pairs
 
 [Google Scholar Screen Scraper](https://github.com/masonfmatthews/rails_assignments/tree/master/projects/screen_scraper)
+
+-->

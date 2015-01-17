@@ -61,7 +61,7 @@ This is a short lecture day.  Much of the day will be taken up by administrative
 
 #### Assignment
 
-* [Create Instructions for Battleship](https://github.com/tiyd-rails-2015-01/battleship_instructions)
+* [Create Instructions for Battleship](https://github.com/tiyd-rails-2015-01/battleship_instructions) <!-- Don't use in future classes -->
 
 ## Tuesday
 
@@ -133,13 +133,15 @@ This is a short lecture day.  Much of the day will be taken up by administrative
 
 #### Assignment
 
-* [Battleship Objects](https://github.com/tiyd-rails-2015-01/battleship_objects)
+* [Battleship Objects](https://github.com/tiyd-rails-2015-01/battleship_objects) <!-- Don't use in future classes -->
 
 ## Thursday
 
 #### Lecture
 
 * Homework review
+* Run code often, ideally after every change
+* Quality READMEs
 * Mac spaces
 * Inheritance <!-- Need additional example here for next time -->
 * Exploration: Start with Float object.  Explore superclasses and classes.
@@ -147,11 +149,12 @@ This is a short lecture day.  Much of the day will be taken up by administrative
 * Surprise: everything in Ruby is an object!
   * All functions are actually methods on classes
 * (Break)
+* Early returns
+* Raising exceptions
 * Testing
   * MiniTest
   * Unit testing on models.
-* Example: [Parental Test](https://github.com/masonfmatthews/rails_assignments/tree/master/exercises/parental_test)
-<!-- Parental Test was awful. -->
+* Example: [Parental Test](https://github.com/masonfmatthews/rails_assignments/tree/master/exercises/parental_test) <!-- Don't use in future classes -->
 * Exercise: [OddArray](https://github.com/tiyd-rails-2015-01/odd_array)
 
 #### Notes
@@ -165,31 +168,10 @@ This is a short lecture day.  Much of the day will be taken up by administrative
 #### Mini-lecture
 
 * More on previous topics:
-  * git
-  * Good commit messages
-  * [Not entering your password into git for every push](https://help.github.com/articles/caching-your-github-password-in-git/)
-  * Hashes and Symbols (mini-lecture?)
+  * Hashes and Symbols
   * [Super-simple Search](https://github.com/masonfmatthews/rails_assignments/tree/master/exercises/super_simple_search)
   * [Sorta-simple Search](https://github.com/masonfmatthews/rails_assignments/tree/master/exercises/sorta_simple_search)
 
 ## Weekend Assignment - As Individuals
 
 [Battleship!!](https://github.com/tiyd-rails-2015-01/battleship)
-
-
-<!--
-Still haven't done:
-* Removing incorrectly forked git repo
-* git branching
-* .gitignore
-* .map
-* .reduce, .select, .reject
-* Trying to change an array in an outer scope inside a called function.
-* Modules
-* Floating point arithmetic
-* Primer on Koans
-* Tell, don't ask
-* Do a .each, then a .map on a hash
-* Exercise: [My First Git Repo](https://github.com/masonfmatthews/rails_assignments/tree/master/exercises/my_first_git_repo)
-* Exercise: [Employees and Departments](https://github.com/masonfmatthews/rails_assignments/tree/master/exercises/employees_and_departments)
--->

@@ -2,3 +2,4 @@
 
 * Consider trying to start each day with exercises rather than homework review?
 * Consider whether git should be taught so early?
+* All four assignments in week 1 should be code assignments.  Don't do instructions or make-objects.

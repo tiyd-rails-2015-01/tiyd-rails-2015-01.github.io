@@ -29,7 +29,7 @@ Students should be comfortable with the following at the end of this week:
 
 #### Reading
 
-*
+* Work on Ruby Koans through `about_dice_project.rb`
 
 #### Assignment
 
@@ -44,7 +44,7 @@ Students should be comfortable with the following at the end of this week:
 
 #### Reading
 
-*
+* Complete Ruby Koans!
 
 #### Assignment
 
