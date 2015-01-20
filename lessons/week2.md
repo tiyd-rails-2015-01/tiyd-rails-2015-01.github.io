@@ -72,7 +72,7 @@ Still haven't done:
     * Send sale e-mails
   * Pair programming (this gets back to feedback cycles)
 
-
+* debugging
 * git branching
 * .gitignore
 * git pull
