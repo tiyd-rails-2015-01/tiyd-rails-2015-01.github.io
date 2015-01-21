@@ -25,7 +25,8 @@ Students should be comfortable with the following at the end of this week:
 
 #### Reading
 
-*
+* Eloquent JavaScript
+* [JavaScript Garden](https://bonsaiden.github.io/JavaScript-Garden/)
 
 #### Assignment
 
