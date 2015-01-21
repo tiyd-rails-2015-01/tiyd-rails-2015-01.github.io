@@ -55,17 +55,21 @@ Students should be comfortable with the following at the end of this week:
 #### Lecture
 
 * Assignment and Koans Review
+  * Examples of commit messages
+  * Order matters on operations like * when the two objects are of different classes
 * OO
-  * public vs private
   * Inheritance: is-a (players)
   * Composition: has-a (odd array)
   * Roles via modules: acts-like-a (enumerable)
-* Example: Americans and Germans as subclasses of Human.  But what if fathers have certain behavior (e.g. show_off_baby_picture)?
+* Example: Animals with Cat, Dog, Human subclasses.  Only cats and dogs can wag tails.  Modules are better than having Cat and Dog inherit from TailedAnimals because you might need to add FourLegged behavior later, and then what about kangaroos?
+* OO: public vs private
+* Example: Jess is a Builder.  We don't want to micromanage her and tell her HOW to build the house; we just want to tell her to build it and let her figure out the details.
 * Use of modules for namespacing
-* Example: Bass.
-  * Fish vs. instrument.
-  * maximum_length method
-  * phylum chordata
+* Example: IronYard module with Instructor and Student classes.  Iron Yard students don't sleep, but a Student outside the module does.
+* Exercise: Bass.
+  * Make two classes with the same name.  One for the fish and one for the orchestral instrument.
+  * Each should have a maximum_length method, but they should return different things
+  * You should also be able to call Fish::PHYLUM and get back "Chordata"
 * Exercise: Date class.
   * Calories method/instance variable.  
   * Flavor method.  Return a string that's the same every time.
@@ -76,6 +80,12 @@ Students should be comfortable with the following at the end of this week:
 * Bundler
 * Exercise: install pry, add binding.pry to your Currency code.
 * debugging
+
+#### Notes
+
+* [Modules for Including Behavior](w2-2/modules.rb)
+* [Private Methods](w2-2/modules2.rb)
+* [Modules for Namespacing](w2-2/modules3.rb)
 
 #### Reading
 
