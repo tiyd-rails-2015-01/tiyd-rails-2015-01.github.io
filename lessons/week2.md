@@ -86,27 +86,6 @@ Students should be comfortable with the following at the end of this week:
 * [Currency Converter](https://github.com/tiyd-rails-2015-01/currency_converter)
 
 <!--
-Still haven't done:
-* Returning objects when true/false is expected
-* Methods ending in !
-* Exercise: ??? [Employees and Departments](https://github.com/masonfmatthews/rails_assignments/tree/master/exercises/employees_and_departments)
-* Human Learning: agile development practices
-  * Iterate (this gets back to feedback cycles).
-  * Build fully-functional apps during each iteration.
-  * Example: Build an ecommerce site for T-shirts.  You know you want it to:
-    * Accept credit card payments from customers
-    * Allow orders to be made for specific size and color of shirts
-    * Allow color/size combos to be marked as out-of-stock
-    * Send sale e-mails
-  * Pair programming (this gets back to feedback cycles)
-  * Diagram: Feedback cycles of escalating size
-* git branching
-* .gitignore
-* git pull
-* Trying to change an array in an outer scope inside a called function.
-* Floating point arithmetic
-* Tell, don't ask
-
 ## Thursday
 
 #### Lecture
@@ -122,19 +101,41 @@ Still haven't done:
 
 #### Assignment
 
-* [CSS Reverse Engineering](https://github.com/masonfmatthews/rails_assignments/tree/master/assignments/css_reverse_engineering)
+* [CSS Reverse Engineering](https://github.com/tiyd-rails-2015-01/css_reverse_engineering)
 
 ## Friday
 
 #### Lecture
 
 * Assignment and Koans Review
-* SCSS
-* Bourbon?  Neat?
+* Human Learning: agile development practices
+  * Iterate (this gets back to feedback cycles).
+  * Build fully-functional apps during each iteration.
+  * Example: Build an ecommerce site for T-shirts.  You know you want it to:
+    * Accept credit card payments from customers
+    * Allow orders to be made for specific size and color of shirts
+    * Allow color/size combos to be marked as out-of-stock
+    * Send sale e-mails
+  * Pair programming (this gets back to feedback cycles)
+  * Diagram: Feedback cycles of escalating size
+* git branching
+* .gitignore
+* git pull
 * Pair Programming Details
+* Exercise: Pair on NILM example
+* SCSS
+* Bourbon
 
 ## Weekend Assignment - As Pairs
 
-[Google Scholar Screen Scraper](https://github.com/masonfmatthews/rails_assignments/tree/master/projects/screen_scraper)
+[Google Scholar Screen Scraper](https://github.com/tiyd-rails-2015-01/screen_scraper)
 
+<!--
+Still haven't done:
+* Returning objects when true/false is expected
+* Methods ending in !
+* Exercise: ??? [Employees and Departments](https://github.com/masonfmatthews/rails_assignments/tree/master/exercises/employees_and_departments)
+* Trying to change an array in an outer scope inside a called function.
+* Floating point arithmetic
+* Tell, don't ask
 -->

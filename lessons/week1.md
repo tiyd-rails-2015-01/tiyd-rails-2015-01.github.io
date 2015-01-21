@@ -73,7 +73,7 @@ This is a short lecture day.  Much of the day will be taken up by administrative
 * gets
 * Methods
   * Return values vs side effects (including puts)
-* Example: Monkeys Jumping on the Bed.  Then take care of differences in the last verse (e.g. "it fell off" instead of "one fell off").  Then Storybots Jumping on the Bed.  Then only show the "and" for certain ways of singing the song.
+* Example: [Five Monkeys](https://github.com/masonfmatthews/rails_assignments/tree/master/exercises/monkeys_jumping_on_the_bed)
 * Exercise: [Random Number in a Range (Fish Story)](https://github.com/masonfmatthews/rails_assignments/tree/master/exercises/random_in_range)
 * Data Structures
   * Arrays
