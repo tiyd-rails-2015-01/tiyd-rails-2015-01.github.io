@@ -116,6 +116,7 @@ This is a short lecture day.  Much of the day will be taken up by administrative
     * Behavior = methods
   * What are classes?
     * Blueprints for objects
+* Example: Humans and cell phones.  See files in notes below.
 * Encapsulation
 * Duck typing
 * require
@@ -125,7 +126,7 @@ This is a short lecture day.  Much of the day will be taken up by administrative
 #### Notes
 
 * [Screenshot of three files at once](w1-3/screenshot.png)
-* Files from class (ha ha):
+* Files from class:
   * [Human class](w1-3/human.rb)
   * [Phone class](w1-3/phone.rb)
   * [Code that makes humans and phones](w1-3/w1wb.rb)
