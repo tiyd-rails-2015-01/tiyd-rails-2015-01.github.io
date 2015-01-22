@@ -93,7 +93,7 @@ Students should be comfortable with the following at the end of this week:
 
 * [Currency Converter](https://github.com/tiyd-rails-2015-01/currency_converter)
 
-<!--
+
 ## Thursday
 
 #### Lecture
@@ -103,14 +103,28 @@ Students should be comfortable with the following at the end of this week:
 * Exercise: Build an HTML page that says something about you.
 * CSS
 
+#### Notes
+
+* [Codepen](http://codepen.io)
+* [Is it Christmas](http://isitchristmas.com)
+* [How many people are in space right now](http://howmanypeopleareinspacerightnow.com)
+* [Find the Invisible Cow](http://findtheinvisiblecow.com/)
+* [Do Nothing for 2 Minutes](http://www.donothingfor2minutes.com/)
+* [Ship Your Enemies Glitter](http://shipyourenemiesglitter.com/)
+* [Google Trends](https://trends.google.com)
+* w3schools results are only okay.
+* [MDN](https://developer.mozilla.org/en-US/) results are awesome.
+
 #### Reading
 
-* Work on Ruby Koans through `about_triangle_project_2.rb`
+* None for now.
 
 #### Assignment
 
 * [CSS Reverse Engineering](https://github.com/tiyd-rails-2015-01/css_reverse_engineering)
 
+
+<!--
 ## Friday
 
 #### Lecture
@@ -130,9 +144,6 @@ Students should be comfortable with the following at the end of this week:
 * .gitignore
 * git pull
 * Pair Programming Details
-* Exercise: Pair on NILM example
-* SCSS
-* Bourbon
 
 ## Weekend Assignment - As Pairs
 
@@ -141,6 +152,9 @@ Students should be comfortable with the following at the end of this week:
 <!--
 Still haven't done:
 
+* Exercise: Pair on NILM example
+* SCSS
+* Bourbon
 * Monkey patching exercise: Date class.
   * Calories method/instance variable.  
   * Flavor method.  Return a string that's the same every time.
