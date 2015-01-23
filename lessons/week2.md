@@ -111,6 +111,7 @@ Students should be comfortable with the following at the end of this week:
 * [Find the Invisible Cow](http://findtheinvisiblecow.com/)
 * [Do Nothing for 2 Minutes](http://www.donothingfor2minutes.com/)
 * [Ship Your Enemies Glitter](http://shipyourenemiesglitter.com/)
+* [Akinator](http://en.akinator.com/)
 * [Google Trends](https://trends.google.com)
 * w3schools results are only okay.
 * [MDN](https://developer.mozilla.org/en-US/) results are awesome.
@@ -123,8 +124,6 @@ Students should be comfortable with the following at the end of this week:
 
 * [CSS Reverse Engineering](https://github.com/tiyd-rails-2015-01/css_reverse_engineering)
 
-
-<!--
 ## Friday
 
 #### Lecture
@@ -153,6 +152,7 @@ Students should be comfortable with the following at the end of this week:
 Still haven't done:
 
 * Exercise: Pair on NILM example
+* class methods
 * SCSS
 * Bourbon
 * Monkey patching exercise: Date class.
