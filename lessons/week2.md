@@ -112,6 +112,8 @@ Students should be comfortable with the following at the end of this week:
 * [Do Nothing for 2 Minutes](http://www.donothingfor2minutes.com/)
 * [Ship Your Enemies Glitter](http://shipyourenemiesglitter.com/)
 * [Akinator](http://en.akinator.com/)
+* [WeaveSilk](http://weavesilk.com/)
+* [Calming Websites](http://www.makeuseof.com/tag/take-a-break-10-websites-to-help-you-relax-for-two-minutes/)
 * [Google Trends](https://trends.google.com)
 * w3schools results are only okay.
 * [MDN](https://developer.mozilla.org/en-US/) results are awesome.
@@ -129,39 +131,11 @@ Students should be comfortable with the following at the end of this week:
 #### Lecture
 
 * Assignment and Koans Review
-* Human Learning: agile development practices
-  * Iterate (this gets back to feedback cycles).
-  * Build fully-functional apps during each iteration.
-  * Example: Build an ecommerce site for T-shirts.  You know you want it to:
-    * Accept credit card payments from customers
-    * Allow orders to be made for specific size and color of shirts
-    * Allow color/size combos to be marked as out-of-stock
-    * Send sale e-mails
-  * Pair programming (this gets back to feedback cycles)
-  * Diagram: Feedback cycles of escalating size
 * git branching
-* .gitignore
 * git pull
 * Pair Programming Details
+* Mocking for tests (even if we didn't call it that)
 
 ## Weekend Assignment - As Pairs
 
 [Google Scholar Screen Scraper](https://github.com/tiyd-rails-2015-01/screen_scraper)
-
-<!--
-Still haven't done:
-
-* Exercise: Pair on NILM example
-* class methods
-* SCSS
-* Bourbon
-* Monkey patching exercise: Date class.
-  * Calories method/instance variable.  
-  * Flavor method.  Return a string that's the same every time.
-  * Create a few dates.
-  * Now call `Date.today.flavor`.
-* Returning objects when true/false is expected
-* Exercise: ??? [Employees and Departments](https://github.com/masonfmatthews/rails_assignments/tree/master/exercises/employees_and_departments)
-* Trying to change an array in an outer scope inside a called function.
-* Floating point arithmetic
--->

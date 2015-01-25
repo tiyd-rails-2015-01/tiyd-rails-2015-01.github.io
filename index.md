@@ -26,7 +26,7 @@ You'll need to complete all of these steps before January 12th.  If you have ANY
 * Lessons and Assignments
   * [Week 1](/lessons/week1.html)
   * [Week 2](/lessons/week2.html)
-  * Week 3
+  * [Week 3](/lessons/week3.html)
   * Week 4
   * Week 5
   * Week 6
