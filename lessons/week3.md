@@ -41,12 +41,6 @@ Students should be comfortable with the following at the end of this week:
   * .scan, .sub, .gsub
 * Human Learning: agile development practices
   * Iterate (this gets back to feedback cycles).
-  * Build fully-functional apps during each iteration.
-  * Example: Build an ecommerce site for T-shirts.  You know you want it to:
-    * Accept credit card payments from customers
-    * Allow orders to be made for specific size and color of shirts
-    * Allow color/size combos to be marked as out-of-stock
-    * Send sale e-mails
   * Pair programming (this gets back to feedback cycles)
 * Diagram: Feedback cycles of escalating size
 * Monkey Patching: Change a string to add a .to_pig_latin
@@ -79,6 +73,13 @@ Still haven't done:
 #### Lecture
 
 * Assignment Review
+* Human Learning from Yesterday:
+  * Build fully-functional apps during each iteration.
+  * Example: Build an ecommerce site for T-shirts.  You know you want it to:
+    * Accept credit card payments from customers
+    * Allow orders to be made for specific size and color of shirts
+    * Allow color/size combos to be marked as out-of-stock
+    * Send sale e-mails
 * Human Learning:
   * Immerse yourself in the culture.
   * Read some every day.
