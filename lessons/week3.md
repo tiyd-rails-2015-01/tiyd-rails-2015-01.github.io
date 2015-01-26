@@ -21,6 +21,7 @@ Students should be comfortable with the following at the end of this week:
   * Returning objects when true/false is expected
   * Keyword arguments
   * Mocking tests
+  * Gemfiles
   * .gitignore
   * Floating point arithmetic
     * 129.95*10
