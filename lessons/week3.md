@@ -23,10 +23,18 @@ Students should be comfortable with the following at the end of this week:
   * Mocking tests
   * .gitignore
   * Floating point arithmetic
-  * Params in depth
+    * 129.95*10
+    * 129.95*100
+  * Params in URLs
   * " vs '
   * Don't overdo it on instance variables
   * Regular expressions
+    * "Peter piper picked a peck of pickled peppers"[/as/]
+    * +, *, ?
+    * \w, \d, \s, and their capital (opposite) versions
+    * Capture groups and .match
+    * .scan, .sub, .gsub
+
 * Exercise: Build the simplest possible version of function that tells you whether an e-mail address is valid.  Then, if you have time, make it better.
 * Human Learning: agile development practices
   * Iterate (this gets back to feedback cycles).
@@ -40,6 +48,11 @@ Students should be comfortable with the following at the end of this week:
   * Diagram: Feedback cycles of escalating size
 * Diagram: Developer spectrum.  Hammer-user all the way to shiny-object
 * Monkey Patching: Change a string to add a .to_pig_latin
+
+#### Notes
+
+* My favorite tutorial for learning (Regular Expressions)[http://regexone.com/]
+* The best way to fiddle with Regex is (Rubular)[http://rubular.com/]
 
 #### Reading
 
