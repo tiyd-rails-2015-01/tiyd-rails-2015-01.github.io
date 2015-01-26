@@ -28,7 +28,7 @@ Students should be comfortable with the following at the end of this week:
 
 #### Reading
 
-* Continue [Git Immersion](http://gitimmersion.com/).  Get through Lab 30.
+* Continue [Git Immersion](http://gitimmersion.com/).  Get through Lab 40.
 
 #### Assignment
 

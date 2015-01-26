@@ -18,13 +18,16 @@ Students should be comfortable with the following at the end of this week:
 #### Lecture
 
 * Project Review
-  * .gitignore
   * Returning objects when true/false is expected
-  * Floating point arithmetic
+  * Keyword arguments
   * Mocking tests
+  * .gitignore
+  * Floating point arithmetic
+  * Params in depth
   * " vs '
-  * Regular expressions
   * Don't overdo it on instance variables
+  * Regular expressions
+* Exercise: Build the simplest possible version of function that tells you whether an e-mail address is valid.  Then, if you have time, make it better.
 * Human Learning: agile development practices
   * Iterate (this gets back to feedback cycles).
   * Build fully-functional apps during each iteration.
@@ -36,33 +39,22 @@ Students should be comfortable with the following at the end of this week:
   * Pair programming (this gets back to feedback cycles)
   * Diagram: Feedback cycles of escalating size
 * Diagram: Developer spectrum.  Hammer-user all the way to shiny-object
-* Exercise: Build the simplest possible version of function that tells you whether an e-mail address is valid.  Then, if you have time, make it better.
-* Rails Intro without models
-  * Motivating Example: A rails app that asks me for my time zone, then gives me the time. <!-- and maybe go back to this in future classes? -->
-* MVC
-* HTML Forms and Verbs
+* Monkey Patching: Change a string to add a .to_pig_latin
 
 #### Reading
 
 * Work on Ruby Koans through `about_triangle_project_2.rb`
+* Continue [Git Immersion](http://gitimmersion.com/).  Get through Lab 30.
 
 #### Assignment
 
-* [Motivational Quotation Generator](https://github.com/tiyd-rails-2015-01/motivational_quotations)
+* [Employee Reviews](https://github.com/tiyd-rails-2015-01/employee_reviews)
 
 <!--
 Still haven't done:
 
-* Exercise: Pair on NILM example
-* class methods
 * SCSS
 * Bourbon
-* Monkey patching exercise: Date class.
-  * Calories method/instance variable.  
-  * Flavor method.  Return a string that's the same every time.
-  * Create a few dates.
-  * Now call `Date.today.flavor`.
-* Exercise: ??? [Employees and Departments](https://github.com/masonfmatthews/rails_assignments/tree/master/exercises/employees_and_departments)
 * Trying to change an array in an outer scope inside a called function.
 
 ## Tuesday
@@ -75,6 +67,24 @@ Still haven't done:
   * Read some every day.
   * Ruby Rogues and Ruby Weekly.
   * The dark side: Dissecting a book vs drinking from a fire hydrant
+* Rails Intro without models
+  * Motivating Example: A rails app that asks me for my time zone, then gives me the time. (and maybe go back to this in future classes?)
+* MVC
+* HTML Forms and Verbs
+
+#### Reading
+
+* Work on Ruby Koans through `about_dice_project.rb`
+
+#### Assignment
+
+* [Motivational Quotation Generator](https://github.com/tiyd-rails-2015-01/motivational_quotations)
+
+## Wednesday
+
+#### Lecture
+
+* Assignment Review
 * Generators
 * Rake
 * Migrations
@@ -85,35 +95,26 @@ Still haven't done:
 
 #### Reading
 
-* Work on Ruby Koans through `about_dice_project.rb`
-
-#### Assignment
-
-* [Wallet](https://github.com/masonfmatthews/rails_assignments/tree/master/assignments/wallet)
-
-## Wednesday
-
-#### Lecture
-
-* Assignment Review
-* W: Params in Depth ; More Bourbon and Neat; Heroku and the value of Shipping It
-
-#### Reading
-
 * Complete Ruby Koans
 
 #### Assignment
 
-* [Merging Apps and Heroku Deployments](https://github.com/masonfmatthews/rails_assignments/tree/master/assignments/heroku_deployments) - AS PAIRS
+* [Wallet](https://github.com/masonfmatthews/rails_assignments/tree/master/assignments/wallet)
 
 ## Thursday
 
 #### Lecture
 
 * Assignment Review
-* Th: Working as Teams ; Git branching, merging, and conflicts
+* Hashes within Params
+* Bourbon and Neat
+* Heroku and the value of Shipping It
 
 ## Weekend Assignment - As Pairs
+
+[Merging Apps and Heroku Deployments](https://github.com/masonfmatthews/rails_assignments/tree/master/assignments/heroku_deployments) - AS PAIRS
+
+OR
 
 [Health Tracker](https://github.com/masonfmatthews/rails_assignments/tree/master/projects/health_tracker)
 
