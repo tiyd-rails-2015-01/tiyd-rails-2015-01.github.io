@@ -52,7 +52,7 @@ Students should be comfortable with the following at the end of this week:
 
 #### Notes
 
-* My favorite tutorial for learning [Regular Expressions](http://regexone.com/)
+* My favorite tutorial for learning Regular Expressions is [RegexOne](http://regexone.com/)
 * The best way to fiddle with Regex is [Rubular](http://rubular.com/)
 
 #### Reading
