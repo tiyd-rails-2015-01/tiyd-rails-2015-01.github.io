@@ -18,11 +18,10 @@ Students should be comfortable with the following at the end of this week:
 #### Lecture
 
 * Project Review
-  * Returning objects when true/false is expected
   * Keyword arguments
   * Mocking tests
-  * Gemfiles
-  * .gitignore
+  * ||=
+  * The OTHER of the 2 hardest problems in computer science: Cache invalidation
   * `File.open`
   * Floating point arithmetic
     * 129.95*10
@@ -31,13 +30,15 @@ Students should be comfortable with the following at the end of this week:
   * " vs '
   * Don't overdo it on instance variables
   * Regular expressions
-    * "Peter piper picked a peck of pickled peppers"[/as/]
+    * "Peter piper picked a peck of pickled peppers"[/p[ie]ck(led|ed)?/]
     * +, *, ?
     * \w, \d, \s, and their capital (opposite) versions
-    * Capture groups and .match
-    * .scan, .sub, .gsub
-
 * Exercise: Build the simplest possible version of function that tells you whether an e-mail address is valid.  Then, if you have time, make it better.
+* More regex
+  * Capture groups
+  * Using regex in Ruby
+  * .match
+  * .scan, .sub, .gsub
 * Human Learning: agile development practices
   * Iterate (this gets back to feedback cycles).
   * Build fully-functional apps during each iteration.
@@ -47,8 +48,9 @@ Students should be comfortable with the following at the end of this week:
     * Allow color/size combos to be marked as out-of-stock
     * Send sale e-mails
   * Pair programming (this gets back to feedback cycles)
-  * Diagram: Feedback cycles of escalating size
-* Diagram: Developer spectrum.  Hammer-user all the way to shiny-object
+* Diagram: Feedback cycles of escalating size
+* Gemfiles
+* .gitignore
 * Monkey Patching: Change a string to add a .to_pig_latin
 
 #### Notes
@@ -67,6 +69,7 @@ Students should be comfortable with the following at the end of this week:
 <!--
 Still haven't done:
 
+* Just saying: you can return objects when true/false is expected
 * SCSS
 * Bourbon
 * Trying to change an array in an outer scope inside a called function.
@@ -81,6 +84,7 @@ Still haven't done:
   * Read some every day.
   * Ruby Rogues and Ruby Weekly.
   * The dark side: Dissecting a book vs drinking from a fire hydrant
+* Diagram: Developer spectrum.  Hammer-user all the way to shiny-object
 * Rails Intro without models
   * Motivating Example: A rails app that asks me for my time zone, then gives me the time. (and maybe go back to this in future classes?)
 * MVC
