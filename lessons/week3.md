@@ -30,7 +30,7 @@ Students should be comfortable with the following at the end of this week:
   * " vs '
   * Don't overdo it on instance variables
   * Regular expressions
-    * "Peter piper picked a peck of pickled peppers"[/p[ie]ck(led|ed)?/]
+    * "Peter piper picked a peck of pickled peppers"
     * +, *, ?
     * \w, \d, \s, and their capital (opposite) versions
 * Exercise: Build the simplest possible version of function that tells you whether an e-mail address is valid.  Then, if you have time, make it better.
@@ -49,8 +49,6 @@ Students should be comfortable with the following at the end of this week:
     * Send sale e-mails
   * Pair programming (this gets back to feedback cycles)
 * Diagram: Feedback cycles of escalating size
-* Gemfiles
-* .gitignore
 * Monkey Patching: Change a string to add a .to_pig_latin
 
 #### Notes
@@ -70,6 +68,8 @@ Students should be comfortable with the following at the end of this week:
 Still haven't done:
 
 * Just saying: you can return objects when true/false is expected
+* Gemfiles
+* .gitignore
 * SCSS
 * Bourbon
 * Trying to change an array in an outer scope inside a called function.
