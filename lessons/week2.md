@@ -140,4 +140,7 @@ Students should be comfortable with the following at the end of this week:
 
 [Google Scholar Screen Scraper](https://github.com/tiyd-rails-2015-01/screen_scraper)
 
-<!-- Could have done Pairing Exercise: Pair on NILM example -->
+<!--
+* I SHOULD cover Gemfiles in this week in future cohorts.
+* Could have done Pairing Exercise: Pair on NILM example
+-->

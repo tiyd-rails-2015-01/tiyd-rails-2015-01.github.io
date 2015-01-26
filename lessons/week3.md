@@ -23,6 +23,7 @@ Students should be comfortable with the following at the end of this week:
   * Mocking tests
   * Gemfiles
   * .gitignore
+  * `File.open`
   * Floating point arithmetic
     * 129.95*10
     * 129.95*100
@@ -57,7 +58,6 @@ Students should be comfortable with the following at the end of this week:
 
 #### Reading
 
-* Work on Ruby Koans through `about_triangle_project_2.rb`
 * Continue [Git Immersion](http://gitimmersion.com/).  Get through Lab 30.
 
 #### Assignment
@@ -88,6 +88,7 @@ Still haven't done:
 
 #### Reading
 
+* Work on Ruby Koans through `about_triangle_project_2.rb`
 * Work on Ruby Koans through `about_dice_project.rb`
 
 #### Assignment
