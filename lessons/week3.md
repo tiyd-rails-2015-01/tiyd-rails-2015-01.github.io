@@ -94,7 +94,6 @@ Students should be comfortable with the following at the end of this week:
 #### Reading
 
 * Work on Ruby Koans through `about_triangle_project_2.rb`
-* Work on Ruby Koans through `about_dice_project.rb`
 
 #### Assignment
 
@@ -124,6 +123,7 @@ Still haven't done:
 
 #### Reading
 
+* Work on Ruby Koans through `about_dice_project.rb`
 * Complete Ruby Koans
 
 #### Assignment
