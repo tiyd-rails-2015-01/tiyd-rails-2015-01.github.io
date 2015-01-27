@@ -63,6 +63,42 @@ Students should be comfortable with the following at the end of this week:
 #### Lecture
 
 * Assignment Review
+* Rails Intro without models
+  * Motivating Example: A rails app that asks me for my time zone, then gives me the time. (and maybe go back to this in future classes?)
+  * [Code from example](https://github.com/tiyd-rails-2015-01/w3-2-example)
+* MVC
+* Components of a URL
+* Semantic versioning (e.g. 4.1.5)
+* Gemfiles
+* `bundle install`
+* `rails new`
+* `rails server`
+* `rails console`
+* `rails generate controller`
+* IP addresses and ports
+* The Router
+* GET vs. POST
+* HTML Forms
+  * form
+  * input
+  * select
+  * button
+* Embedded Ruby
+* Rails helpers for making form elements
+* Rails params
+
+
+#### Reading
+
+* Work on Ruby Koans through `about_triangle_project_2.rb`
+
+#### Assignment
+
+* [Motivational Quotation Generator](https://github.com/tiyd-rails-2015-01/motivational_quotations)
+
+<!--
+Still haven't done:
+
 * Human Learning from Yesterday:
   * Build fully-functional apps during each iteration.
   * Example: Build an ecommerce site for T-shirts.  You know you want it to:
@@ -76,32 +112,6 @@ Students should be comfortable with the following at the end of this week:
   * Ruby Rogues and Ruby Weekly.
   * The dark side: Dissecting a book vs drinking from a fire hydrant
 * Diagram: Developer spectrum.  Hammer-user all the way to shiny-object
-* Rails Intro without models
-  * Motivating Example: A rails app that asks me for my time zone, then gives me the time. (and maybe go back to this in future classes?)
-* MVC
-* Components of a URL
-* Semantic versioning (e.g. 4.1.5)
-* Gemfiles
-* `bundle install`
-* `rails new`
-* `rails server`
-* `rails console`
-* `rails generate controller`
-* IP addresses and ports
-* Routes
-* HTML Forms and Verbs
-
-#### Reading
-
-* Work on Ruby Koans through `about_triangle_project_2.rb`
-
-#### Assignment
-
-* [Motivational Quotation Generator](https://github.com/tiyd-rails-2015-01/motivational_quotations)
-
-<!--
-Still haven't done:
-
 * Just saying: you can return objects when true/false is expected
 * .gitignore
 * SCSS
