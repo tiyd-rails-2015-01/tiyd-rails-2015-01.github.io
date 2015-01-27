@@ -58,16 +58,6 @@ Students should be comfortable with the following at the end of this week:
 
 * [Employee Reviews](https://github.com/tiyd-rails-2015-01/employee_reviews)
 
-<!--
-Still haven't done:
-
-* Just saying: you can return objects when true/false is expected
-* Gemfiles
-* .gitignore
-* SCSS
-* Bourbon
-* Trying to change an array in an outer scope inside a called function.
-
 ## Tuesday
 
 #### Lecture
@@ -89,6 +79,16 @@ Still haven't done:
 * Rails Intro without models
   * Motivating Example: A rails app that asks me for my time zone, then gives me the time. (and maybe go back to this in future classes?)
 * MVC
+* Components of a URL
+* Semantic versioning (e.g. 4.1.5)
+* Gemfiles
+* `bundle install`
+* `rails new`
+* `rails server`
+* `rails console`
+* `rails generate controller`
+* IP addresses and ports
+* Routes
 * HTML Forms and Verbs
 
 #### Reading
@@ -99,6 +99,15 @@ Still haven't done:
 #### Assignment
 
 * [Motivational Quotation Generator](https://github.com/tiyd-rails-2015-01/motivational_quotations)
+
+<!--
+Still haven't done:
+
+* Just saying: you can return objects when true/false is expected
+* .gitignore
+* SCSS
+* Bourbon
+* Trying to change an array in an outer scope inside a called function.
 
 ## Wednesday
 
