@@ -106,32 +106,16 @@ Students should be comfortable with the following at the end of this week:
   * private methods for non-actions
   * overuse of instance variables
 
-* Human Learning from Monday:
-  * Build fully-functional apps during each iteration.
-  * Example: Build an ecommerce site for T-shirts.  You know you want it to:
-    * Accept credit card payments from customers
-    * Allow orders to be made for specific size and color of shirts
-    * Allow color/size combos to be marked as out-of-stock
-    * Send sale e-mails
-
-* Human Learning:
-  * Immerse yourself in the culture.
-  * Read some every day.
-  * Ruby Rogues and Ruby Weekly.
-  * The dark side: Dissecting a book vs drinking from a fire hydrant
-* Diagram: Developer spectrum.  Hammer-user all the way to shiny-object
-
 * Models without databases
-* Example: add a model to the quote generator.
-* Exercise: Do what I just did!  Add a model to YOUR quote generator.
-
-* `rails generate model`
-* Rake
-* Migrations
-* Models
 * Class methods
-* Class variables - DON'T
-* Scaffold - DON'T
+* Example: add a model to the quote generator.
+* Exercise: Do what I just did!  Add a model to YOUR quote generator. <!-- This was not great. -->
+
+* Database tables
+* `rails generate model`
+* Migrations
+* `rake db:migrate`
+* Scaffold
 
 #### Reading
 
@@ -141,22 +125,38 @@ Students should be comfortable with the following at the end of this week:
 
 * [Wallet](https://github.com/tiyd-rails-2015-01/wallet)
 
-<!--
-Still haven't done:
-
-* Just saying: you can return objects when true/false is expected
-* SCSS
-* Bourbon
-* Trying to change an array in an outer scope inside a called function.
-
 ## Thursday
 
 #### Lecture
 
 * Assignment Review
+* Human Learning from Monday:
+  * Build fully-functional apps during each iteration.
+  * Example: Build an ecommerce site for T-shirts.  You know you want it to:
+    * Accept credit card payments from customers
+    * Allow orders to be made for specific size and color of shirts
+    * Allow color/size combos to be marked as out-of-stock
+    * Send sale e-mails
+* Heroku and the value of Shipping It
+
+<!--
+Still haven't done:
+
 * Hashes within Params
 * Bourbon and Neat
-* Heroku and the value of Shipping It
+
+* Human Learning:
+  * Immerse yourself in the culture.
+  * Read some every day.
+  * Ruby Rogues and Ruby Weekly.
+  * The dark side: Dissecting a book vs drinking from a fire hydrant
+* Diagram: Developer spectrum.  Hammer-user all the way to shiny-object
+
+* Class variables - DON'T
+* Just saying: you can return objects when true/false is expected
+* SCSS
+* Bourbon
+* Trying to change an array in an outer scope inside a called function.
 
 ## Weekend Assignment - As Pairs
 
