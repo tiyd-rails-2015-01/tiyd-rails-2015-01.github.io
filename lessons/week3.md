@@ -87,7 +87,6 @@ Students should be comfortable with the following at the end of this week:
 * Rails helpers for making form elements
 * Rails params
 
-
 #### Reading
 
 * Work on Ruby Koans through `about_triangle_project_2.rb`
@@ -96,34 +95,37 @@ Students should be comfortable with the following at the end of this week:
 
 * [Motivational Quotation Generator](https://github.com/tiyd-rails-2015-01/motivational_quotations)
 
-<!--
-Still haven't done:
-
-* Human Learning from Yesterday:
-  * Build fully-functional apps during each iteration.
-  * Example: Build an ecommerce site for T-shirts.  You know you want it to:
-    * Accept credit card payments from customers
-    * Allow orders to be made for specific size and color of shirts
-    * Allow color/size combos to be marked as out-of-stock
-    * Send sale e-mails
-* Human Learning:
-  * Immerse yourself in the culture.
-  * Read some every day.
-  * Ruby Rogues and Ruby Weekly.
-  * The dark side: Dissecting a book vs drinking from a fire hydrant
-* Diagram: Developer spectrum.  Hammer-user all the way to shiny-object
-* Just saying: you can return objects when true/false is expected
-* .gitignore
-* SCSS
-* Bourbon
-* Trying to change an array in an outer scope inside a called function.
 
 ## Wednesday
 
 #### Lecture
 
 * Assignment Review
-* Generators
+  * dissect select_tag
+  * second parameter to options_for_select
+  * private methods for non-actions
+  * overuse of instance variables
+
+* Human Learning from Monday:
+  * Build fully-functional apps during each iteration.
+  * Example: Build an ecommerce site for T-shirts.  You know you want it to:
+    * Accept credit card payments from customers
+    * Allow orders to be made for specific size and color of shirts
+    * Allow color/size combos to be marked as out-of-stock
+    * Send sale e-mails
+
+* Human Learning:
+  * Immerse yourself in the culture.
+  * Read some every day.
+  * Ruby Rogues and Ruby Weekly.
+  * The dark side: Dissecting a book vs drinking from a fire hydrant
+* Diagram: Developer spectrum.  Hammer-user all the way to shiny-object
+
+* Models without databases
+* Example: add a model to the quote generator.
+* Exercise: Do what I just did!  Add a model to YOUR quote generator.
+
+* `rails generate model`
 * Rake
 * Migrations
 * Models
@@ -134,11 +136,18 @@ Still haven't done:
 #### Reading
 
 * Work on Ruby Koans through `about_dice_project.rb`
-* Complete Ruby Koans
 
 #### Assignment
 
-* [Wallet](https://github.com/masonfmatthews/rails_assignments/tree/master/assignments/wallet)
+* [Wallet](https://github.com/tiyd-rails-2015-01/wallet)
+
+<!--
+Still haven't done:
+
+* Just saying: you can return objects when true/false is expected
+* SCSS
+* Bourbon
+* Trying to change an array in an outer scope inside a called function.
 
 ## Thursday
 
