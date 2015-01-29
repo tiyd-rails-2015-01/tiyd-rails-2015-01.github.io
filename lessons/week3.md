@@ -148,7 +148,11 @@ Students should be comfortable with the following at the end of this week:
     * Send sale e-mails
 
 * More model work
-  *
+  * .all
+  * .first
+  * .order
+  * .where
+  * .count
   * Validations
   * `belongs_to` and `has_many`
 * Exercise: Make a new Rails app with two tables and a relationship between them.
