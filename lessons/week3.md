@@ -130,6 +130,15 @@ Students should be comfortable with the following at the end of this week:
 #### Lecture
 
 * Assignment Review
+  * rails generate migration
+  * Links
+  * rake routes
+  * add_column, etc
+  * partials
+  * rake db:drop and db:create
+  * config.time_zone = 'Eastern Time (US & Canada)'
+  * t.decimal :amount, precision: 5, scale: 2
+
 * Human Learning from Monday:
   * Build fully-functional apps during each iteration.
   * Example: Build an ecommerce site for T-shirts.  You know you want it to:
@@ -137,7 +146,18 @@ Students should be comfortable with the following at the end of this week:
     * Allow orders to be made for specific size and color of shirts
     * Allow color/size combos to be marked as out-of-stock
     * Send sale e-mails
+
+* More model work
+  *
+  * Validations
+  * `belongs_to` and `has_many`
+* Exercise: Make a new Rails app with two tables and a relationship between them.
+
 * Heroku and the value of Shipping It
+
+## Weekend Assignment - As Pairs
+
+[Health Tracker](https://github.com/tiyd-rails-2015-01/health_tracker)
 
 <!--
 Still haven't done:
@@ -158,12 +178,6 @@ Still haven't done:
 * Bourbon
 * Trying to change an array in an outer scope inside a called function.
 
-## Weekend Assignment - As Pairs
-
 [Merging Apps and Heroku Deployments](https://github.com/masonfmatthews/rails_assignments/tree/master/assignments/heroku_deployments) - AS PAIRS
-
-OR
-
-[Health Tracker](https://github.com/masonfmatthews/rails_assignments/tree/master/projects/health_tracker)
 
 -->
