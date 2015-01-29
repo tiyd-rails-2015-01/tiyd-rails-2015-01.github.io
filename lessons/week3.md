@@ -131,9 +131,9 @@ Students should be comfortable with the following at the end of this week:
 
 * Assignment Review
   * rails generate migration
-  * Links
-  * rake routes
   * add_column, etc
+  * links
+  * rake routes
   * partials
   * rake db:drop and db:create
   * config.time_zone = 'Eastern Time (US & Canada)'
@@ -154,34 +154,17 @@ Students should be comfortable with the following at the end of this week:
   * .where
   * .count
   * Validations
-  * `belongs_to` and `has_many`
-* Exercise: Make a new Rails app with two tables and a relationship between them.
+  * Mention of `belongs_to` and `has_many`
+* Exercise: Add at least two validations to your Rails app from last night. <!-- This went surprisingly well -->
 
 * Heroku and the value of Shipping It
+
+#### Notes
+
+* [Funny Names for Ruby Operators](http://ruby-operators.herokuapp.com/)
+* [Heroku docs on installing Rails 4 apps](https://devcenter.heroku.com/articles/rails4)
+* [Rails validations](http://apidock.com/rails/ActiveModel/Validations/ClassMethods/validates)
 
 ## Weekend Assignment - As Pairs
 
 [Health Tracker](https://github.com/tiyd-rails-2015-01/health_tracker)
-
-<!--
-Still haven't done:
-
-* Hashes within Params
-* Bourbon and Neat
-
-* Human Learning:
-  * Immerse yourself in the culture.
-  * Read some every day.
-  * Ruby Rogues and Ruby Weekly.
-  * The dark side: Dissecting a book vs drinking from a fire hydrant
-* Diagram: Developer spectrum.  Hammer-user all the way to shiny-object
-
-* Class variables - DON'T
-* Just saying: you can return objects when true/false is expected
-* SCSS
-* Bourbon
-* Trying to change an array in an outer scope inside a called function.
-
-[Merging Apps and Heroku Deployments](https://github.com/masonfmatthews/rails_assignments/tree/master/assignments/heroku_deployments) - AS PAIRS
-
--->
