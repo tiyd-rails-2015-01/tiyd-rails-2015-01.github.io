@@ -66,6 +66,7 @@ Students should be comfortable with the following at the end of this week:
 * Rails Intro without models
   * Motivating Example: A rails app that asks me for my time zone, then gives me the time. (and maybe go back to this in future classes?)
   * [Code from example](https://github.com/tiyd-rails-2015-01/w3-2-example)
+  * `strftime()`
 * MVC
 * Components of a URL
 * Semantic versioning (e.g. 4.1.5)
@@ -86,6 +87,10 @@ Students should be comfortable with the following at the end of this week:
 * Embedded Ruby
 * Rails helpers for making form elements
 * Rails params
+
+#### Notes
+
+* [`strftime()`](http://strftime.net/)
 
 #### Reading
 
@@ -112,6 +117,9 @@ Students should be comfortable with the following at the end of this week:
 * Exercise: Do what I just did!  Add a model to YOUR quote generator. <!-- This was not great. -->
 
 * Database tables
+* _on fields
+* _at fields
+* `t.timestamps`
 * `rails generate model`
 * Migrations
 * `rake db:migrate`

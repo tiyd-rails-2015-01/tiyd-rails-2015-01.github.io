@@ -18,6 +18,10 @@ Students should be comfortable with the following at the end of this week:
 #### Lecture
 
 * Project Review
+  * Naming is harder than you think because of pluralization `exercises_perfomeds`
+  * `duck.pluralize`
+  * Take apart the extra methods in controllers (set_weights)
+  * strong params
 
 * Human Learning:
   * Immerse yourself in the culture.
