@@ -15,6 +15,7 @@ Students should be comfortable with the following at the end of this week:
 
 #### Lecture
 
+* Ruby Quiz:
 * Project Review
 * Human Learning
   * Data 1st vs. Behavior 1st (Thinking in Nouns vs. Verbs)
@@ -22,7 +23,9 @@ Students should be comfortable with the following at the end of this week:
   * Example site of Behavior 1st: TODO
 * Diagrams: Data model and site map
 
-* M: Psych (Technical Debt) ; Data Structure Design ; Design Examples*
+* Data Structure Design
+* Exercise: Design a Data Structure for an Address Book.
+* accepts_nested_attributes
 
 #### Reading
 
@@ -30,12 +33,13 @@ Students should be comfortable with the following at the end of this week:
 
 #### Assignment
 
-* Design data structures.  More than one.  Use paper.  Use Lucidchart.
+* Address Book
 
 ## Tuesday
 
 #### Lecture
 
+* Ruby Quiz:
 * Assignment Review
 * T: Normalization ; SQL*
 
@@ -51,6 +55,7 @@ Students should be comfortable with the following at the end of this week:
 
 #### Lecture
 
+* Ruby Quiz:
 * Assignment Review
 * W: Active Record ; Relationships ; Scopes and Delegation
 
@@ -66,6 +71,7 @@ Students should be comfortable with the following at the end of this week:
 
 #### Lecture
 
+* Ruby Quiz: 
 * Assignment Review
 * Th: AREL ; AREL* ; Indices
 

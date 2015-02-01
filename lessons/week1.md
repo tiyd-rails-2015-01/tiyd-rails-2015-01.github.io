@@ -58,6 +58,7 @@ This is a short lecture day.  Much of the day will be taken up by administrative
 #### Reading
 
 * Begin [Git Immersion](http://gitimmersion.com/).  Complete Labs 1 through 10.
+<!-- Future classes: Use Pro Git instead? -->
 
 #### Assignment
 

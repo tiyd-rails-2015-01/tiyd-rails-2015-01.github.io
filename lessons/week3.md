@@ -53,6 +53,7 @@ Students should be comfortable with the following at the end of this week:
 #### Reading
 
 * Continue [Git Immersion](http://gitimmersion.com/).  Get through Lab 30.
+* [Pro Git regarding Branching and Merging](http://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging)
 
 #### Assignment
 
@@ -110,6 +111,7 @@ Students should be comfortable with the following at the end of this week:
   * second parameter to options_for_select
   * private methods for non-actions
   * overuse of instance variables
+  * Write your own validations (perhaps on a datetime to validate uniqueness of date)
 
 * Models without databases
 * Class methods
