@@ -58,7 +58,7 @@ Students should be comfortable with the following at the end of this week:
 
 #### Assignment
 
-* Online Menu w/ Categories (and images for categories)
+* [Menu](https://github.com/tiyd-rails-2015-01/menu)
 
 <!--
 

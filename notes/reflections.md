@@ -7,3 +7,5 @@
 * Beef up My First Git Repo example
 * Add Battleship tests to make it less possible to complete all the tests and have a working game.
 * Write up note at the end of week 2 as an exercise
+* Clean up assignment formatting - merge requirements and normal mode.  Get consistent about deliverables (maybe unbold) and notes/additional resources.
+* Give all assignments better (simpler) names.
