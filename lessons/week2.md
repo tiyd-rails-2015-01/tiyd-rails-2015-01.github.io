@@ -114,6 +114,7 @@ Students should be comfortable with the following at the end of this week:
 * [Akinator](http://en.akinator.com/)
 * [WeaveSilk](http://weavesilk.com/)
 * [Calming Websites](http://www.makeuseof.com/tag/take-a-break-10-websites-to-help-you-relax-for-two-minutes/)
+* [Palette Tool](http://paletton.com/#uid=13P0u0kllll70vXeaqEswg1G0aI)
 * [Google Trends](https://trends.google.com)
 * w3schools results are only okay.
 * [MDN](https://developer.mozilla.org/en-US/) results are awesome.

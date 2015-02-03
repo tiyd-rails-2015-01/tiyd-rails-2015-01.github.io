@@ -32,24 +32,17 @@ Students should be comfortable with the following at the end of this week:
 
 * Exercise: Create a new Rails app to manage employees and departments, just like [we did in plain old Ruby before](https://github.com/tiyd-rails-2015-01/employee_reviews).  Employee belongs_to Department.  Department has_many Employees.  
 
-* Human Learning:
-  * Immerse yourself in the culture.
-  * Read some every day.
-  * Ruby Rogues and Ruby Weekly.
-  * The dark side: Dissecting a book vs drinking from a fire hydrant
-* Diagram: Developer spectrum.  Hammer-user all the way to shiny-object
-
 * The Asset Pipeline
   * Images
   * Multiple CSS Files
   * SCSS
-* Bourbon, Neat, Bitters
-* Dealing with Heroku
+* Primer on: Bourbon, Neat, Bitters, Refills
 
 #### Notes
 
-* [Bourbon, Neat, Bitters](http://bourbon.io/)
 * [SCSS Guide](http://sass-lang.com/)
+* [Rails Guides](http://guides.rubyonrails.org/index.html)
+* [Bourbon, Neat, Bitters, Refills](http://bourbon.io/)
 * [The Asset Pipeline on Heroku](https://devcenter.heroku.com/articles/rails-4-asset-pipeline)
 
 #### Reading
@@ -60,46 +53,79 @@ Students should be comfortable with the following at the end of this week:
 
 * [Menu](https://github.com/tiyd-rails-2015-01/menu)
 
-<!--
 
 ## Tuesday
 
 #### Lecture
 
 * Assignment Review
+  * We did #shipit !
+  * The big secret to last night's confusion: READ THE ERROR MESSAGES
   * Helpers and Partials
+  * Text vs String in the DB
+  * Fixtures/seeding
+  * Looping in a view (Ashley)
+  * .json
+  * Heroku version of ruby
+  * README.md vs README.rdoc
+  * Steps for making this kind of app
+    * data tables
+    * model associations
+    * one controller
+    * one view
+    * route
+    * more views
+    * more controllers
 
 * Human Learning:
-  * Scarring with age
-  * Good scarring example: Saving hardest things for last sucks
-  * Bad scarring example: Millenials are lazy.  Taking risks on products costs too much money.
-* Diagram: Topological map of scarring
-
-* Integration Testing
-* Coverage
+  * Immerse yourself in the culture.
+  * Read some every day.
+  * Ruby Rogues and Ruby Weekly.
+  * The dark side: Dissecting a book vs drinking from a fire hydrant
+* Diagram: Developer spectrum.  Hammer-user all the way to shiny-object
 
 #### Reading
 
-* Continue [Git Immersion](http://gitimmersion.com/).  Get through Lab 40.
+* None
 
 #### Assignment
 
-* [Integration Testing and Coverage](https://github.com/masonfmatthews/rails_assignments/tree/master/assignments/integration_testing_and_coverage)
+* [Menu Again](https://github.com/tiyd-rails-2015-01/menu)
+
+<!--
 
 ## Wednesday
 
 #### Lecture
 
 * Assignment Review
-* Sessions ; Authentication
+* Human Learning:
+  * Scarring with age
+  * Good scarring example: Saving hardest things for last sucks
+  * Bad scarring example: Millenials are lazy.  Taking risks on products costs too much money.
+* Diagram: Topological map of scarring
+
+* Sessions
+* Exercise: Add ability to fill up a cart from your menu.  Array of strings.  Show it on the top of every page.
+* Authentication
+
+
+* Model testing in Rails
+* Coverage (simplecov)
+* Exercise: Add write a test on your last night's homework and add simplecov
+* Controller Testing
+* Integration Testing
 
 #### Reading
 
+* Continue [Git Immersion](http://gitimmersion.com/).  Get through Lab 40.
 * Complete [Git Immersion](http://gitimmersion.com/)!
 
 #### Assignment
 
 * [Simple Authentication](https://github.com/masonfmatthews/rails_assignments/tree/master/assignments/simple_authentication)
+
+* [Rails Testing and Coverage](https://github.com/masonfmatthews/rails_assignments/tree/master/assignments/rails_testing_and_coverage)
 
 ## Thursday
 
