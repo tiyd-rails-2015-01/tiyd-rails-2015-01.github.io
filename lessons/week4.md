@@ -53,6 +53,7 @@ Students should be comfortable with the following at the end of this week:
 
 * [Menu](https://github.com/tiyd-rails-2015-01/menu)
 
+<!-- This was a harder day than expected.  Next time I should cover less on Monday and more on Tuesday?  Tuesday did turn out to be the right amount, though.  -->
 
 ## Tuesday
 
@@ -61,32 +62,28 @@ Students should be comfortable with the following at the end of this week:
 * Assignment Review
   * We did #shipit !
   * The big secret to last night's confusion: READ THE ERROR MESSAGES
-  * Helpers and Partials
   * Text vs String in the DB
-  * Fixtures/seeding
-  * Looping in a view (Ashley)
-  * .json
-  * Heroku version of ruby
+  * Looping inside a loop in a view
+  * The .json stuff in scaffold
+  * Version of ruby for Heroku
   * README.md vs README.rdoc
-  * Steps for making this kind of app
-    * data tables
-    * model associations
-    * one controller
-    * one view
-    * route
-    * more views
-    * more controllers
+
+* How console and server are actually doing the same things to the database
 
 * Human Learning:
   * Immerse yourself in the culture.
   * Read some every day.
   * Ruby Rogues and Ruby Weekly.
-  * The dark side: Dissecting a book vs drinking from a fire hydrant
+  * Dissecting a book vs drinking from a fire hydrant
 * Diagram: Developer spectrum.  Hammer-user all the way to shiny-object
+
+* Bourbon, Neat, Bitters, Refills
+* Meet the ipsums
+* durhamipsum.com
 
 #### Reading
 
-* None
+* Continue [Git Immersion](http://gitimmersion.com/).  Get through Lab 40.
 
 #### Assignment
 
@@ -99,6 +96,9 @@ Students should be comfortable with the following at the end of this week:
 #### Lecture
 
 * Assignment Review
+  * Adding methods on models for better views/controllers
+  * Many-to-many?
+
 * Human Learning:
   * Scarring with age
   * Good scarring example: Saving hardest things for last sucks
@@ -109,30 +109,26 @@ Students should be comfortable with the following at the end of this week:
 * Exercise: Add ability to fill up a cart from your menu.  Array of strings.  Show it on the top of every page.
 * Authentication
 
-
-* Model testing in Rails
-* Coverage (simplecov)
-* Exercise: Add write a test on your last night's homework and add simplecov
-* Controller Testing
-* Integration Testing
-
 #### Reading
 
-* Continue [Git Immersion](http://gitimmersion.com/).  Get through Lab 40.
 * Complete [Git Immersion](http://gitimmersion.com/)!
 
 #### Assignment
 
 * [Simple Authentication](https://github.com/masonfmatthews/rails_assignments/tree/master/assignments/simple_authentication)
 
-* [Rails Testing and Coverage](https://github.com/masonfmatthews/rails_assignments/tree/master/assignments/rails_testing_and_coverage)
-
 ## Thursday
 
 #### Lecture
 
 * Assignment Review
-* Authorization ; More Int Testing
+* Model testing in Rails
+* Coverage (simplecov)
+* Exercise: Write a test on your last night's homework and add simplecov
+* Controller Testing
+* Integration Testing
+
+* Authorization
 
 ## Weekend Assignment - As Pairs
 
@@ -141,13 +137,17 @@ Students should be comfortable with the following at the end of this week:
 <!--
 Still haven't done:
 
-* [Student Awards](https://github.com/masonfmatthews/rails_assignments/tree/master/assignments/student_awards)
-
+* Fixtures/seeding
+* Helpers and Partials
 * Hashes within Params
 * Class variables - DON'T
 * Just saying: you can return objects when true/false is expected
 * Trying to change an array in an outer scope inside a called function.
 
-[Merging Apps and Heroku Deployments](https://github.com/masonfmatthews/rails_assignments/tree/master/assignments/heroku_deployments) - AS PAIRS
+* [Merging Apps and Heroku Deployments](https://github.com/masonfmatthews/rails_assignments/tree/master/assignments/heroku_deployments) - AS PAIRS
+
+* [Student Awards](https://github.com/masonfmatthews/rails_assignments/tree/master/assignments/student_awards)
+
+* [Rails Testing and Coverage](https://github.com/masonfmatthews/rails_assignments/tree/master/assignments/rails_testing_and_coverage)
 
 -->
