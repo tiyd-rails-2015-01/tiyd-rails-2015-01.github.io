@@ -17,8 +17,6 @@ Students should be comfortable with the following at the end of this week:
 
 #### Lecture
 
-* Draw Rails folder structure in green (things we've done) and black (things we haven't done yet)
-
 * Project Review
   * Naming is harder than you think because of pluralization `exercises_perfomeds`
   * `duck.pluralize`
@@ -77,7 +75,7 @@ Students should be comfortable with the following at the end of this week:
   * Dissecting a book vs drinking from a fire hydrant
 * Diagram: Developer spectrum.  Hammer-user all the way to shiny-object
 
-* Bourbon, Neat, Bitters, Refills
+* Bourbon, Neat, Bitters, Refills <!-- Maybe consider just Foundation next time. -->
 * Meet the ipsums
 * durhamipsum.com
 
@@ -89,24 +87,27 @@ Students should be comfortable with the following at the end of this week:
 
 * [Menu Again](https://github.com/tiyd-rails-2015-01/menu)
 
-<!--
 
 ## Wednesday
 
 #### Lecture
 
 * Assignment Review
+  * Begin building glossary of methods we should be aware of
+  * Draw Rails folder structure in green (things we've done) and black (things we haven't done yet)
+  * Breaking down requirements, making sure you're getting them done
   * Adding methods on models for better views/controllers
-  * Many-to-many?
+  * Pair-question-asking
 
 * Human Learning:
   * Scarring with age
   * Good scarring example: Saving hardest things for last sucks
-  * Bad scarring example: Millenials are lazy.  Taking risks on products costs too much money.
+  * Bad scarring example: Given one bad experience, some people assume that Millenials are all lazy.
+  * Bad scarring example: Taking risks on products costs too much money.
 * Diagram: Topological map of scarring
 
 * Sessions
-* Exercise: Add ability to fill up a cart from your menu.  Array of strings.  Show it on the top of every page.
+* Exercise: Add ability to choose the one thing that you're eating.  Show it on the top of every page.
 * Authentication
 
 #### Reading
@@ -115,7 +116,9 @@ Students should be comfortable with the following at the end of this week:
 
 #### Assignment
 
-* [Simple Authentication](https://github.com/masonfmatthews/rails_assignments/tree/master/assignments/simple_authentication)
+* [Simple Authentication](https://github.com/tiyd-rails-2015-01/simple_authentication)
+
+<!--
 
 ## Thursday
 
@@ -137,6 +140,7 @@ Students should be comfortable with the following at the end of this week:
 <!--
 Still haven't done:
 
+* Many-to-many?
 * Fixtures/seeding
 * Helpers and Partials
 * Hashes within Params
