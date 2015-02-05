@@ -23,9 +23,22 @@ Students should be comfortable with the following at the end of this week:
   * Example site of Behavior 1st: TODO
 * Diagrams: Data model and site map
 
+* Model testing in Rails
+* Coverage (simplecov)
+* Exercise: Write a test on your last night's homework and add simplecov
+* Controller Testing
+* Integration Testing
+
 * Data Structure Design
+* Lucidchart
 * Exercise: Design a Data Structure for an Address Book.
-* accepts_nested_attributes
+* many-to-many
+* has_many :through
+* delegate
+* default_scope (again)
+* scoped associations
+* Polymorphism?
+* Single Table Inheritance?
 
 #### Reading
 
@@ -33,7 +46,7 @@ Students should be comfortable with the following at the end of this week:
 
 #### Assignment
 
-* Address Book
+* Address Book with Groups
 
 ## Tuesday
 
@@ -42,6 +55,7 @@ Students should be comfortable with the following at the end of this week:
 * Ruby Quiz:
 * Assignment Review
 * T: Normalization ; SQL*
+* accepts_nested_attributes
 
 #### Reading
 
@@ -71,7 +85,7 @@ Students should be comfortable with the following at the end of this week:
 
 #### Lecture
 
-* Ruby Quiz: 
+* Ruby Quiz:
 * Assignment Review
 * Th: AREL ; AREL* ; Indices
 

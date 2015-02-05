@@ -10,7 +10,6 @@ Students should be comfortable with the following at the end of this week:
 * Session
 * Authentication
 * Authorization
-* Controller and Integration Testing
 * REST
 
 ## Monday
@@ -97,17 +96,9 @@ Students should be comfortable with the following at the end of this week:
   * Draw Rails folder structure in green (things we've done) and black (things we haven't done yet)
   * Breaking down requirements, making sure you're getting them done
   * Adding methods on models for better views/controllers
-  * Pair-question-asking
-
-* Human Learning:
-  * Scarring with age
-  * Good scarring example: Saving hardest things for last sucks
-  * Bad scarring example: Given one bad experience, some people assume that Millenials are all lazy.
-  * Bad scarring example: Taking risks on products costs too much money.
-* Diagram: Topological map of scarring
 
 * Sessions
-* Exercise: Add ability to choose the one thing that you're eating.  Show it on the top of every page.
+* Exercise: Add (in your menu app) the ability to choose the one thing that you're eating.  Show it on the top of every page.
 * Authentication
 
 #### Reading
@@ -118,24 +109,28 @@ Students should be comfortable with the following at the end of this week:
 
 * [Simple Authentication](https://github.com/tiyd-rails-2015-01/simple_authentication)
 
-<!--
 
 ## Thursday
 
 #### Lecture
 
 * Assignment Review
-* Model testing in Rails
-* Coverage (simplecov)
-* Exercise: Write a test on your last night's homework and add simplecov
-* Controller Testing
-* Integration Testing
+  * Pair-question-asking
+  * helpers
+  * Congrats!  You have already done what we call "multi-tenancy."
 
-* Authorization
+* Human Learning:
+  * Scarring with age
+  * Good scarring example: Saving hardest things for last sucks
+  * Bad scarring example: Given one bad experience, some people assume that Millenials are all lazy.
+  * Bad scarring example: Taking risks on products costs too much money.
+* Diagram: Topological map of scarring
+
+* Authorization Principles
 
 ## Weekend Assignment - As Pairs
 
-[Concept Gradebook](https://github.com/masonfmatthews/rails_assignments/tree/master/projects/concept_gradebook)
+[Simple Authentication](https://github.com/tiyd-rails-2015-01/gradebook)
 
 <!--
 Still haven't done:
