@@ -101,6 +101,8 @@ Students should be comfortable with the following at the end of this week:
 * Exercise: Add (in your menu app) the ability to choose the one thing that you're eating.  Show it on the top of every page.
 * Authentication
 
+<!-- It was suggested by students that the second half of this morning wasn't useful, and that it would have been better to do a build-it-together day like Thursday turned out to be. -->
+
 #### Reading
 
 * Complete [Git Immersion](http://gitimmersion.com/)!
@@ -114,10 +116,10 @@ Students should be comfortable with the following at the end of this week:
 
 #### Lecture
 
+* [Why Learning Code is Hard](http://www.vikingcodeschool.com/posts/why-learning-to-code-is-so-damn-hard)
+
 * Assignment Review
   * Pair-question-asking
-  * helpers
-  * Congrats!  You have already done what we call "multi-tenancy."
 
 * Human Learning:
   * Scarring with age
@@ -126,7 +128,8 @@ Students should be comfortable with the following at the end of this week:
   * Bad scarring example: Taking risks on products costs too much money.
 * Diagram: Topological map of scarring
 
-* Authorization Principles
+* Review of week 4
+* Group construction of the simple_authentication app: [Not Simple Authentication](https://github.com/masonfmatthews/not_simple_authentication)
 
 ## Weekend Assignment - As Pairs
 
@@ -135,10 +138,10 @@ Students should be comfortable with the following at the end of this week:
 <!--
 Still haven't done:
 
+* Multi-tenancy discussion
 * Many-to-many?
 * Fixtures/seeding
 * Helpers and Partials
-* Hashes within Params
 * Class variables - DON'T
 * Just saying: you can return objects when true/false is expected
 * Trying to change an array in an outer scope inside a called function.
