@@ -130,7 +130,7 @@ Students should be comfortable with the following at the end of this week:
 
 ## Weekend Assignment - As Pairs
 
-[Simple Authentication](https://github.com/tiyd-rails-2015-01/gradebook)
+[Gradebook](https://github.com/tiyd-rails-2015-01/gradebook)
 
 <!--
 Still haven't done:
