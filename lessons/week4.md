@@ -117,12 +117,13 @@ Students should be comfortable with the following at the end of this week:
 #### Lecture
 
 * [Why Learning Code is Hard](http://www.vikingcodeschool.com/posts/why-learning-to-code-is-so-damn-hard)
+* Coding your own thing is more about debugging than we think
+*
 
-* Assignment Review
-  * Pair-question-asking
+* Pair-question-asking
 
 * Human Learning:
-  * Scarring with age
+  * Scarring with age/experience
   * Good scarring example: Saving hardest things for last sucks
   * Bad scarring example: Given one bad experience, some people assume that Millenials are all lazy.
   * Bad scarring example: Taking risks on products costs too much money.
@@ -138,6 +139,8 @@ Students should be comfortable with the following at the end of this week:
 <!--
 Still haven't done:
 
+* How to Google
+* Software development is a "wicked" problem
 * Multi-tenancy discussion
 * Many-to-many?
 * Fixtures/seeding
