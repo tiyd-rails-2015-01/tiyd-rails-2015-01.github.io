@@ -168,6 +168,16 @@ Students should be comfortable with the following at the end of this week:
 * Exercise: Add at least two validations to your Rails app from last night. <!-- This went surprisingly well -->
 
 * Heroku and the value of Shipping It
+  * development vs production
+  * `git remote` review
+  * Set up account
+  * Create new Heroku project
+  * Move `sqlite3` gem
+  * Add `pg` and `rails_12factor gems`
+  * `bundle install --without production`
+  * heroku add remote command
+  * git push heroku master
+  * heroku run rake db:migrate
 
 #### Notes
 

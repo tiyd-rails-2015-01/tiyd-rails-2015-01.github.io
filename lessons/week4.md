@@ -99,7 +99,7 @@ Students should be comfortable with the following at the end of this week:
 
 * Sessions
 * Exercise: Add (in your menu app) the ability to choose the one thing that you're eating.  Show it on the top of every page.
-* Authentication
+* Access vs. Authentication vs. Authorization
 
 <!-- It was suggested by students that the second half of this morning wasn't useful, and that it would have been better to do a build-it-together day like Thursday turned out to be. -->
 
@@ -117,11 +117,8 @@ Students should be comfortable with the following at the end of this week:
 #### Lecture
 
 * [Why Learning Code is Hard](http://www.vikingcodeschool.com/posts/why-learning-to-code-is-so-damn-hard)
-* Coding your own thing is more about debugging than we think
-*
-
+* Coding a new application is more about debugging and troubleshooting than we think at first
 * Pair-question-asking
-
 * Human Learning:
   * Scarring with age/experience
   * Good scarring example: Saving hardest things for last sucks
@@ -129,30 +126,19 @@ Students should be comfortable with the following at the end of this week:
   * Bad scarring example: Taking risks on products costs too much money.
 * Diagram: Topological map of scarring
 
-* Review of week 4
 * Group construction of the simple_authentication app: [Not Simple Authentication](https://github.com/masonfmatthews/not_simple_authentication)
+* Deep-dive on earlier topics:
+  * HTML verbs
+  * `rake routes` on a generated controller (all get)
+  * `rake routes` on a resource
+  * `has_secure_password`
+  * REST
+  * The difference between new vs. create and edit vs. update
+  * Having a single action submit to accept and behave differently if `request.post?`
+  * Redirect vs. render
+  * Strong params
+  * `before_action`
 
 ## Weekend Assignment - As Pairs
 
 [Gradebook](https://github.com/tiyd-rails-2015-01/gradebook)
-
-<!--
-Still haven't done:
-
-* How to Google
-* Software development is a "wicked" problem
-* Multi-tenancy discussion
-* Many-to-many?
-* Fixtures/seeding
-* Helpers and Partials
-* Class variables - DON'T
-* Just saying: you can return objects when true/false is expected
-* Trying to change an array in an outer scope inside a called function.
-
-* [Merging Apps and Heroku Deployments](https://github.com/masonfmatthews/rails_assignments/tree/master/assignments/heroku_deployments) - AS PAIRS
-
-* [Student Awards](https://github.com/masonfmatthews/rails_assignments/tree/master/assignments/student_awards)
-
-* [Rails Testing and Coverage](https://github.com/masonfmatthews/rails_assignments/tree/master/assignments/rails_testing_and_coverage)
-
--->

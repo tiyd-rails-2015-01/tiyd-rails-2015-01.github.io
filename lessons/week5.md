@@ -17,36 +17,36 @@ Students should be comfortable with the following at the end of this week:
 
 * Ruby Quiz:
 * Project Review
-* Human Learning
-  * Data 1st vs. Behavior 1st (Thinking in Nouns vs. Verbs)
-  * Example site of Data 1st: TODO
-  * Example site of Behavior 1st: TODO
-* Diagrams: Data model and site map
+  * Who liked helpers?  (Hint: they're overrated)
+  * helper_method
+  * New approach to readings
+  * `rails-footnotes` gem
 
-* Model testing in Rails
-* Coverage (simplecov)
-* Exercise: Write a test on your last night's homework and add simplecov
-* Controller Testing
-* Integration Testing
-
+* Many-to-many
 * Data Structure Design
 * Lucidchart
+* Example: Design a Data Structure for the weekend assignment.
 * Exercise: Design a Data Structure for an Address Book.
-* many-to-many
-* has_many :through
-* delegate
-* default_scope (again)
-* scoped associations
-* Polymorphism?
-* Single Table Inheritance?
 
-#### Reading
+* Seeds
 
-*
+* Optional topics:
+  * has_many :through
+  * delegate
+  * default_scope (again)
+  * scoped associations
+  * Polymorphism?
+  * Single Table Inheritance?
 
 #### Assignment
 
 * Address Book with Groups
+
+* [Merging Apps and Heroku Deployments](https://github.com/masonfmatthews/rails_assignments/tree/master/assignments/heroku_deployments) - AS PAIRS
+
+* [Student Awards](https://github.com/masonfmatthews/rails_assignments/tree/master/assignments/student_awards)
+
+* [Rails Testing and Coverage](https://github.com/masonfmatthews/rails_assignments/tree/master/assignments/rails_testing_and_coverage)
 
 ## Tuesday
 
@@ -54,16 +54,18 @@ Students should be comfortable with the following at the end of this week:
 
 * Ruby Quiz:
 * Assignment Review
-* T: Normalization ; SQL*
+
+* Human Learning
+  * Data 1st vs. Behavior 1st (Thinking in Nouns vs. Verbs)
+  * Example site of Data 1st: TODO
+  * Example site of Behavior 1st: TODO
+* Diagrams: Data model and site map
+
 * accepts_nested_attributes
-
-#### Reading
-
-*
 
 #### Assignment
 
-* SQL Queries?  Perhaps for the same tables as the night before?
+*
 
 ## Wednesday
 
@@ -71,11 +73,8 @@ Students should be comfortable with the following at the end of this week:
 
 * Ruby Quiz:
 * Assignment Review
-* W: Active Record ; Relationships ; Scopes and Delegation
-
-#### Reading
-
-*
+* More Data Structure Design Exercises
+* SQL
 
 #### Assignment
 
@@ -87,8 +86,27 @@ Students should be comfortable with the following at the end of this week:
 
 * Ruby Quiz:
 * Assignment Review
-* Th: AREL ; AREL* ; Indices
+* Indices
 
 ## Weekend Assignment - As Pairs
 
 [Survey Opossum](https://github.com/tiyd-rails-2015-01/survey_opossum)
+
+<!--
+Still haven't done:
+
+* Model testing in Rails
+* Coverage (simplecov)
+* Exercise: Write a test on your last night's homework and add simplecov
+* Controller Testing
+* Integration Testing
+
+* How to Google
+* Rebuilding!  Software development is a "wicked" problem
+* Multi-tenancy discussion
+* Fixtures
+* Helpers and Partials
+* Class variables - DON'T
+* Just saying: you can return objects when true/false is expected
+* Trying to change an array in an outer scope inside a called function.
+-->
