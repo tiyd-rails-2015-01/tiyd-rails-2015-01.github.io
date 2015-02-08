@@ -15,38 +15,28 @@ Students should be comfortable with the following at the end of this week:
 
 #### Lecture
 
-* Ruby Quiz:
+* [Ruby Quiz](https://github.com/masonfmatthews/rails_assignments/blob/master/quizzes/if.rb)
 * Project Review
   * Who liked helpers?  (Hint: they're overrated)
   * helper_method
   * New approach to readings
   * `rails-footnotes` gem
 
-* Many-to-many
 * Data Structure Design
 * Lucidchart
 * Example: Design a Data Structure for the weekend assignment.
 * Exercise: Design a Data Structure for an Address Book.
 
+* Many-to-many
 * Seeds
-
-* Optional topics:
-  * has_many :through
-  * delegate
-  * default_scope (again)
-  * scoped associations
-  * Polymorphism?
-  * Single Table Inheritance?
+  * Draw rake task list on board
+* Quick checkboxes discussion
 
 #### Assignment
 
-* Address Book with Groups
+* [Achievement Gradebook](https://github.com/tiyd-rails-2015-01/achievement_gradebook)
 
-* [Merging Apps and Heroku Deployments](https://github.com/masonfmatthews/rails_assignments/tree/master/assignments/heroku_deployments) - AS PAIRS
-
-* [Student Awards](https://github.com/masonfmatthews/rails_assignments/tree/master/assignments/student_awards)
-
-* [Rails Testing and Coverage](https://github.com/masonfmatthews/rails_assignments/tree/master/assignments/rails_testing_and_coverage)
+<!--
 
 ## Tuesday
 
@@ -61,11 +51,15 @@ Students should be comfortable with the following at the end of this week:
   * Example site of Behavior 1st: TODO
 * Diagrams: Data model and site map
 
+* has_many :through
+* delegate
+* default_scope (again)
+* scoped associations
 * accepts_nested_attributes
 
 #### Assignment
 
-*
+* Address Book
 
 ## Wednesday
 
@@ -78,7 +72,7 @@ Students should be comfortable with the following at the end of this week:
 
 #### Assignment
 
-* Extend an existing Rails application to add more tables, models, associations, and scopes
+* Do crazy stuff with your Address Book
 
 ## Thursday
 
@@ -86,7 +80,9 @@ Students should be comfortable with the following at the end of this week:
 
 * Ruby Quiz:
 * Assignment Review
+* AREL
 * Indices
+* Dynamic Data Structures (weekend homework)
 
 ## Weekend Assignment - As Pairs
 
@@ -94,6 +90,15 @@ Students should be comfortable with the following at the end of this week:
 
 <!--
 Still haven't done:
+
+* [Merging Apps and Heroku Deployments](https://github.com/masonfmatthews/rails_assignments/tree/master/assignments/heroku_deployments) - AS PAIRS
+
+* [Student Awards](https://github.com/masonfmatthews/rails_assignments/tree/master/assignments/student_awards)
+
+* [Rails Testing and Coverage](https://github.com/masonfmatthews/rails_assignments/tree/master/assignments/rails_testing_and_coverage)
+
+* Polymorphism?
+* Single Table Inheritance?
 
 * Model testing in Rails
 * Coverage (simplecov)

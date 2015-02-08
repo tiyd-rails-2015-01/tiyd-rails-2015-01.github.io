@@ -7,7 +7,7 @@
 * Beef up My First Git Repo example
 * Add Battleship tests to make it less possible to complete all the tests and have a working game.
 * Write up note at the end of week 2 as an exercise
-* Clean up assignment formatting - **merge requirements and normal mode**.  Get consistent about deliverables (maybe unbold) and notes/additional resources.
+* Clean up assignment formatting - **merge requirements and normal mode**.  **merge the two kinds of objectives**.  Get consistent about deliverables (maybe unbold) and notes/additional resources.
 * Give all assignments better (simpler) names.
 * The students have requested more days of build-a-whole-app.
 * Use Foundation instead of Bourbon
@@ -29,6 +29,6 @@ Rails approach for next time:
 * W4D2: SCSS, Foundation, using console to set data, seeds
 * Menu
 * W4D3: Session, Access/Auth/Auth.  Give them a checklist of how to get the assignment done.
-* Parent Emails
+* Teacherbook
 * W4D4: Review and rebuild it all together.
 * WEEKEND: Gradebook
