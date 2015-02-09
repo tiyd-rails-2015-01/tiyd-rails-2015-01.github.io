@@ -17,16 +17,22 @@ Students should be comfortable with the following at the end of this week:
 
 * [Ruby Quiz](https://github.com/masonfmatthews/rails_assignments/blob/master/quizzes/if.rb)
 * Project Review
+  * Clinton and private methods
   * Who liked helpers?  (Hint: they're overrated)
+  * Diagram of which parts are accessible to which parts
   * helper_method
+  * member actions
   * New approach to readings
   * `rails-footnotes` gem
+  * DRY
+  * "Refactoring"
 
 * Data Structure Design
 * Lucidchart
 * Example: Design a Data Structure for the weekend assignment.
 * Exercise: Design a Data Structure for an Address Book.
 
+* Example: Build an app for managing tags for photos
 * Many-to-many
 * Seeds
   * Draw rake task list on board
@@ -44,6 +50,7 @@ Students should be comfortable with the following at the end of this week:
 
 * Ruby Quiz:
 * Assignment Review
+  * Limitation of has_and_belongs_to_many
 
 * Human Learning
   * Data 1st vs. Behavior 1st (Thinking in Nouns vs. Verbs)
@@ -52,6 +59,7 @@ Students should be comfortable with the following at the end of this week:
 * Diagrams: Data model and site map
 
 * has_many :through
+* dependent: :destroy, dependent: :restrict
 * delegate
 * default_scope (again)
 * scoped associations
@@ -96,6 +104,8 @@ Still haven't done:
 * [Student Awards](https://github.com/masonfmatthews/rails_assignments/tree/master/assignments/student_awards)
 
 * [Rails Testing and Coverage](https://github.com/masonfmatthews/rails_assignments/tree/master/assignments/rails_testing_and_coverage)
+
+* https://www.ruby-toolbox.com
 
 * Polymorphism?
 * Single Table Inheritance?
