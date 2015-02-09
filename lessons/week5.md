@@ -16,31 +16,34 @@ Students should be comfortable with the following at the end of this week:
 #### Lecture
 
 * [Ruby Quiz](https://github.com/masonfmatthews/rails_assignments/blob/master/quizzes/if_quiz.rb)
+  * [Quiz Submission Form](http://goo.gl/forms/fpcxQCtEqs)
 * Project Review
   * Clinton and private methods
   * Who liked helpers?  (Hint: they're overrated)
   * Diagram of which parts are accessible to which parts
-  * helper_method
-  * member actions
-  * New approach to readings
-  * `rails-footnotes` gem
-  * DRY
-  * "Refactoring"
+  * DRY  
+* Seeds
 
+* [Most common jobs in america](http://www.npr.org/blogs/money/2015/02/05/382664837/map-the-most-common-job-in-every-state)
 * Data Structure Design
 * Lucidchart
 * Example: Design a Data Structure for the weekend assignment.
-* Exercise: Design a Data Structure for an Address Book.
 
 * Example: Build an app for managing tags for photos
-* Many-to-many
-* Seeds
-  * Draw rake task list on board
+* `rails-footnotes` gem
+* member actions
+* Many-to-many joins
 * Quick checkboxes discussion
+
+#### Notes
+
+* [Rails footnotes](https://github.com/josevalim/rails-footnotes) - `rails generate rails_footnotes:install`
 
 #### Assignment
 
 * [Achievement Gradebook](https://github.com/tiyd-rails-2015-01/achievement_gradebook)
+  * [Repository to use as a Starting Point](https://github.com/tiyd-rails-2015-01/Gradebook-1)
+  * [Homework Submission Form](https://docs.google.com/forms/d/1lddv00AYx4z9ugJBYv1v2RG_JuMUpWEYPYjQGdCVdgQ/viewform?c=0&w=1)
 
 <!--
 
@@ -63,6 +66,9 @@ Students should be comfortable with the following at the end of this week:
 * delegate
 * default_scope (again)
 * scoped associations
+
+* Exercise: Design a Data Structure for an Address Book.
+
 * accepts_nested_attributes
 
 #### Assignment
@@ -109,6 +115,7 @@ Still haven't done:
 
 * Polymorphism?
 * Single Table Inheritance?
+* "Refactoring"
 
 * Model testing in Rails
 * Coverage (simplecov)
