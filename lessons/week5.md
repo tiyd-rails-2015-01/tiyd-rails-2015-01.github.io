@@ -15,7 +15,7 @@ Students should be comfortable with the following at the end of this week:
 
 #### Lecture
 
-* [Ruby Quiz](https://github.com/masonfmatthews/rails_assignments/blob/master/quizzes/if.rb)
+* [Ruby Quiz](https://github.com/masonfmatthews/rails_assignments/blob/master/quizzes/if_quiz.rb)
 * Project Review
   * Clinton and private methods
   * Who liked helpers?  (Hint: they're overrated)
