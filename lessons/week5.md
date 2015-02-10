@@ -11,12 +11,17 @@ Students should be comfortable with the following at the end of this week:
 * AREL
 * Proper Model Design
 
+## Important Links
+
+* [Quiz Submission Form](http://goo.gl/forms/fpcxQCtEqs)
+* [Homework Submission Form](https://docs.google.com/forms/d/1lddv00AYx4z9ugJBYv1v2RG_JuMUpWEYPYjQGdCVdgQ/viewform?c=0&w=1)
+
+
 ## Monday
 
 #### Lecture
 
 * [Ruby Quiz](https://github.com/masonfmatthews/rails_assignments/blob/master/quizzes/if_quiz.rb)
-  * [Quiz Submission Form](http://goo.gl/forms/fpcxQCtEqs)
 * Project Review
   * Clinton and private methods
   * Diagram of which parts are accessible to which parts
@@ -45,41 +50,30 @@ Students should be comfortable with the following at the end of this week:
 
 * [Achievement Gradebook](https://github.com/tiyd-rails-2015-01/achievement_gradebook)
   * [Repository to use as a Starting Point](https://github.com/tiyd-rails-2015-01/Gradebook-1)
-  * [Homework Submission Form](https://docs.google.com/forms/d/1lddv00AYx4z9ugJBYv1v2RG_JuMUpWEYPYjQGdCVdgQ/viewform?c=0&w=1)
 
-<!--
 
 ## Tuesday
 
 #### Lecture
 
-* Address Book
-* Grade Thresholds
-
 * Ruby Quiz: [Ruby Quiz](https://github.com/masonfmatthews/rails_assignments/blob/master/quizzes/string_quiz.rb)
   * [Quiz Submission Form](http://goo.gl/forms/fpcxQCtEqs)
 * Assignment Review
   * Limitation of has_and_belongs_to_many
+  * Show coursyl's achievement grading
 
-* Human Learning
-  * Data 1st vs. Behavior 1st (Thinking in Nouns vs. Verbs)
-  * Example site of Data 1st: TODO
-  * Example site of Behavior 1st: TODO
-* Diagrams: Data model and site map
-
-* has_many :through
-* dependent: :destroy, dependent: :restrict
-* delegate
-* default_scope (again)
-* scoped associations
-
-* Exercise: Design a Data Structure for an Address Book.
-
-* accepts_nested_attributes
+* Tempus
+  * People, projects, time entries.
+  * Favorite projects
+  * Favorite projects with email settings
+  * Subproject tree
+  * Thresholds for performance
 
 #### Assignment
 
-* Address Book
+* [Address Book Data Structure](https://github.com/tiyd-rails-2015-01/address_book_data_structure)
+
+<!--
 
 ## Wednesday
 
@@ -87,12 +81,13 @@ Students should be comfortable with the following at the end of this week:
 
 * Ruby Quiz:
 * Assignment Review
-* More Data Structure Design Exercises
-* SQL
+
+* accepts_nested_attributes
 
 #### Assignment
 
-* Do crazy stuff with your Address Book
+* Address Book
+
 
 ## Thursday
 
@@ -100,6 +95,14 @@ Students should be comfortable with the following at the end of this week:
 
 * Ruby Quiz:
 * Assignment Review
+
+* has_many :through
+* dependent: :destroy, dependent: :restrict
+* delegate
+* default_scope (again)
+* scoped associations
+
+* SQL
 * AREL
 * Indices
 * Dynamic Data Structures (weekend homework)
