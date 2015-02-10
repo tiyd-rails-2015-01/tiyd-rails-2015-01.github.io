@@ -19,9 +19,9 @@ Students should be comfortable with the following at the end of this week:
   * [Quiz Submission Form](http://goo.gl/forms/fpcxQCtEqs)
 * Project Review
   * Clinton and private methods
-  * Who liked helpers?  (Hint: they're overrated)
   * Diagram of which parts are accessible to which parts
   * DRY  
+* Helpers vs Partials (and XSS)
 * Seeds
 
 * [Most common jobs in america](http://www.npr.org/blogs/money/2015/02/05/382664837/map-the-most-common-job-in-every-state)
@@ -33,7 +33,9 @@ Students should be comfortable with the following at the end of this week:
 * `rails-footnotes` gem
 * member actions
 * Many-to-many joins
+  * [Many-to-many Excel Workbook](w5-1/many-to-many.xlsx)
 * Quick checkboxes discussion
+* [Completed example from class](https://github.com/tiyd-rails-2015-01/many_to_many)
 
 #### Notes
 
@@ -51,7 +53,11 @@ Students should be comfortable with the following at the end of this week:
 
 #### Lecture
 
-* Ruby Quiz:
+* Address Book
+* Grade Thresholds
+
+* Ruby Quiz: [Ruby Quiz](https://github.com/masonfmatthews/rails_assignments/blob/master/quizzes/string_quiz.rb)
+  * [Quiz Submission Form](http://goo.gl/forms/fpcxQCtEqs)
 * Assignment Review
   * Limitation of has_and_belongs_to_many
 
