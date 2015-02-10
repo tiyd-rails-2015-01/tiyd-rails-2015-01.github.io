@@ -13,7 +13,7 @@ Students should be comfortable with the following at the end of this week:
 
 ## Important Links
 
-* [Quiz Submission Form](http://goo.gl/forms/fpcxQCtEqs)
+* [Puzzle Submission Form](http://goo.gl/forms/fpcxQCtEqs)
 * [Homework Submission Form](https://docs.google.com/forms/d/1lddv00AYx4z9ugJBYv1v2RG_JuMUpWEYPYjQGdCVdgQ/viewform?c=0&w=1)
 
 
@@ -21,7 +21,7 @@ Students should be comfortable with the following at the end of this week:
 
 #### Lecture
 
-* [Ruby Quiz](https://github.com/masonfmatthews/rails_assignments/blob/master/quizzes/if_quiz.rb)
+* [Ruby Puzzle](https://github.com/masonfmatthews/rails_assignments/blob/master/quizzes/if_puzzle.rb)
 * Project Review
   * Clinton and private methods
   * Diagram of which parts are accessible to which parts
@@ -56,8 +56,7 @@ Students should be comfortable with the following at the end of this week:
 
 #### Lecture
 
-* Ruby Quiz: [Ruby Quiz](https://github.com/masonfmatthews/rails_assignments/blob/master/quizzes/string_quiz.rb)
-  * [Quiz Submission Form](http://goo.gl/forms/fpcxQCtEqs)
+* [Ruby Puzzle](https://github.com/masonfmatthews/rails_assignments/blob/master/puzzles/string_puzzle.rb)
 * Assignment Review
   * Limitation of has_and_belongs_to_many
   * Show coursyl's achievement grading
@@ -69,6 +68,8 @@ Students should be comfortable with the following at the end of this week:
   * Subproject tree
   * Thresholds for performance
 
+* Announcement: Torey's technical interview
+
 #### Assignment
 
 * [Address Book Data Structure](https://github.com/tiyd-rails-2015-01/address_book_data_structure)
@@ -79,14 +80,14 @@ Students should be comfortable with the following at the end of this week:
 
 #### Lecture
 
-* Ruby Quiz:
+* [Ruby Puzzle](https://github.com/masonfmatthews/rails_assignments/blob/master/puzzles/string_palindrome_puzzle.rb)
 * Assignment Review
 
 * accepts_nested_attributes
 
 #### Assignment
 
-* Address Book
+* Begin [Survey Opossum](https://github.com/tiyd-rails-2015-01/survey_opossum)
 
 
 ## Thursday

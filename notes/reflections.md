@@ -14,6 +14,7 @@
 * Readings at night were largely ignored.  Probably better to have smaller sets of reading.
 * Git immersion stunk.  Pro Git better?
 * Update assignment JSONs as we work through cohort 4.
+* Write an Address Book assignment to follow Address Book Data Structure (and beef up requirements of ABDS a bit)
 
 
 Rails approach for next time:
