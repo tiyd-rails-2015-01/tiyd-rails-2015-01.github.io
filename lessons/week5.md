@@ -56,25 +56,22 @@ Students should be comfortable with the following at the end of this week:
 
 #### Lecture
 
-* [Ruby Puzzle](https://github.com/masonfmatthews/rails_assignments/blob/master/puzzles/string_puzzle.rb)
+* [Ruby Puzzle](https://github.com/masonfmatthews/rails_assignments/blob/master/puzzles/string_split_puzzle.rb)
 * Assignment Review
-  * Limitation of has_and_belongs_to_many
-  * Show coursyl's achievement grading
 
-* Tempus
+* `dependent: :destroy` and `dependent: :restrict`
+* Associations with non-standard foreign_keys
+
+* Build a Data Structure - Time tracking
   * People, projects, time entries.
-  * Favorite projects
-  * Favorite projects with email settings
+  * Assigned projects
+  * Projects with Clients
   * Subproject tree
-  * Thresholds for performance
-
-* Announcement: Torey's technical interview
 
 #### Assignment
 
 * [Address Book Data Structure](https://github.com/tiyd-rails-2015-01/address_book_data_structure)
 
-<!--
 
 ## Wednesday
 
@@ -82,6 +79,25 @@ Students should be comfortable with the following at the end of this week:
 
 * [Ruby Puzzle](https://github.com/masonfmatthews/rails_assignments/blob/master/puzzles/string_palindrome_puzzle.rb)
 * Assignment Review
+  * Michael's hard mode
+
+* has_many :through
+* delegate - `delegate :category, to: :phone_categories`
+* default_scope
+* scoped associations
+<!--
+class Item < ActiveRecord::Base
+  has_many :orders do
+    def for_user(user_id)
+      where(user_id: user_id)
+    end
+  end
+end
+
+Item.first.orders.for_user(current_user)
+-->
+
+* Orientation on weekend project
 
 * accepts_nested_attributes
 
@@ -89,6 +105,7 @@ Students should be comfortable with the following at the end of this week:
 
 * Begin [Survey Opossum](https://github.com/tiyd-rails-2015-01/survey_opossum)
 
+<!--
 
 ## Thursday
 
@@ -96,12 +113,6 @@ Students should be comfortable with the following at the end of this week:
 
 * Ruby Quiz:
 * Assignment Review
-
-* has_many :through
-* dependent: :destroy, dependent: :restrict
-* delegate
-* default_scope (again)
-* scoped associations
 
 * SQL
 * AREL
@@ -137,7 +148,6 @@ Still haven't done:
 * Rebuilding!  Software development is a "wicked" problem
 * Multi-tenancy discussion
 * Fixtures
-* Helpers and Partials
 * Class variables - DON'T
 * Just saying: you can return objects when true/false is expected
 * Trying to change an array in an outer scope inside a called function.
