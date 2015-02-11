@@ -110,7 +110,7 @@ Students should be comfortable with the following at the end of this week:
 
 #### Lecture
 
-* Ruby Quiz:
+* [Ruby Puzzle](https://github.com/masonfmatthews/rails_assignments/blob/master/puzzles/array_and_hash_puzzle.rb)
 * Assignment Review
 
 * SQL
@@ -148,7 +148,6 @@ class Item < ActiveRecord::Base
 end
 
 Item.first.orders.for_user(current_user)
--->
 
 * Model testing in Rails
 * Coverage (simplecov)
