@@ -2,29 +2,34 @@
 layout: default
 ---
 
-## Week 6 - Overview
+## Week 7 - Overview
 
 Students should be comfortable with the following at the end of this week:
 
 * Rails and MVC (cont'd)
-* ...
+* Asset Pipeline
+* JavaScript
+* JQuery
+* JSON
 
 ## Monday
 
 #### Lecture
 
 * Project Review
-* Human Learning: Technical Debt
+* Human Learning: Autonomy/Mastery/Purpose
+* Human Learning: 12 Questions
 
-* SQL
-* AREL
-* Indices
+* M: JS Basics ; Simple in-Rails JS examples*
 
-* M: Psych (Technical Debt) ; JS Basics ; Simple in-Rails JS examples*
+#### Reading
+
+* Eloquent JavaScript
+* [JavaScript Garden](https://bonsaiden.github.io/JavaScript-Garden/)
 
 #### Assignment
 
-* SQL Queries
+*
 
 ## Tuesday
 

@@ -98,13 +98,11 @@ Students should be comfortable with the following at the end of this week:
 
 * Begin [Survey Opossum](https://github.com/tiyd-rails-2015-01/survey_opossum)
 
-  1) Create an ERD for the data structure needed to accomplish this.
-  2) Create a new Rails app with all models and migrations needed for this project.
-  3) Consider scaffolding the Survey class.  That's where most of your work will be done.
-  4) Deploy to Heroku.  Make sure that you can migrate and load a page (any page) in your browser without errors.
+  1. Create an ERD for the data structure needed to accomplish this.
+  2. Create a new Rails app with all models and migrations needed for this project.
+  3. Consider scaffolding the Survey class.  That's where most of your work will be done.
+  4. Deploy to Heroku.  Make sure that you can migrate and load a page (any page) in your browser without errors.
 
-
-<!--
 
 ## Thursday
 
@@ -112,11 +110,13 @@ Students should be comfortable with the following at the end of this week:
 
 * [Ruby Puzzle](https://github.com/masonfmatthews/rails_assignments/blob/master/puzzles/array_and_hash_puzzle.rb)
 * Assignment Review
+  * Associated question type table vs. text field
 
-* SQL
-* AREL
-* Indices
-* Dynamic Data Structures (weekend homework)
+* Site maps
+
+* Human Learning
+  * Data 1st vs. Behavior 1st (Thinking in Nouns vs. Verbs)
+  * Diagrams: Data model vs site map
 
 ## Weekend Assignment - As Pairs
 
