@@ -118,6 +118,8 @@ Students should be comfortable with the following at the end of this week:
   * Data 1st vs. Behavior 1st (Thinking in Nouns vs. Verbs)
   * Diagrams: Data model vs site map
 
+* Continue with `accepts_nested_attributes`
+
 ## Weekend Assignment - As Pairs
 
 [Survey Opossum](https://github.com/tiyd-rails-2015-01/survey_opossum)
