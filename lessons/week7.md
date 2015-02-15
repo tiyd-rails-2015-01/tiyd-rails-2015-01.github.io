@@ -12,10 +12,17 @@ Students should be comfortable with the following at the end of this week:
 * JQuery
 * JSON
 
+## Important Links
+
+* [Challenge Submission Form](http://goo.gl/forms/fpcxQCtEqs)
+* [Homework Submission Form](https://docs.google.com/forms/d/1lddv00AYx4z9ugJBYv1v2RG_JuMUpWEYPYjQGdCVdgQ/viewform?c=0&w=1)
+
+ <!--
 ## Monday
 
 #### Lecture
 
+* [Ruby Challenge](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/composition_challenge.rb)
 * Project Review
 * Human Learning: Autonomy/Mastery/Purpose
 * Human Learning: 12 Questions
@@ -35,6 +42,7 @@ Students should be comfortable with the following at the end of this week:
 
 #### Lecture
 
+* [Ruby Challenge](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/inheritance_challenge.rb)
 * Assignment Review
 * T: Asset Pipeline ; More JS Examples*
 
@@ -50,6 +58,7 @@ Students should be comfortable with the following at the end of this week:
 
 #### Lecture
 
+* [Ruby Challenge](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/include_challenge.rb)
 * Assignment Review
 * W: JQuery ; JQuery Examples*
 
@@ -65,6 +74,7 @@ Students should be comfortable with the following at the end of this week:
 
 #### Lecture
 
+* [Ruby Challenge]()
 * Assignment Review
 * Th: AJAX ; AJAX-in-Rails Examples*
 

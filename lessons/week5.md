@@ -13,7 +13,7 @@ Students should be comfortable with the following at the end of this week:
 
 ## Important Links
 
-* [Puzzle Submission Form](http://goo.gl/forms/fpcxQCtEqs)
+* [Challenge Submission Form](http://goo.gl/forms/fpcxQCtEqs)
 * [Homework Submission Form](https://docs.google.com/forms/d/1lddv00AYx4z9ugJBYv1v2RG_JuMUpWEYPYjQGdCVdgQ/viewform?c=0&w=1)
 
 
@@ -21,7 +21,7 @@ Students should be comfortable with the following at the end of this week:
 
 #### Lecture
 
-* [Ruby Puzzle](https://github.com/masonfmatthews/rails_assignments/blob/master/quizzes/if_puzzle.rb)
+* [Ruby Challenge](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/if_challenge.rb)
 * Project Review
   * Clinton and private methods
   * Diagram of which parts are accessible to which parts
@@ -56,7 +56,7 @@ Students should be comfortable with the following at the end of this week:
 
 #### Lecture
 
-* [Ruby Puzzle](https://github.com/masonfmatthews/rails_assignments/blob/master/puzzles/string_split_puzzle.rb)
+* [Ruby Challenge](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/string_split_challenge.rb)
 * Assignment Review
 
 * `dependent: :destroy` and `dependent: :restrict`
@@ -77,7 +77,7 @@ Students should be comfortable with the following at the end of this week:
 
 #### Lecture
 
-* [Ruby Puzzle](https://github.com/masonfmatthews/rails_assignments/blob/master/puzzles/string_palindrome_puzzle.rb)
+* [Ruby Challenge](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/string_palindrome_challenge.rb)
 * Assignment Review
   * Michael's hard mode
 
@@ -88,7 +88,7 @@ Students should be comfortable with the following at the end of this week:
 
 * Orientation on weekend project
 
-* accepts_nested_attributes
+* `accepts_nested_attributes`
 
 #### Notes
 
@@ -108,15 +108,17 @@ Students should be comfortable with the following at the end of this week:
 
 #### Lecture
 
-* [Ruby Puzzle](https://github.com/masonfmatthews/rails_assignments/blob/master/puzzles/array_and_hash_puzzle.rb)
+* [Ruby Challenge](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/array_and_hash_challenge.rb)
+  * `.send`
+
 * Assignment Review
   * Associated question type table vs. text field
 
-* Site maps
+* Workflow Diagrams
 
 * Human Learning
   * Data 1st vs. Behavior 1st (Thinking in Nouns vs. Verbs)
-  * Diagrams: Data model vs site map
+  * Diagrams: Data model vs workflow diagrams
 
 * Continue with `accepts_nested_attributes`
 
