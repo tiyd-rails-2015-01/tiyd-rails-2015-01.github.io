@@ -60,6 +60,7 @@
 * Alternative Deployment/Sysadmin
 * Developing on VMs
 * More NoSQL (Neo4J and/or Redis)
+* Blocks? (http://arturoherrero.com/closure-design-patterns-ruby-edition/?utm_source=rubyweekly&utm_medium=email)
 
 ## Key
 

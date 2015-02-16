@@ -44,6 +44,7 @@ Students should be comfortable with the following at the end of this week:
 
 #### Notes
 
+* [Rails helpers tutorial](http://mixandgo.com/blog/the-beginner-s-guide-to-rails-helpers?utm_source=rubyweekly&utm_medium=email)
 * [Rails footnotes](https://github.com/josevalim/rails-footnotes) - `rails generate rails_footnotes:install`
 
 #### Assignment
@@ -125,45 +126,3 @@ Students should be comfortable with the following at the end of this week:
 ## Weekend Assignment - As Pairs
 
 [Survey Opossum](https://github.com/tiyd-rails-2015-01/survey_opossum)
-
-<!--
-Still haven't done:
-
-* [Merging Apps and Heroku Deployments](https://github.com/masonfmatthews/rails_assignments/tree/master/assignments/heroku_deployments) - AS PAIRS
-
-* [Student Awards](https://github.com/masonfmatthews/rails_assignments/tree/master/assignments/student_awards)
-
-* [Rails Testing and Coverage](https://github.com/masonfmatthews/rails_assignments/tree/master/assignments/rails_testing_and_coverage)
-
-* https://www.ruby-toolbox.com
-
-* Polymorphism?
-* Single Table Inheritance?
-* "Refactoring"
-
-* scoped associations
-<!--
-class Item < ActiveRecord::Base
-  has_many :orders do
-    def for_user(user_id)
-      where(user_id: user_id)
-    end
-  end
-end
-
-Item.first.orders.for_user(current_user)
-
-* Model testing in Rails
-* Coverage (simplecov)
-* Exercise: Write a test on your last night's homework and add simplecov
-* Controller Testing
-* Integration Testing
-
-* How to Google
-* Rebuilding!  Software development is a "wicked" problem
-* Multi-tenancy discussion
-* Fixtures
-* Class variables - DON'T
-* Just saying: you can return objects when true/false is expected
-* Trying to change an array in an outer scope inside a called function.
--->
