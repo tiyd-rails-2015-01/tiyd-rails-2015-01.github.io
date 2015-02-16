@@ -28,6 +28,7 @@ Students should be comfortable with the following at the end of this week:
 * Human Learning: Technical Debt
 * [Which IDE do Rubyists use?](http://www.sitepoint.com/ides-rubyists-use/?utm_source=rubyweekly&utm_medium=email)
 
+* Faker
 * SQL
 * AREL
 * Indices
@@ -42,9 +43,14 @@ Students should be comfortable with the following at the end of this week:
   * Find the question that has been answered the most (join, group)
   * Find the most common answer to a particular question (group, order, where)
 
+#### Reading
+
+* [SQL Zoo Tutorials](http://sqlzoo.net/wiki/Main_Page)
+
 #### Assignment
 
 * [Survey Opossum Plus SQL](https://github.com/tiyd-rails-2015-01/survey_opossum_plus_sql)
+  * [Starting Point](https://github.com/SurveyGoat/survey_goat)
 
 <!--
 
