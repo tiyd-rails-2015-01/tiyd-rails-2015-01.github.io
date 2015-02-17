@@ -41,6 +41,11 @@ Students should be comfortable with the following at the end of this week:
   * Find all authors and their survey names (left join)
   * Find all authors who have never created a survey (left join, check for null)
 
+#### Notes
+
+* [Today's Video](https://www.youtube.com/watch?v=xJ7lYvRY_4w)
+* [Example SQL Repo from Class](https://github.com/tiyd-rails-2015-01/survey_goat_example)
+
 #### Reading
 
 * [SQL Zoo Tutorials](http://sqlzoo.net/wiki/Main_Page)
@@ -65,6 +70,13 @@ Students should be comfortable with the following at the end of this week:
 
 #### Notes
 
+* [Today's Morning Video](http://youtu.be/Tds2ZWkmfHU)
+* [Today's Afternoon Video](http://youtu.be/3EtcF_Av4YE)
+* [Example Mailer Repo from Class](https://github.com/tiyd-rails-2015-01/mailer_example)
+* Files from class:
+  * [Mae's SQL](w6-2/mae.rb)
+  * [Mason's Notes during HW Review](w6-2/sql_example.rb)
+  * [Left Join example in Excel](w6-2/left_join.xlsx)
 * [Rails Guides: ActionMailer](http://guides.rubyonrails.org/action_mailer_basics.html)
 * [SendGrid](https://addons.heroku.com/sendgrid?utm_campaign=category&utm_medium=dashboard&utm_source=addons)
 * [Devise](https://github.com/plataformatec/devise)
