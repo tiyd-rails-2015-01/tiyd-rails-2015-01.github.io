@@ -40,8 +40,6 @@ Students should be comfortable with the following at the end of this week:
   * Find all answers accompanied by question texts (join)
   * Find all authors and their survey names (left join)
   * Find all authors who have never created a survey (left join, check for null)
-  * Find the question that has been answered the most (join, group)
-  * Find the most common answer to a particular question (group, order, where)
 
 #### Reading
 
@@ -52,7 +50,6 @@ Students should be comfortable with the following at the end of this week:
 * [Survey Opossum Plus SQL](https://github.com/tiyd-rails-2015-01/survey_opossum_plus_sql)
   * [Starting Point](https://github.com/SurveyGoat/survey_goat)
 
-<!--
 
 ## Tuesday
 
@@ -60,11 +57,24 @@ Students should be comfortable with the following at the end of this week:
 
 * [Ruby Challenge](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/enumerable_challenge.rb)
 * Assignment Review
-* T: Michael Byrd's Testing Day
+  * `create` instead of `create!`
+  * indices
+
+* Mailers
+* Devise?
+
+#### Notes
+
+* [Rails Guides: ActionMailer](http://guides.rubyonrails.org/action_mailer_basics.html)
+* [SendGrid](https://addons.heroku.com/sendgrid?utm_campaign=category&utm_medium=dashboard&utm_source=addons)
+* [Devise](https://github.com/plataformatec/devise)
 
 #### Assignment
 
-* Michael Byrd's Assignment
+* [Survey Opossum Plus Mailer](https://github.com/tiyd-rails-2015-01/survey_opossum_plus_mailer)
+  * [Starting Point](https://github.com/SurveyGoat/survey_goat) (same as last night)
+
+<!--
 
 ## Wednesday
 
@@ -72,16 +82,16 @@ Students should be comfortable with the following at the end of this week:
 
 * [Ruby Challenge](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/double_loop_challenge.rb)
 * Assignment Review
-* Mailers
-* Devise
+
+* Michael Byrd's Testing Day
 
 #### Reading
 
-* https://signalvnoise.com/posts/3697-server-generated-javascript-responses
+*
 
 #### Assignment
 
-* Modify your teacher phonebook app to add devise.  Use forgot password, remember me, add testing.
+*
 
 ## Thursday
 
