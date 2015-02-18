@@ -25,13 +25,10 @@ Students should be comfortable with the following at the end of this week:
 
 * [Ruby Challenge](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/hash_challenge.rb)
 * Project Review
-* Human Learning: Technical Debt
-* [Which IDE do Rubyists use?](http://www.sitepoint.com/ides-rubyists-use/?utm_source=rubyweekly&utm_medium=email)
 
 * Faker
 * SQL
 * AREL
-* Indices
 
 * In class:
   * Find the names of all multiple choice questions (where)
@@ -49,6 +46,7 @@ Students should be comfortable with the following at the end of this week:
 #### Reading
 
 * [SQL Zoo Tutorials](http://sqlzoo.net/wiki/Main_Page)
+* [SQL to Rails Queries](http://guides.rubyonrails.org/v3.2.13/active_record_querying.html)
 
 #### Assignment
 
@@ -63,10 +61,8 @@ Students should be comfortable with the following at the end of this week:
 * [Ruby Challenge](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/enumerable_challenge.rb)
 * Assignment Review
   * `create` instead of `create!`
-  * indices
 
 * Mailers
-* Devise?
 
 #### Notes
 
@@ -86,7 +82,6 @@ Students should be comfortable with the following at the end of this week:
 * [Survey Opossum Plus Mailer](https://github.com/tiyd-rails-2015-01/survey_opossum_plus_mailer)
   * [Starting Point](https://github.com/SurveyGoat/survey_goat) (same as last night)
 
-<!--
 
 ## Wednesday
 
@@ -95,15 +90,17 @@ Students should be comfortable with the following at the end of this week:
 * [Ruby Challenge](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/double_loop_challenge.rb)
 * Assignment Review
 
-* Michael Byrd's Testing Day
-
-#### Reading
-
-*
+* Fixtures
+* Unit Testing
+* Controller Testing
+* Integration Testing
 
 #### Assignment
 
-*
+* [Survey Opossum Plus Testing](https://github.com/tiyd-rails-2015-01/survey_opossum_plus_testing)
+  * [Starting Point](https://github.com/tiyd-rails-2015-01/survey_testing_starting_point)
+
+<!--
 
 ## Thursday
 
@@ -125,6 +122,11 @@ Students should be comfortable with the following at the end of this week:
 
 <!--
 Still haven't done:
+
+* Devise?
+* Indices
+* Human Learning: Technical Debt
+* [Which IDE do Rubyists use?](http://www.sitepoint.com/ides-rubyists-use/?utm_source=rubyweekly&utm_medium=email)
 
 * [Merging Apps and Heroku Deployments](https://github.com/masonfmatthews/rails_assignments/tree/master/assignments/heroku_deployments) - AS PAIRS
 
