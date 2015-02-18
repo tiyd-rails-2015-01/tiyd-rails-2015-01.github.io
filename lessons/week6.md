@@ -95,36 +95,54 @@ Students should be comfortable with the following at the end of this week:
 * Controller Testing
 * Integration Testing
 
+#### Notes
+
+* [Today's Video](http://youtu.be/_TwDgO0aQ7s)
+* [Example Testing Repo from Class](https://github.com/tiyd-rails-2015-01/testing_example)
+* Files from class:
+  * [List of what we covered](https://github.com/tiyd-rails-2015-01/testing_example/test_types.md)
+  * [Double Loop Example](w6-3/double_loop.xlsx)
+
 #### Assignment
 
 * [Survey Opossum Plus Testing](https://github.com/tiyd-rails-2015-01/survey_opossum_plus_testing)
   * [Starting Point](https://github.com/tiyd-rails-2015-01/survey_testing_starting_point)
 
-<!--
 
 ## Thursday
 
 #### Lecture
 
-* [Ruby Challenge](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/optional_parameters_challenge.rb)
-* Assignment Review
-* Paperclip ; Amazon S3 ; SimpleForm
+* Chris and Mason Pairing on Survey Opossum
+* Minimum Viable Product
+* Ship It
 
 #### Notes
 
-* [SimpleForm](https://github.com/plataformatec/simple_form)
+* [Article on Pair Programming Styles](http://articles.coreyhaines.com/posts/thoughts-on-pair-programming/)
+
 
 ## Weekend Assignment - As Pairs
 
-[Online Constituent Voting](https://github.com/tiyd-rails-2015-01/online_voting)
+* [Ping-pong Pairing]()
+  * Getting a start on: [Online Constituent Voting](https://github.com/tiyd-rails-2015-01/online_voting)
 
 
 
 <!--
 Still haven't done:
 
+
+* [Ruby Challenge](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/optional_parameters_challenge.rb)
+* Assignment Review
+* Paperclip ; Amazon S3 ; SimpleForm
+* [SimpleForm](https://github.com/plataformatec/simple_form)
+
+* [Other ruby frameworks](https://blog.engineyard.com/2015/life-beyond-rails-brief-look-alternate-web-frameworks-ruby)
+
 * Devise?
 * Indices
+* Capybara
 * Human Learning: Technical Debt
 * [Which IDE do Rubyists use?](http://www.sitepoint.com/ides-rubyists-use/?utm_source=rubyweekly&utm_medium=email)
 
@@ -135,6 +153,8 @@ Still haven't done:
 * [Rails Testing and Coverage](https://github.com/masonfmatthews/rails_assignments/tree/master/assignments/rails_testing_and_coverage)
 
 * https://www.ruby-toolbox.com
+
+* http://mislav.uniqpath.com/poignant-guide/
 
 * Polymorphism?
 * Single Table Inheritance?
@@ -152,11 +172,8 @@ end
 
 Item.first.orders.for_user(current_user)
 
-* Model testing in Rails
 * Coverage (simplecov)
 * Exercise: Write a test on your last night's homework and add simplecov
-* Controller Testing
-* Integration Testing
 
 * How to Google
 * Rebuilding!  Software development is a "wicked" problem
