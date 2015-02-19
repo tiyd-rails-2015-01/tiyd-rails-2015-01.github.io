@@ -90,6 +90,7 @@ Students should be comfortable with the following at the end of this week:
 * [Ruby Challenge](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/double_loop_challenge.rb)
 * Assignment Review
 
+* minitest-reporters
 * Fixtures
 * Unit Testing
 * Controller Testing
@@ -124,9 +125,8 @@ Students should be comfortable with the following at the end of this week:
 
 ## Weekend Assignment - As Pairs
 
-* [Ping-pong Pairing]()
-  * Getting a start on: [Online Constituent Voting](https://github.com/tiyd-rails-2015-01/online_voting)
-
+* [Ping-pong Pairing](https://github.com/tiyd-rails-2015-01/ping_pong_pairing)
+  * You will be getting a start on: [Online Constituent Voting](https://github.com/tiyd-rails-2015-01/online_voting)
 
 
 <!--
