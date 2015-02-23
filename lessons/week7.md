@@ -64,19 +64,19 @@ goodbye(); // Goodbye world!
   * Log
   * getElementById
   * getElementByClassName
-  * innerHTML
+  * cloneNode
 * JS in:
-  * script tags
   * in HTML tags
-  * in Rails files - included in application.html.erb (unobtrusive javascript)
+  * in Rails files
 * JS in Rails
-  * Hiding or showing section based on a dropdown
-  * Locking a button after you click on it
-  * Don't submit a form
+  * Setting the value of an input field
+  * Hiding or showing section based on a radio button
+  * Copying something on the page
 
 #### Notes
 
 * [Application from homework review](https://github.com/tiyd-rails-2015-01/online_voting_example)
+* [Application from afternoon](https://github.com/tiyd-rails-2015-01/javascript_playground)
 
 #### Reading
 
@@ -88,7 +88,6 @@ goodbye(); // Goodbye world!
 * [Add Javascript](https://github.com/tiyd-rails-2015-01/add_javascript)
   * [Starting Point](https://github.com/tiyd-rails-2015-01/coursyl)
 
-
 <!--
 
 ## Tuesday
@@ -97,6 +96,11 @@ goodbye(); // Goodbye world!
 
 * [Ruby Challenge](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/array_and_hash_challenge.rb)
 * Assignment Review
+
+* Load order
+* Javascript in script tags
+* Unobtrusive Javascript
+
 * JSON
 * JQuery
   * Using `data-` attributes to select
