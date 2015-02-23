@@ -85,6 +85,8 @@ These web sites are great learning resources and will help you out during the co
 
 ## JavaScript
 
+* [Eloquent JavaScript](http://eloquentjavascript.net/)
+* [JavaScript Garden](https://bonsaiden.github.io/JavaScript-Garden/)
 * [Mozilla Developer Network - JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) - documentation for JavaScript
 * [Code Combat](http://codecombat.com/) - Learn JavaScript by playing a game
 * [JS on Codecademy](http://www.codecademy.com/en/tracks/javascript)
