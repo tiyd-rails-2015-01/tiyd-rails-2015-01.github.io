@@ -74,6 +74,10 @@ goodbye(); // Goodbye world!
   * Locking a button after you click on it
   * Don't submit a form
 
+#### Notes
+
+* [Application from homework review](https://github.com/tiyd-rails-2015-01/online_voting_example)
+
 #### Reading
 
 * Chapters 1 and 2 of [Eloquent JavaScript](http://eloquentjavascript.net/)
