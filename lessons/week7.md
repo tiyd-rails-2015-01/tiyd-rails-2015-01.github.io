@@ -22,13 +22,14 @@ Students should be comfortable with the following at the end of this week:
 
 #### Lecture
 
-* [Ruby Challenge](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/classes_challenge.rb)
+* [Ruby Challenge](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/double_loop_challenge.rb)
+* [Advanced Ruby Challenge](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/primes_challenge.rb)
 * Project Review
   * BCrypt::Password.create("password", cost: 4)
   * capybara
 
-* Human Learning: Autonomy/Mastery/Purpose
-* Human Learning: 12 Questions
+* Human Learning: [Autonomy/Mastery/Purpose](https://www.youtube.com/watch?v=u6XAPnuFjJc)
+* Human Learning: [12 Questions](w7-1/12questions.pdf)
 
 * Javascript
   * Surprisingly similar to ruby
@@ -90,7 +91,7 @@ goodbye(); // Goodbye world!
 
 #### Lecture
 
-* [Ruby Challenge](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/composition_challenge.rb)
+* [Ruby Challenge](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/array_and_hash_challenge.rb)
 * Assignment Review
 * JSON
 * JQuery
@@ -109,7 +110,7 @@ goodbye(); // Goodbye world!
 
 #### Lecture
 
-* [Ruby Challenge](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/inheritance_challenge.rb)
+* [Ruby Challenge](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/string_palindrome_challenge.rb)
 * Assignment Review
 * AJAX
 
@@ -126,7 +127,7 @@ goodbye(); // Goodbye world!
 
 #### Lecture
 
-* [Ruby Challenge](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/include_challenge.rb)
+* [Ruby Challenge](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/enumerable_challenge.rb)
 * Assignment Review
 
 ## Weekend Assignment - As Pairs
