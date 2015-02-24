@@ -88,7 +88,6 @@ goodbye(); // Goodbye world!
 * [Add Javascript](https://github.com/tiyd-rails-2015-01/add_javascript)
   * [Starting Point](https://github.com/tiyd-rails-2015-01/coursyl)
 
-<!--
 
 ## Tuesday
 
@@ -96,14 +95,16 @@ goodbye(); // Goodbye world!
 
 * [Ruby Challenge](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/array_and_hash_challenge.rb)
 * Assignment Review
+  * Load order
+    * Hide last row
+    * `addEventListener()`
+    * Javascript in script tags
 
-* Load order
-* Javascript in script tags
+* JQuery
 * Unobtrusive Javascript
+  * Using `data-` attributes to select
 
 * JSON
-* JQuery
-  * Using `data-` attributes to select
 
 #### Reading
 
@@ -112,7 +113,10 @@ goodbye(); // Goodbye world!
 
 #### Assignment
 
-*
+* [Add JQuery](https://github.com/tiyd-rails-2015-01/add_jquery)
+  * [Starting Point](https://github.com/tiyd-rails-2015-01/coursyl)
+
+<!--
 
 ## Wednesday
 
@@ -120,6 +124,10 @@ goodbye(); // Goodbye world!
 
 * [Ruby Challenge](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/string_palindrome_challenge.rb)
 * Assignment Review
+
+* Human Learning: Technical Debt
+  * Rebuilding!  Software development is a "wicked" problem
+
 * AJAX
 
 #### Reading
@@ -138,6 +146,11 @@ goodbye(); // Goodbye world!
 * [Ruby Challenge](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/enumerable_challenge.rb)
 * Assignment Review
 
+* Indices
+* Capybara (lecture by Thomas and Chris)
+* Coverage (simplecov)
+* Exercise: Add simplecov to your last weekend's project
+
 ## Weekend Assignment - As Pairs
 
 [Online Constituent Voting](https://github.com/masonfmatthews/rails_assignments/tree/master/projects/health_tracker)
@@ -148,16 +161,13 @@ goodbye(); // Goodbye world!
 Still haven't done:
 
 * [Ruby Challenge](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/optional_parameters_challenge.rb)
-* Assignment Review
 * Paperclip ; Amazon S3 ; SimpleForm
 * [SimpleForm](https://github.com/plataformatec/simple_form)
 
 * [Other ruby frameworks](https://blog.engineyard.com/2015/life-beyond-rails-brief-look-alternate-web-frameworks-ruby)
 
 * Devise?
-* Indices
-* Capybara
-* Human Learning: Technical Debt
+
 * [Which IDE do Rubyists use?](http://www.sitepoint.com/ides-rubyists-use/?utm_source=rubyweekly&utm_medium=email)
 
 * [Merging Apps and Heroku Deployments](https://github.com/masonfmatthews/rails_assignments/tree/master/assignments/heroku_deployments) - AS PAIRS
@@ -186,13 +196,8 @@ end
 
 Item.first.orders.for_user(current_user)
 
-* Coverage (simplecov)
-* Exercise: Write a test on your last night's homework and add simplecov
-
 * How to Google
-* Rebuilding!  Software development is a "wicked" problem
 * Multi-tenancy discussion
-* Fixtures
 * Class variables - DON'T
 * Just saying: you can return objects when true/false is expected
 * Trying to change an array in an outer scope inside a called function.
