@@ -106,6 +106,13 @@ goodbye(); // Goodbye world!
 
 * JSON
 
+#### Notes
+
+* [Javascript playground with some JQuery](https://github.com/tiyd-rails-2015-01/javascript_playground)
+* [Last Night's homework with some JQuery](https://github.com/tiyd-rails-2015-01/coursyl_with_some_jquery)
+* [Video from Today](http://youtu.be/DeoxHlqCowc)
+
+
 #### Reading
 
 * Chapters 12, 13 of [Eloquent JavaScript](http://eloquentjavascript.net/)
@@ -114,7 +121,7 @@ goodbye(); // Goodbye world!
 #### Assignment
 
 * [Add JQuery](https://github.com/tiyd-rails-2015-01/add_jquery)
-  * [Starting Point](https://github.com/tiyd-rails-2015-01/coursyl)
+  * [Starting Point](https://github.com/tiyd-rails-2015-01/coursyl_with_some_jquery)
 
 <!--
 
@@ -153,7 +160,7 @@ goodbye(); // Goodbye world!
 
 ## Weekend Assignment - As Pairs
 
-[Online Constituent Voting](https://github.com/masonfmatthews/rails_assignments/tree/master/projects/health_tracker)
+[Auction Site](https://github.com/masonfmatthews/rails_assignments/tree/master/projects/health_tracker)
 
 
 

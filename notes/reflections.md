@@ -15,6 +15,7 @@
 * Git immersion stunk.  Pro Git better?
 * Update assignment JSONs as we work through cohort 4.
 * Write an Address Book assignment to follow Address Book Data Structure (and beef up requirements of ABDS a bit)
+* Regret not having a completed full Rails app each weekend.
 
 
 Rails approach for next time:
