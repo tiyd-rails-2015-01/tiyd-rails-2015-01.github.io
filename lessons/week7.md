@@ -123,7 +123,6 @@ goodbye(); // Goodbye world!
 * [Add JQuery](https://github.com/tiyd-rails-2015-01/add_jquery)
   * [Starting Point](https://github.com/tiyd-rails-2015-01/coursyl_with_some_jquery)
 
-<!--
 
 ## Wednesday
 
@@ -144,7 +143,10 @@ goodbye(); // Goodbye world!
 
 #### Assignment
 
-*
+* [Auction Site with AJAX](https://github.com/tiyd-rails-2015-01/auction_ajax)
+
+
+<!--
 
 ## Thursday
 
