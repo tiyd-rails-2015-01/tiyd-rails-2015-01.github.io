@@ -129,15 +129,12 @@ Students should be comfortable with the following at the end of this week:
 * [Ruby Challenge](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/string_palindrome_challenge.rb)
 * Assignment Review
 
-* Human Learning: Technical Debt
-  * Rebuilding!  Software development is a "wicked" problem
-
 * AJAX
 
 #### Links
 
-* [Video from Today]()
-* [AJAX Quote App]()
+* [Video from Today](http://youtu.be/OLLb_ZVU_ow)
+* [AJAX Quote App](https://github.com/tiyd-rails-2015-01/example_ajax)
 
 #### Reading
 
@@ -157,6 +154,9 @@ Students should be comfortable with the following at the end of this week:
 
 * [Ruby Challenge](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/enumerable_challenge.rb)
 * Assignment Review
+
+* Human Learning: Technical Debt
+  * Rebuilding!  Software development is a "wicked" problem
 
 * Indices
 * Capybara (lecture by Thomas and Chris)
