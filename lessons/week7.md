@@ -127,14 +127,27 @@ Students should be comfortable with the following at the end of this week:
 #### Lecture
 
 * [Ruby Challenge](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/string_palindrome_challenge.rb)
+  * you can return objects when true/false is expected (predicate methods - with ? at the end)
+
 * Assignment Review
+  * JQuery UI
+  * JQuery Plugins
+  * The downsides of linking to external styles/javascript
+  * Installing gems vs. copying assets
+  * Ruby Toolbox
 
 * AJAX
+  * The way to replace sections of a page without reloading the whole page!
+  * `remote: true` on links and forms
+  * Rendering `.js.erb` files as responses to AJAX calls
+  * `render @quote` (if `@quote` contains one Quote instance) uses `_quote.html.erb`
+  * `render @quotes` (if `@quotes` contains an array of Quote instances) uses `_quote.html.erb` many times
 
 #### Links
 
 * [Video from Today](http://youtu.be/OLLb_ZVU_ow)
 * [AJAX Quote App](https://github.com/tiyd-rails-2015-01/example_ajax)
+* [Ruby Toolbox](https://www.ruby-toolbox.com)
 
 #### Reading
 
@@ -152,33 +165,34 @@ Students should be comfortable with the following at the end of this week:
 
 #### Lecture
 
-* [Ruby Challenge](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/enumerable_challenge.rb)
+* [Repeat Ruby Challenge](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/enumerable_challenge.rb)
+* [New Ruby Challenge](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/optional_parameters_challenge.rb)
+
 * Assignment Review
 
 * Human Learning: Technical Debt
   * Rebuilding!  Software development is a "wicked" problem
 
-* Indices
 * Capybara (lecture by Thomas and Chris)
 * Coverage (simplecov)
-* Exercise: Add simplecov to your last weekend's project?
+* Indices
+* [SimpleForm](https://github.com/plataformatec/simple_form)
 
 ## Weekend Assignment - As Pairs
 
-[Auction Site](https://github.com/masonfmatthews/rails_assignments/tree/master/projects/health_tracker)
+[Todo List](https://github.com/tiyd-rails-2015-01/auction_ajax)
 
 
 
 <!--
 Still haven't done:
-* JSON
-* [Ruby Challenge](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/optional_parameters_challenge.rb)
 * Paperclip ; Amazon S3 ; SimpleForm
 * [SimpleForm](https://github.com/plataformatec/simple_form)
 
-* [Other ruby frameworks](https://blog.engineyard.com/2015/life-beyond-rails-brief-look-alternate-web-frameworks-ruby)
-
 * Devise?
+
+
+* [Other ruby frameworks](https://blog.engineyard.com/2015/life-beyond-rails-brief-look-alternate-web-frameworks-ruby)
 
 * [Which IDE do Rubyists use?](http://www.sitepoint.com/ides-rubyists-use/?utm_source=rubyweekly&utm_medium=email)
 
@@ -187,8 +201,6 @@ Still haven't done:
 * [Student Awards](https://github.com/masonfmatthews/rails_assignments/tree/master/assignments/student_awards)
 
 * [Rails Testing and Coverage](https://github.com/masonfmatthews/rails_assignments/tree/master/assignments/rails_testing_and_coverage)
-
-* https://www.ruby-toolbox.com
 
 * http://mislav.uniqpath.com/poignant-guide/
 
@@ -211,6 +223,5 @@ Item.first.orders.for_user(current_user)
 * How to Google
 * Multi-tenancy discussion
 * Class variables - DON'T
-* Just saying: you can return objects when true/false is expected
 * Trying to change an array in an outer scope inside a called function.
 -->
