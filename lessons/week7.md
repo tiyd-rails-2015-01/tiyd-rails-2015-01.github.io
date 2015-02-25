@@ -6,11 +6,11 @@ layout: default
 
 Students should be comfortable with the following at the end of this week:
 
-* Rails and MVC (cont'd)
-* Asset Pipeline
+* Asset Pipeline (cont'd)
 * JavaScript
 * JQuery
-* JSON
+* AJAX
+* Rails Testing and Coverage (cont'd)
 
 ## Important Links
 
@@ -33,47 +33,48 @@ Students should be comfortable with the following at the end of this week:
 
 * Javascript
   * Surprisingly similar to ruby
-  * do..end vs {}
-  * == vs ===
+  * `var` keyword
+  * `do..end` vs `{}`
+  * `==` vs `===`
+  * `[1, 2, 3] === [1, 2, 3]`
   * methods vs functions
   * implicit vs explicit return
   * hashes vs "objects"
   * numbers
-  * `var` keyword
-  * else if
+  * `else if`
+  * capitalization in variable names
 
 * Functions
-  * in variables
+  * First, define them as we would in Ruby: `function sayHi() { alert("Hi"); }`
+  * Can be stored in variables
   * `[1, 2, 3].forEach(function (number) { console.log(number * number); });`
 
-```function greet(greeting) {
-  return function() {
-    return greeting + " world!";
-  };
-}
-
-var hello = greet("Hello");
-var goodbye = greet("Goodbye");
-
-hello(); // Hello world!
-goodbye(); // Goodbye world!
-```
+    function greet(greeting) {
+      return function() {
+        return greeting + " world!";
+      };
+    }
+    var hello = greet("Hello");
+    var goodbye = greet("Goodbye");
+    hello(); // Hello world!
+    goodbye(); // Goodbye world!
 
 * JS in the Console
   * Alert
   * Log
-  * getElementById
-  * getElementByClassName
-  * cloneNode
+  * `getElementById`
+  * `getElementByClassName`
+  * `lastElementChild`
+  * `cloneNode`
 * JS in:
   * in HTML tags
   * in Rails files
-* JS in Rails
+* JS in Rails - `javascript_playground` repository
   * Setting the value of an input field
   * Hiding or showing section based on a radio button
   * Copying something on the page
 
-#### Notes
+#### Links
 
 * [Application from homework review](https://github.com/tiyd-rails-2015-01/online_voting_example)
 * [Application from afternoon](https://github.com/tiyd-rails-2015-01/javascript_playground)
@@ -104,14 +105,11 @@ goodbye(); // Goodbye world!
 * Unobtrusive Javascript
   * Using `data-` attributes to select
 
-* JSON
-
-#### Notes
+#### Links
 
 * [Javascript playground with some JQuery](https://github.com/tiyd-rails-2015-01/javascript_playground)
 * [Last Night's homework with some JQuery](https://github.com/tiyd-rails-2015-01/coursyl_with_some_jquery)
 * [Video from Today](http://youtu.be/DeoxHlqCowc)
-
 
 #### Reading
 
@@ -136,6 +134,11 @@ goodbye(); // Goodbye world!
 
 * AJAX
 
+#### Links
+
+* [Video from Today]()
+* [AJAX Quote App]()
+
 #### Reading
 
 * Chapters 17, 18 of [Eloquent JavaScript](http://eloquentjavascript.net/)
@@ -158,7 +161,7 @@ goodbye(); // Goodbye world!
 * Indices
 * Capybara (lecture by Thomas and Chris)
 * Coverage (simplecov)
-* Exercise: Add simplecov to your last weekend's project
+* Exercise: Add simplecov to your last weekend's project?
 
 ## Weekend Assignment - As Pairs
 
@@ -168,7 +171,7 @@ goodbye(); // Goodbye world!
 
 <!--
 Still haven't done:
-
+* JSON
 * [Ruby Challenge](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/optional_parameters_challenge.rb)
 * Paperclip ; Amazon S3 ; SimpleForm
 * [SimpleForm](https://github.com/plataformatec/simple_form)
