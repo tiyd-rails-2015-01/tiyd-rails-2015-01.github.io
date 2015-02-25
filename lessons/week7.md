@@ -152,7 +152,7 @@ Students should be comfortable with the following at the end of this week:
 #### Reading
 
 * Chapters 17, 18 of [Eloquent JavaScript](http://eloquentjavascript.net/)
-* https://signalvnoise.com/posts/3697-server-generated-javascript-responses
+* [The creator of Rails speaks on how Rails does AJAX](https://signalvnoise.com/posts/3697-server-generated-javascript-responses)
 
 #### Assignment
 
