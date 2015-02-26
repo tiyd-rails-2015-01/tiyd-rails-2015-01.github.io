@@ -135,6 +135,7 @@ Students should be comfortable with the following at the end of this week:
   * The downsides of linking to external styles/javascript
   * Installing gems vs. copying assets
   * Ruby Toolbox
+  * Dateselect vs Datetimeselect
 
 * AJAX
   * The way to replace sections of a page without reloading the whole page!
@@ -145,6 +146,7 @@ Students should be comfortable with the following at the end of this week:
 
 #### Links
 
+* [JQuery UI](http://jqueryui.com/)
 * [Video from Today](http://youtu.be/OLLb_ZVU_ow)
 * [AJAX Quote App](https://github.com/tiyd-rails-2015-01/example_ajax)
 * [Ruby Toolbox](https://www.ruby-toolbox.com)
@@ -159,8 +161,6 @@ Students should be comfortable with the following at the end of this week:
 * [Auction Site with AJAX](https://github.com/tiyd-rails-2015-01/auction_ajax)
 
 
-<!--
-
 ## Thursday
 
 #### Lecture
@@ -169,6 +169,7 @@ Students should be comfortable with the following at the end of this week:
 * [New Ruby Challenge](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/optional_parameters_challenge.rb)
 
 * Assignment Review
+  * Underscore vs hyphen vs camelCase review
 
 * Human Learning: Technical Debt
   * Rebuilding!  Software development is a "wicked" problem
@@ -180,7 +181,7 @@ Students should be comfortable with the following at the end of this week:
 
 ## Weekend Assignment - As Pairs
 
-[Todo List](https://github.com/tiyd-rails-2015-01/auction_ajax)
+[Todo List](https://github.com/tiyd-rails-2015-01/todo_app)
 
 
 
