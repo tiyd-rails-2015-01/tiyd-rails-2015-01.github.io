@@ -168,61 +168,14 @@ Students should be comfortable with the following at the end of this week:
 * [Repeat Ruby Challenge](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/enumerable_challenge.rb)
 * [New Ruby Challenge](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/optional_parameters_challenge.rb)
 
+* Challenge Review
+* Code Efficiency - Primes discussion
+  * `n` algorithms (single loops)
+  * `n^2` algorithms (nested loop)
+  * Terminating loops early
+  * Doing extra work once can save you time inside loops
 * Assignment Review
-  * Underscore vs hyphen vs camelCase review
-
-* Human Learning: Technical Debt
-  * Rebuilding!  Software development is a "wicked" problem
-
-* Capybara (lecture by Thomas and Chris)
-* Coverage (simplecov)
-* Indices
-* [SimpleForm](https://github.com/plataformatec/simple_form)
 
 ## Weekend Assignment - As Pairs
 
 [Todo List](https://github.com/tiyd-rails-2015-01/todo_app)
-
-
-
-<!--
-Still haven't done:
-* Paperclip ; Amazon S3 ; SimpleForm
-* [SimpleForm](https://github.com/plataformatec/simple_form)
-
-* Devise?
-
-
-* [Other ruby frameworks](https://blog.engineyard.com/2015/life-beyond-rails-brief-look-alternate-web-frameworks-ruby)
-
-* [Which IDE do Rubyists use?](http://www.sitepoint.com/ides-rubyists-use/?utm_source=rubyweekly&utm_medium=email)
-
-* [Merging Apps and Heroku Deployments](https://github.com/masonfmatthews/rails_assignments/tree/master/assignments/heroku_deployments) - AS PAIRS
-
-* [Student Awards](https://github.com/masonfmatthews/rails_assignments/tree/master/assignments/student_awards)
-
-* [Rails Testing and Coverage](https://github.com/masonfmatthews/rails_assignments/tree/master/assignments/rails_testing_and_coverage)
-
-* http://mislav.uniqpath.com/poignant-guide/
-
-* Polymorphism?
-* Single Table Inheritance?
-* "Refactoring"
-
-* scoped associations
-<!--
-class Item < ActiveRecord::Base
-  has_many :orders do
-    def for_user(user_id)
-      where(user_id: user_id)
-    end
-  end
-end
-
-Item.first.orders.for_user(current_user)
-
-* How to Google
-* Multi-tenancy discussion
-* Class variables - DON'T
-* Trying to change an array in an outer scope inside a called function.
--->
