@@ -16,6 +16,8 @@
 * Update assignment JSONs as we work through cohort 4.
 * Write an Address Book assignment to follow Address Book Data Structure (and beef up requirements of ABDS a bit)
 * Regret not having a completed full Rails app each weekend.
+* Review clinton's assignments again and make my versions as needed.
+* APIs at the beginning of Rails.
 
 
 Rails approach for next time:

@@ -176,6 +176,13 @@ Students should be comfortable with the following at the end of this week:
   * Doing extra work once can save you time inside loops
 * Assignment Review
 
+#### Links
+
+* [Optional Parameters Challenge](w7-4/optional_parameters.rb)
+* [Primes Challenge](w7-4/primes.rb)
+* [Video from Today](https://www.youtube.com/watch?v=hrS5GUV8c4c)
+* [Video from Friday mini-lecture](https://www.youtube.com/watch?v=XB7W6oMZQOo)
+
 ## Weekend Assignment - As Pairs
 
 [Todo List](https://github.com/tiyd-rails-2015-01/todo_app)
