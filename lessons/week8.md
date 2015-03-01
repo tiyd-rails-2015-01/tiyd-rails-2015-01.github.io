@@ -6,8 +6,7 @@ layout: default
 
 Students should be comfortable with the following at the end of this week:
 
-* JSON
-* CSV
+* JSON, XML, CSV Data
 * API Consumption
 * API Creation
 * Background Processing
@@ -17,26 +16,44 @@ Students should be comfortable with the following at the end of this week:
 * [Challenge Submission Form](http://goo.gl/forms/fpcxQCtEqs)
 * [Homework Submission Form](https://docs.google.com/forms/d/1lddv00AYx4z9ugJBYv1v2RG_JuMUpWEYPYjQGdCVdgQ/viewform?c=0&w=1)
 
- <!--
+<!--
+
 ## Monday
 
 #### Lecture
 
 * [Ruby Challenge](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/classes_challenge.rb)
 * Project Review
-* Human Learning: Autonomy/Mastery/Purpose
-* Human Learning: 12 Questions
 
-* M: JS Basics ; Simple in-Rails JS examples*
+* Human Learning: Technical Debt
+  * Rebuilding!  Software development is a "wicked" problem
+  * "Refactoring"
+
+* What is an API?
+  * The term is way more broad than we think it is.
+  * Each class in your application technically has an API.  It's the set of methods you can call on it and its instances.
+* On the web, what sort of data do we get back from APIs?
+  * http://placekitten.com
+  * http://version1.api.memegenerator.net/
+  * http://api.jquery.com/
+  * https://api.github.com/users/masonfmatthews/events (JSON)
+  * JSON
+  * http://whoismyrepresentative.com/getall_mems.php?zip=27701 (XML)
+  * XML
+  * https://developer.github.com/v3/
+  * https://api.stackexchange.com/
+* API Keys
+  * http://api.wunderground.com
+* Building a Rails app
+  * HTTParty
 
 #### Reading
 
-* Eloquent JavaScript
-* [JavaScript Garden](https://bonsaiden.github.io/JavaScript-Garden/)
+*
 
 #### Assignment
 
-*
+* [Recreate Github Profile]()
 
 ## Tuesday
 
@@ -44,7 +61,10 @@ Students should be comfortable with the following at the end of this week:
 
 * [Ruby Challenge](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/composition_challenge.rb)
 * Assignment Review
-* T: Asset Pipeline ; More JS Examples*
+
+* After querying, store info in database?
+* API Version Numbers
+* Nesting Routes
 
 #### Reading
 
@@ -52,7 +72,7 @@ Students should be comfortable with the following at the end of this week:
 
 #### Assignment
 
-*
+* [Add a Voting API to Online Constituents]()
 
 ## Wednesday
 
@@ -60,15 +80,17 @@ Students should be comfortable with the following at the end of this week:
 
 * [Ruby Challenge](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/inheritance_challenge.rb)
 * Assignment Review
-* W: JQuery ; JQuery Examples*
+
+* Background Processing
+* Database-backended APIs
 
 #### Reading
 
-* https://signalvnoise.com/posts/3697-server-generated-javascript-responses
+*
 
 #### Assignment
 
-*
+* [Cache Invalidation]()
 
 ## Thursday
 
@@ -76,29 +98,18 @@ Students should be comfortable with the following at the end of this week:
 
 * [Ruby Challenge](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/include_challenge.rb)
 * Assignment Review
-* Th: AJAX ; AJAX-in-Rails Examples*
+
+* OAuth
+
 
 ## Weekend Assignment - As Pairs
 
-[Online Constituent Voting](https://github.com/masonfmatthews/rails_assignments/tree/master/projects/health_tracker)
+[Build Your Own API]()
+
 
 <!--
 
 * Underscore vs hyphen vs camelCase review
-
-* Human Learning: Technical Debt
-* Rebuilding!  Software development is a "wicked" problem
-
-* Capybara (lecture by Thomas and Chris)
-* Coverage (simplecov)
-* Indices
-
-Still haven't done:
-* Paperclip ; Amazon S3 ; SimpleForm
-* [SimpleForm](https://github.com/plataformatec/simple_form)
-
-* Devise?
-
 
 * [Other ruby frameworks](https://blog.engineyard.com/2015/life-beyond-rails-brief-look-alternate-web-frameworks-ruby)
 
@@ -114,7 +125,6 @@ Still haven't done:
 
 * Polymorphism?
 * Single Table Inheritance?
-* "Refactoring"
 
 * scoped associations
 <!--

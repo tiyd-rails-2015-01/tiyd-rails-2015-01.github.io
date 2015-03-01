@@ -2,15 +2,16 @@
 layout: default
 ---
 
-## Week 7 - Overview
+## Week 9 - Overview
 
 Students should be comfortable with the following at the end of this week:
 
-* Rails and MVC (cont'd)
-* Asset Pipeline
-* JavaScript
-* JQuery
-* JSON
+* Common webapp patterns and tools, including:
+  * Devise and Omniauth for authentication
+  * Paperclip and S3 for file uploads
+  * Capybara and Simplecov for integration testing
+  * SimpleForm for quick web forms
+* Database indices
 
 ## Important Links
 
@@ -22,17 +23,15 @@ Students should be comfortable with the following at the end of this week:
 
 #### Lecture
 
-* [Ruby Challenge](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/classes_challenge.rb)
+* [Ruby Challenge]()
 * Project Review
-* Human Learning: Autonomy/Mastery/Purpose
-* Human Learning: 12 Questions
 
-* M: JS Basics ; Simple in-Rails JS examples*
+* Capybara (Thomas and Chris)
+* Simplecov
 
 #### Reading
 
-* Eloquent JavaScript
-* [JavaScript Garden](https://bonsaiden.github.io/JavaScript-Garden/)
+*
 
 #### Assignment
 
@@ -42,9 +41,11 @@ Students should be comfortable with the following at the end of this week:
 
 #### Lecture
 
-* [Ruby Challenge](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/composition_challenge.rb)
+* [Ruby Challenge]()
 * Assignment Review
-* T: Asset Pipeline ; More JS Examples*
+
+* Devise and Omniauth (Michael)
+* [SimpleForm](https://github.com/plataformatec/simple_form)
 
 #### Reading
 
@@ -58,26 +59,26 @@ Students should be comfortable with the following at the end of this week:
 
 #### Lecture
 
-* [Ruby Challenge](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/inheritance_challenge.rb)
+* [Ruby Challenge]()
 * Assignment Review
-* W: JQuery ; JQuery Examples*
+
+* Paperclip
+* S3
 
 #### Reading
 
-* https://signalvnoise.com/posts/3697-server-generated-javascript-responses
+*
 
 #### Assignment
 
-*
+* Database Indices
+* NoSQL
 
 ## Thursday
 
 #### Lecture
 
-* [Ruby Challenge](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/include_challenge.rb)
+* [Ruby Challenge]()
 * Assignment Review
-* Th: AJAX ; AJAX-in-Rails Examples*
 
-## Weekend Assignment - As Pairs
-
-[Online Constituent Voting](https://github.com/masonfmatthews/rails_assignments/tree/master/projects/health_tracker)
+*

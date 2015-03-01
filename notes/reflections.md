@@ -18,6 +18,7 @@
 * Regret not having a completed full Rails app each weekend.
 * Review clinton's assignments again and make my versions as needed.
 * APIs at the beginning of Rails.
+* Add Eloquent Javascript to pre-class reading.
 
 
 Rails approach for next time:
