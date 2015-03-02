@@ -16,8 +16,6 @@ Students should be comfortable with the following at the end of this week:
 * [Challenge Submission Form](http://goo.gl/forms/fpcxQCtEqs)
 * [Homework Submission Form](https://docs.google.com/forms/d/1lddv00AYx4z9ugJBYv1v2RG_JuMUpWEYPYjQGdCVdgQ/viewform?c=0&w=1)
 
-<!--
-
 ## Monday
 
 #### Lecture
@@ -49,11 +47,14 @@ Students should be comfortable with the following at the end of this week:
 
 #### Reading
 
-*
+* [What is an API?](http://skillcrush.com/2012/07/04/api-2/)
+* [Working with APIs](http://www.theodinproject.com/ruby-on-rails/working-with-external-apis?ref=lnav) - Read down to and including "Restrictions" section.
 
 #### Assignment
 
-* [Recreate Github Profile]()
+* [Recreate Github Profile](https://github.com/tiyd-rails-2015-01/github_profile)
+
+<!--
 
 ## Tuesday
 
@@ -68,7 +69,7 @@ Students should be comfortable with the following at the end of this week:
 
 #### Reading
 
-*
+* [Building API Basics](http://www.theodinproject.com/ruby-on-rails/apis-and-building-your-own)
 
 #### Assignment
 
@@ -108,6 +109,8 @@ Students should be comfortable with the following at the end of this week:
 
 
 <!--
+
+* Mocking and stubbing
 
 * Underscore vs hyphen vs camelCase review
 
