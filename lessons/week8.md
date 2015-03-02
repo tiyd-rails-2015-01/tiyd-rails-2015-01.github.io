@@ -22,6 +22,11 @@ Students should be comfortable with the following at the end of this week:
 
 * [Ruby Challenge](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/classes_challenge.rb)
 * Project Review
+  * Class Variables - DON'T
+  * Intermediate AREL
+
+    to_dos = ToDo.arel_table
+    where(to_dos[:title].matches("%#{search}%").or(to_dos[:title].matches("ALWAYS")))
 
 * Human Learning: Technical Debt
   * Rebuilding!  Software development is a "wicked" problem
@@ -44,6 +49,17 @@ Students should be comfortable with the following at the end of this week:
   * http://api.wunderground.com
 * Building a Rails app
   * HTTParty
+* API Basic Auth for Github
+* Keeping keys and passwords out of committed code (using ENV)
+
+#### Notes
+
+* [The guy who loves AREL](www.youtube.com/watch?v=ShPAxNcLm3o)
+* [Video Before Break](http://youtu.be/AjVlDABhhi8)
+* [Video After Break](http://youtu.be/ASLlaAZz-3I)
+* [Regular Lecture Example Repo](https://github.com/tiyd-rails-2015-01/weather_api)
+* [Video of Mini-lecture](http://youtu.be/1e9O2p2PZm8)
+* [Mini-lecture Example Repo](https://github.com/tiyd-rails-2015-01/github_token_example)
 
 #### Reading
 
@@ -143,6 +159,5 @@ Item.first.orders.for_user(current_user)
 
 * How to Google
 * Multi-tenancy discussion
-* Class variables - DON'T
 * Trying to change an array in an outer scope inside a called function.
 -->
