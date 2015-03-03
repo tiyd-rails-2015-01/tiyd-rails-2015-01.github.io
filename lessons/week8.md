@@ -21,8 +21,10 @@ Students should be comfortable with the following at the end of this week:
 #### Lecture
 
 * [Ruby Challenge](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/classes_challenge.rb)
-* Project Review
+  * Calling private methods with `.send()`
+  * `protected` keyword
   * Class Variables - DON'T
+* Project Review
   * Intermediate AREL
 
     to_dos = ToDo.arel_table
@@ -70,8 +72,6 @@ Students should be comfortable with the following at the end of this week:
 
 * [Recreate Github Profile](https://github.com/tiyd-rails-2015-01/github_profile)
 
-<!--
-
 ## Tuesday
 
 #### Lecture
@@ -79,17 +79,21 @@ Students should be comfortable with the following at the end of this week:
 * [Ruby Challenge](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/composition_challenge.rb)
 * Assignment Review
 
-* After querying, store info in database?
+* What scaffold actually does
+* Sending information to an API
 * API Version Numbers
-* Nesting Routes
+* Nesting Routes - build a JSON-only controller from scratch
 
 #### Reading
 
 * [Building API Basics](http://www.theodinproject.com/ruby-on-rails/apis-and-building-your-own)
+* [Railscast on securing APIs](http://railscasts.com/episodes/352-securing-an-api)
 
 #### Assignment
 
-* [Add a Voting API to Online Constituents]()
+* [Add a Voting API to Online Constituents (w/ Tests)](https://github.com/tiyd-rails-2015-01/voting_api)
+
+<!--
 
 ## Wednesday
 
