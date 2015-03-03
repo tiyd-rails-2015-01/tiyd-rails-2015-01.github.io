@@ -9,7 +9,7 @@ Students should be comfortable with the following at the end of this week:
 * JSON, XML, CSV Data
 * API Consumption
 * API Creation
-* Background Processing
+* Caching of API Data
 
 ## Important Links
 
@@ -56,7 +56,7 @@ Students should be comfortable with the following at the end of this week:
 
 #### Notes
 
-* [The guy who loves AREL](www.youtube.com/watch?v=ShPAxNcLm3o)
+* [The guy who loves AREL](http://www.youtube.com/watch?v=ShPAxNcLm3o)
 * [Video Before Break](http://youtu.be/AjVlDABhhi8)
 * [Video After Break](http://youtu.be/ASLlaAZz-3I)
 * [Regular Lecture Example Repo](https://github.com/tiyd-rails-2015-01/weather_api)
@@ -74,15 +74,30 @@ Students should be comfortable with the following at the end of this week:
 
 ## Tuesday
 
+<!-- Next time should switch the order of Tuesday and Wednesday -->
+
 #### Lecture
 
 * [Ruby Challenge](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/composition_challenge.rb)
 * Assignment Review
 
-* What scaffold actually does
-* Sending information to an API
+* What scaffold actually does with JSON
 * API Version Numbers
+* Why we keep old API versions around, but don't keep old UI versions around
 * Nesting Routes - build a JSON-only controller from scratch
+* Postman
+* Submitting paramaters to the create (etc) action of an API
+* `./bin/rails`
+
+
+#### Links
+
+* [Three approaches to OddArray](w8-2/composition.rb)
+* [Two approaches to time_since](w8-2/time_math.rb)
+* [Example Hybrid API app developed in class](https://github.com/tiyd-rails-2015-01/api_creation_example)
+* [Pre-break Video](https://www.youtube.com/watch?v=D7Rmj4jTCOc)
+* [Post-break Video](https://www.youtube.com/watch?v=a5fJ6-CMkmY)
+* [Mini-lecture Video](http://youtu.be/zZ1RB5UgVLE)
 
 #### Reading
 
@@ -91,7 +106,7 @@ Students should be comfortable with the following at the end of this week:
 
 #### Assignment
 
-* [Add a Voting API to Online Constituents (w/ Tests)](https://github.com/tiyd-rails-2015-01/voting_api)
+* [Create a Voting API](https://github.com/tiyd-rails-2015-01/voting_api)
 
 <!--
 
@@ -101,17 +116,18 @@ Students should be comfortable with the following at the end of this week:
 
 * [Ruby Challenge](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/inheritance_challenge.rb)
 * Assignment Review
+  * Security implications of API keys in the database
+  * Security implications of API keys over http
 
-* Background Processing
+* Final Project Plan
+* Weekend Project Plan
 * Database-backended APIs
-
-#### Reading
-
-*
 
 #### Assignment
 
-* [Cache Invalidation]()
+* [API Caching]() - Modify existing github repo parser to store information in a database before displaying it.
+
+<!--
 
 ## Thursday
 
@@ -120,8 +136,11 @@ Students should be comfortable with the following at the end of this week:
 * [Ruby Challenge](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/include_challenge.rb)
 * Assignment Review
 
-* OAuth
-
+* CI (Mike)
+* [Other ruby frameworks](https://blog.engineyard.com/2015/life-beyond-rails-brief-look-alternate-web-frameworks-ruby)
+* [Which IDEs do Rubyists use?](http://www.sitepoint.com/ides-rubyists-use/?utm_source=rubyweekly&utm_medium=email)
+* Multi-tenancy
+* Simplecov
 
 ## Weekend Assignment - As Pairs
 
@@ -133,10 +152,6 @@ Students should be comfortable with the following at the end of this week:
 * Mocking and stubbing
 
 * Underscore vs hyphen vs camelCase review
-
-* [Other ruby frameworks](https://blog.engineyard.com/2015/life-beyond-rails-brief-look-alternate-web-frameworks-ruby)
-
-* [Which IDE do Rubyists use?](http://www.sitepoint.com/ides-rubyists-use/?utm_source=rubyweekly&utm_medium=email)
 
 * [Merging Apps and Heroku Deployments](https://github.com/masonfmatthews/rails_assignments/tree/master/assignments/heroku_deployments) - AS PAIRS
 
@@ -150,18 +165,19 @@ Students should be comfortable with the following at the end of this week:
 * Single Table Inheritance?
 
 * scoped associations
-<!--
-class Item < ActiveRecord::Base
-  has_many :orders do
-    def for_user(user_id)
-      where(user_id: user_id)
+
+    class Item < ActiveRecord::Base
+      has_many :orders do
+        def for_user(user_id)
+          where(user_id: user_id)
+        end
+      end
     end
-  end
-end
 
-Item.first.orders.for_user(current_user)
+    Item.first.orders.for_user(current_user)
 
-* How to Google
 * Multi-tenancy discussion
 * Trying to change an array in an outer scope inside a called function.
+
+* NoSQL
 -->

@@ -26,8 +26,10 @@ Students should be comfortable with the following at the end of this week:
 * [Ruby Challenge]()
 * Project Review
 
-* Capybara (Thomas and Chris)
-* Simplecov
+* Massive Seeds
+* Database Indices
+* Foreign Key Constraints
+* Get blocks of records from a database
 
 #### Reading
 
@@ -35,7 +37,7 @@ Students should be comfortable with the following at the end of this week:
 
 #### Assignment
 
-*
+* Improve efficiency of an application with MASSIVE seeds
 
 ## Tuesday
 
@@ -44,8 +46,9 @@ Students should be comfortable with the following at the end of this week:
 * [Ruby Challenge]()
 * Assignment Review
 
-* Devise and Omniauth (Michael)
-* [SimpleForm](https://github.com/plataformatec/simple_form)
+* Delayed Job
+* Active Job
+* Email again
 
 #### Reading
 
@@ -53,7 +56,7 @@ Students should be comfortable with the following at the end of this week:
 
 #### Assignment
 
-*
+* Send e-mail report on MASSIVE data set
 
 ## Wednesday
 
@@ -71,10 +74,13 @@ Students should be comfortable with the following at the end of this week:
 
 #### Assignment
 
-* Database Indices
-* NoSQL
+* Keep reports around to be resent later.
 
 ## Thursday
+
+* Devise and Omniauth (Michael)
+* Capybara (Thomas and Chris)
+* [SimpleForm](https://github.com/plataformatec/simple_form)
 
 #### Lecture
 
