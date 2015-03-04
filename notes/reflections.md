@@ -19,6 +19,15 @@
 * Review clinton's assignments again and make my versions as needed.
 * APIs at the beginning of Rails.
 * Add Eloquent Javascript to pre-class reading.
+* APIs - dig more into other gems: rails-api, jbuilder, ActiveModel Serializers, Restclient, Doorkeeper
+* Never did a take-a-ticket, build a feature project.
+
+Other assignment ideas:
+
+* Add devise and oAuth to, say, the auction site
+* Curriculum Management Tool
+* Volunteer Coordination
+* Hotel Accessibility Review Site
 
 
 Rails approach for next time:

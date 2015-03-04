@@ -108,7 +108,6 @@ Students should be comfortable with the following at the end of this week:
 
 * [Create a Voting API](https://github.com/tiyd-rails-2015-01/voting_api)
 
-<!--
 
 ## Wednesday
 
@@ -118,14 +117,15 @@ Students should be comfortable with the following at the end of this week:
 * Assignment Review
   * Security implications of API keys in the database
   * Security implications of API keys over http
+  * Action on your server trying to access the API on your server - deadlock
 
 * Final Project Plan
-* Weekend Project Plan
 * Database-backended APIs
 
 #### Assignment
 
-* [API Caching]() - Modify existing github repo parser to store information in a database before displaying it.
+* [API Caching](https://github.com/tiyd-rails-2015-01/api_caching)
+  * [Starting Point](https://github.com/tiyd-rails-2015-01/database_api_starting_point)
 
 <!--
 
@@ -148,6 +148,9 @@ Students should be comfortable with the following at the end of this week:
 
 
 <!--
+
+* Versioning in a Database
+* Disabled_at pattern
 
 * Mocking and stubbing
 
