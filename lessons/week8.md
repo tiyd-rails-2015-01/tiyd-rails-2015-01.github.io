@@ -116,8 +116,9 @@ Students should be comfortable with the following at the end of this week:
 * [Ruby Challenge](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/inheritance_challenge.rb)
 * Assignment Review
   * Security implications of API keys in the database
-  * Security implications of API keys over http
-  * Action on your server trying to access the API on your server - deadlock
+  * Security implications of API keys over http (headers vs parameters)
+  * Action on your server trying to access the API on your server
+  * Deadlock
 
 * Final Project Plan
 * Database-backended APIs
@@ -126,8 +127,6 @@ Students should be comfortable with the following at the end of this week:
 
 * [API Caching](https://github.com/tiyd-rails-2015-01/api_caching)
   * [Starting Point](https://github.com/tiyd-rails-2015-01/database_api_starting_point)
-
-<!--
 
 ## Thursday
 

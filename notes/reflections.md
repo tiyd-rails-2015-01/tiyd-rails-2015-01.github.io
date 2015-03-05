@@ -21,6 +21,7 @@
 * Add Eloquent Javascript to pre-class reading.
 * APIs - dig more into other gems: rails-api, jbuilder, ActiveModel Serializers, Restclient, Doorkeeper
 * Never did a take-a-ticket, build a feature project.
+* Beef up inheritance challenge.  Perhaps with grandparentage?
 
 Other assignment ideas:
 
