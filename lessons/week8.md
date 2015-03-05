@@ -123,6 +123,11 @@ Students should be comfortable with the following at the end of this week:
 * Final Project Plan
 * Database-backended APIs
 
+#### Links
+
+* [Pre-break Video](https://www.youtube.com/watch?v=OBYAzYMHkyM)
+* [Post-break Video]()
+
 #### Assignment
 
 * [API Caching](https://github.com/tiyd-rails-2015-01/api_caching)
@@ -136,50 +141,22 @@ Students should be comfortable with the following at the end of this week:
 * Assignment Review
 
 * CI (Mike)
+* vim (Michael)
+* Dvorak keyboards, ergonomic chairs, treadmill desks, etc.
 * [Which IDEs do Rubyists use?](http://www.sitepoint.com/ides-rubyists-use/?utm_source=rubyweekly&utm_medium=email)
-* [Other ruby frameworks](https://blog.engineyard.com/2015/life-beyond-rails-brief-look-alternate-web-frameworks-ruby)
-* Multi-tenancy
-* Simplecov
+* [Which editors do Rubyists use?](http://www.sitepoint.com/editor-rubyists-use/)
+* [Other ruby frameworks](https://blog.engineyard.com/2015/life-beyond-rails-brief-look-alternate-web-frameworks-ruby).  Links in decreasing order of complexity:
+  * Rails
+  * [Sinatra](http://www.sinatrarb.com/)
+  * [Padrino](http://www.padrinorb.com/)
+  * [Camping](http://camping.io/)
+
+#### Links
+
+* [Example App From Class](https://github.com/tiyd-rails-2015-01/db_backed_api_example)
+* [Pre-break Video](http://youtu.be/MvX_XPAMpfI)
+* [Mini-lecture Video](http://youtu.be/PXCm6K4CVh4)
 
 ## Weekend Assignment - As Pairs
 
 [Build Your Own API](https://github.com/tiyd-rails-2015-01/novel_api)
-
-
-<!--
-
-* Versioning in a Database
-* Disabled_at pattern
-
-* Mocking and stubbing
-
-* Underscore vs hyphen vs camelCase review
-
-* [Merging Apps and Heroku Deployments](https://github.com/masonfmatthews/rails_assignments/tree/master/assignments/heroku_deployments) - AS PAIRS
-
-* [Student Awards](https://github.com/masonfmatthews/rails_assignments/tree/master/assignments/student_awards)
-
-* [Rails Testing and Coverage](https://github.com/masonfmatthews/rails_assignments/tree/master/assignments/rails_testing_and_coverage)
-
-* http://mislav.uniqpath.com/poignant-guide/
-
-* Polymorphism?
-* Single Table Inheritance?
-
-* scoped associations
-
-    class Item < ActiveRecord::Base
-      has_many :orders do
-        def for_user(user_id)
-          where(user_id: user_id)
-        end
-      end
-    end
-
-    Item.first.orders.for_user(current_user)
-
-* Multi-tenancy discussion
-* Trying to change an array in an outer scope inside a called function.
-
-* NoSQL
--->

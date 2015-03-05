@@ -136,7 +136,7 @@ You will be working on your final project and presentation during this time.
 
 ## Assignments
 
-### In-lecture Mini-assignments
+### In-lecture exercises
 
 During breaks in the lecture, you will be given exercises for practicing the content you've just learned.  Sometimes I'll give you a set of tests, and you'll be asked to write code to make them pass.  Other times you'll be given a blank slate to start from.  In most cases, you won't have time to finish the exercises before I ask you to stop and throw away what you've done.  This is normal (if not disconcerting) and will be somewhat liberating by the end.
 

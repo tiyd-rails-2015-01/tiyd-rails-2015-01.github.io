@@ -23,7 +23,7 @@ Students should be comfortable with the following at the end of this week:
 
 #### Lecture
 
-* [Ruby Challenge]()
+* [Challenge](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/discuss_ruby.rb))
 * Project Review
 
 * Massive Seeds
@@ -43,7 +43,7 @@ Students should be comfortable with the following at the end of this week:
 
 #### Lecture
 
-* [Ruby Challenge]()
+* [Challenge](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/discuss_rails.rb))
 * Assignment Review
 
 * Delayed Job
@@ -62,7 +62,7 @@ Students should be comfortable with the following at the end of this week:
 
 #### Lecture
 
-* [Ruby Challenge]()
+* [Challenge](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/discuss_supporting_technologies.rb))
 * Assignment Review
 
 * Paperclip
@@ -84,7 +84,48 @@ Students should be comfortable with the following at the end of this week:
 
 #### Lecture
 
-* [Ruby Challenge]()
+* [Challenge](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/discuss_development.rb))
 * Assignment Review
 
 *
+
+<!--
+
+* Multi-tenancy
+* Simplecov
+
+* Versioning in a Database
+* Disabled_at pattern
+
+* Mocking and stubbing
+
+* Underscore vs hyphen vs camelCase review
+
+* [Merging Apps and Heroku Deployments](https://github.com/masonfmatthews/rails_assignments/tree/master/assignments/heroku_deployments) - AS PAIRS
+
+* [Student Awards](https://github.com/masonfmatthews/rails_assignments/tree/master/assignments/student_awards)
+
+* [Rails Testing and Coverage](https://github.com/masonfmatthews/rails_assignments/tree/master/assignments/rails_testing_and_coverage)
+
+* http://mislav.uniqpath.com/poignant-guide/
+
+* Polymorphism?
+* Single Table Inheritance?
+
+* scoped associations
+
+    class Item < ActiveRecord::Base
+      has_many :orders do
+        def for_user(user_id)
+          where(user_id: user_id)
+        end
+      end
+    end
+
+    Item.first.orders.for_user(current_user)
+
+* Multi-tenancy discussion
+* Trying to change an array in an outer scope inside a called function.
+
+* NoSQL
+-->
