@@ -22,6 +22,7 @@
 * APIs - dig more into other gems: rails-api, jbuilder, ActiveModel Serializers, Restclient, Doorkeeper
 * Never did a take-a-ticket, build a feature project.
 * Beef up inheritance challenge.  Perhaps with grandparentage?
+* Heavier logic once we're in Rails.  Makes it easier to motivate good testing practices.
 
 Other assignment ideas:
 

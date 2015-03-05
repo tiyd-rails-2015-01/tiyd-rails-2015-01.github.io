@@ -136,14 +136,14 @@ Students should be comfortable with the following at the end of this week:
 * Assignment Review
 
 * CI (Mike)
-* [Other ruby frameworks](https://blog.engineyard.com/2015/life-beyond-rails-brief-look-alternate-web-frameworks-ruby)
 * [Which IDEs do Rubyists use?](http://www.sitepoint.com/ides-rubyists-use/?utm_source=rubyweekly&utm_medium=email)
+* [Other ruby frameworks](https://blog.engineyard.com/2015/life-beyond-rails-brief-look-alternate-web-frameworks-ruby)
 * Multi-tenancy
 * Simplecov
 
 ## Weekend Assignment - As Pairs
 
-[Build Your Own API]()
+[Build Your Own API](https://github.com/tiyd-rails-2015-01/novel_api)
 
 
 <!--
