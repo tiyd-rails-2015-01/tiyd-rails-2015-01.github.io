@@ -119,6 +119,7 @@ Students should be comfortable with the following at the end of this week:
   * Security implications of API keys over http (headers vs parameters)
   * Action on your server trying to access the API on your server
   * Deadlock
+  * WEBrick vs. Mongrel vs. Puma
 
 * Final Project Plan
 * Database-backended APIs
@@ -126,7 +127,7 @@ Students should be comfortable with the following at the end of this week:
 #### Links
 
 * [Pre-break Video](https://www.youtube.com/watch?v=OBYAzYMHkyM)
-* [Post-break Video]()
+* [Post-break Video](https://www.youtube.com/watch?v=cUw8-b0keqs)
 
 #### Assignment
 

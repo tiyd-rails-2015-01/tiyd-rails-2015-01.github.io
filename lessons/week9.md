@@ -31,13 +31,9 @@ Students should be comfortable with the following at the end of this week:
 * Foreign Key Constraints
 * Get blocks of records from a database
 
-#### Reading
-
-*
-
 #### Assignment
 
-* Improve efficiency of an application with MASSIVE seeds
+* [Database Optimization](https://github.com/tiyd-rails-2015-01/database_optimization)
 
 ## Tuesday
 
@@ -49,10 +45,6 @@ Students should be comfortable with the following at the end of this week:
 * Delayed Job
 * Active Job
 * Email again
-
-#### Reading
-
-*
 
 #### Assignment
 
@@ -68,26 +60,20 @@ Students should be comfortable with the following at the end of this week:
 * Paperclip
 * S3
 
-#### Reading
-
-*
-
 #### Assignment
 
 * Keep reports around to be resent later.
 
 ## Thursday
 
-* Devise and Omniauth (Michael)
-* Capybara (Thomas and Chris)
-* [SimpleForm](https://github.com/plataformatec/simple_form)
-
 #### Lecture
 
 * [Challenge](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/discuss_development.rb))
 * Assignment Review
 
-*
+* Devise and Omniauth (Michael)
+* Capybara (Thomas and Chris)
+* [SimpleForm](https://github.com/plataformatec/simple_form)
 
 <!--
 

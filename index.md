@@ -32,7 +32,7 @@ You'll need to complete all of these steps before January 12th.  If you have ANY
   * [Week 6](/lessons/week6.html)
   * [Week 7](/lessons/week7.html)
   * [Week 8](/lessons/week8.html)
-  * Week 9
+  * [Week 9](/lessons/week9.html)
 
 ### ...and beyond!
 
