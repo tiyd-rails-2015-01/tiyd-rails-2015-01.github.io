@@ -23,6 +23,8 @@
 * Never did a take-a-ticket, build a feature project.
 * Beef up inheritance challenge.  Perhaps with grandparentage?
 * Heavier logic once we're in Rails.  Makes it easier to motivate good testing practices.
+* Interviews: https://push.cx/2015/hiring-apprentices
+* Graphing sooner if possible
 
 Other assignment ideas:
 
