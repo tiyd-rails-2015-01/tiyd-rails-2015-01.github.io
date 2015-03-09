@@ -23,7 +23,7 @@ Students should be comfortable with the following at the end of this week:
 
 #### Lecture
 
-* [Challenge](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/discuss_ruby.rb)
+* [Challenge](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/discuss_ruby.md)
 * Project Review
 
 * Massive Seeds
@@ -42,7 +42,7 @@ Students should be comfortable with the following at the end of this week:
 
 #### Lecture
 
-* [Challenge](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/discuss_rails.rb))
+* [Challenge](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/discuss_rails.md)
 * Assignment Review
 
 * Delayed Job
@@ -57,7 +57,7 @@ Students should be comfortable with the following at the end of this week:
 
 #### Lecture
 
-* [Challenge](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/discuss_supporting_technologies.rb))
+* [Challenge](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/discuss_supporting_technologies.md)
 * Assignment Review
 
 * Paperclip
@@ -71,7 +71,7 @@ Students should be comfortable with the following at the end of this week:
 
 #### Lecture
 
-* [Challenge](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/discuss_development.rb))
+* [Challenge](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/discuss_development.md)
 * Assignment Review
 
 * Devise and Omniauth (Michael)
