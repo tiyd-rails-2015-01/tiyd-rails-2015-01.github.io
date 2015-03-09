@@ -23,7 +23,7 @@ Students should be comfortable with the following at the end of this week:
 
 #### Lecture
 
-* [Challenge](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/discuss_ruby.rb))
+* [Challenge](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/discuss_ruby.rb)
 * Project Review
 
 * Massive Seeds
