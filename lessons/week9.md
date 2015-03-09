@@ -18,7 +18,8 @@ Students should be comfortable with the following at the end of this week:
 * [Challenge Submission Form](http://goo.gl/forms/fpcxQCtEqs)
 * [Homework Submission Form](https://docs.google.com/forms/d/1lddv00AYx4z9ugJBYv1v2RG_JuMUpWEYPYjQGdCVdgQ/viewform?c=0&w=1)
 
- <!--
+<!--
+
 ## Monday
 
 #### Lecture
@@ -29,11 +30,11 @@ Students should be comfortable with the following at the end of this week:
 * Massive Seeds
 * Database Indices
 * Foreign Key Constraints
-* Get blocks of records from a database
+* Memory usage and find_each
 
 #### Assignment
 
-* [Database Optimization](https://github.com/tiyd-rails-2015-01/database_optimization)
+* [Database Optimizations](https://github.com/tiyd-rails-2015-01/database_optimizations)
 
 ## Tuesday
 
@@ -48,7 +49,7 @@ Students should be comfortable with the following at the end of this week:
 
 #### Assignment
 
-* Send e-mail report on MASSIVE data set
+* [Delayed Mailer](https://github.com/tiyd-rails-2015-01/delayed_mailer)
 
 ## Wednesday
 
@@ -62,7 +63,7 @@ Students should be comfortable with the following at the end of this week:
 
 #### Assignment
 
-* Keep reports around to be resent later.
+* [Reports on S3](https://github.com/tiyd-rails-2015-01/reports_on_s3)
 
 ## Thursday
 

@@ -25,6 +25,9 @@
 * Heavier logic once we're in Rails.  Makes it easier to motivate good testing practices.
 * Interviews: https://push.cx/2015/hiring-apprentices
 * Graphing sooner if possible
+* James' ActiveRecord-only assignment: https://github.com/TIY-DC-ROR-2015-Jan/model-skeleton
+  * Also, have an exercise where they close a Github issue from the command line.
+* Review "Work" photos on phone to see if diagrams or notes help.
 
 Other assignment ideas:
 
