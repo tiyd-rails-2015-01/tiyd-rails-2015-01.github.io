@@ -25,11 +25,19 @@ Students should be comfortable with the following at the end of this week:
 
 * [Challenge](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/discuss_ruby.md)
 * Project Review
+  * Mocking API calls for tests
 
 * Massive Seeds
 * Database Indices
 * Foreign Key Constraints
 * Memory usage and find_each
+
+#### Links
+
+* [Video of Challenge Review](http://youtu.be/TWh8Ry4OQZc)
+* [Video of Homework Review](https://www.youtube.com/watch?v=jlJnz0haP-s)
+* [Video of Database Optimizations](http://youtu.be/MfY1mBw0OQU)
+* [Code Example Built in Class](https://github.com/tiyd-rails-2015-01/tons_of_students_example)
 
 #### Assignment
 
@@ -44,6 +52,7 @@ Students should be comfortable with the following at the end of this week:
 
 * [Challenge](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/discuss_rails.md)
 * Assignment Review
+  * Swap changes the efficiency equation
 
 * Delayed Job
 * Active Job
