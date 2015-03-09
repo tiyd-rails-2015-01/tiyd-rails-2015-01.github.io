@@ -6,19 +6,18 @@ layout: default
 
 Students should be comfortable with the following at the end of this week:
 
+* Database indices
 * Common webapp patterns and tools, including:
   * Devise and Omniauth for authentication
   * Paperclip and S3 for file uploads
   * Capybara and Simplecov for integration testing
   * SimpleForm for quick web forms
-* Database indices
 
 ## Important Links
 
 * [Challenge Submission Form](http://goo.gl/forms/fpcxQCtEqs)
 * [Homework Submission Form](https://docs.google.com/forms/d/1lddv00AYx4z9ugJBYv1v2RG_JuMUpWEYPYjQGdCVdgQ/viewform?c=0&w=1)
 
-<!--
 
 ## Monday
 
@@ -35,6 +34,9 @@ Students should be comfortable with the following at the end of this week:
 #### Assignment
 
 * [Database Optimizations](https://github.com/tiyd-rails-2015-01/database_optimizations)
+
+
+<!--
 
 ## Tuesday
 
@@ -76,7 +78,11 @@ Students should be comfortable with the following at the end of this week:
 * Capybara (Thomas and Chris)
 * [SimpleForm](https://github.com/plataformatec/simple_form)
 
-<!--
+
+
+
+
+
 
 * Multi-tenancy
 * Simplecov
