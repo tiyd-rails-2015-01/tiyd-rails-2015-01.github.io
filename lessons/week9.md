@@ -62,6 +62,8 @@ Students should be comfortable with the following at the end of this week:
 
 * [Delayed Mailer](https://github.com/tiyd-rails-2015-01/delayed_mailer)
 
+<!--
+
 ## Wednesday
 
 #### Lecture
