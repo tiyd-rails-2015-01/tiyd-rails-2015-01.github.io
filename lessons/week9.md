@@ -44,15 +44,15 @@ Students should be comfortable with the following at the end of this week:
 * [Database Optimizations](https://github.com/tiyd-rails-2015-01/database_optimizations)
 
 
-<!--
-
 ## Tuesday
 
 #### Lecture
 
 * [Challenge](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/discuss_rails.md)
 * Assignment Review
-  * Swap changes the efficiency equation
+  * Polymorphic associations
+  * Double indices
+  * Swap space changes the efficiency equation
 
 * Delayed Job
 * Active Job
