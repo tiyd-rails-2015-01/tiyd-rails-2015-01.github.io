@@ -59,6 +59,8 @@ Students should be comfortable with the following at the end of this week:
 * Delayed Job
 * Active Job
 * Mailer with a Delay
+* Software threading
+* Multi-core processors
 
 #### Links
 
@@ -70,7 +72,6 @@ Students should be comfortable with the following at the end of this week:
 
 * [Delayed Mailer](https://github.com/tiyd-rails-2015-01/delayed_mailer)
 
-<!--
 
 ## Wednesday
 
@@ -81,6 +82,15 @@ Students should be comfortable with the following at the end of this week:
 
 * Paperclip
 * S3
+
+#### Links
+
+* [Video of Challenge and HW Review]()
+* [Video of Database Optimizations]()
+* [Code Example Built in Class]()
+* [Paperclip](https://github.com/thoughtbot/paperclip)
+* [Paperclip and S3 on Heroku](https://devcenter.heroku.com/articles/paperclip-s3)
+* [List of common media types](http://en.wikipedia.org/wiki/Internet_media_type#List_of_common_media_types)
 
 #### Assignment
 
