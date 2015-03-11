@@ -54,9 +54,11 @@ Students should be comfortable with the following at the end of this week:
   * Double indices
   * Swap space changes the efficiency equation
 
+* Stacks vs. Queues
+* Queues in a Database Table
 * Delayed Job
 * Active Job
-* Email again
+* Mailer with a Delay
 
 #### Links
 
