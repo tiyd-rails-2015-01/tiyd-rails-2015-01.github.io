@@ -79,15 +79,20 @@ Students should be comfortable with the following at the end of this week:
 
 * [Challenge](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/discuss_supporting_technologies.md)
 * Assignment Review
+  * Mailer settings (SMTP vs. Sendmail)
+  *
 
+* Files as part of HTML forms
+* File reading and writing
 * Paperclip
 * S3
 
 #### Links
 
-* [Video of Challenge and HW Review]()
-* [Video of Database Optimizations]()
-* [Code Example Built in Class]()
+* [Video of Challenge and HW Review](http://youtu.be/X-mKXOMm2hU)
+* [Video of Local File Uploading](http://youtu.be/zQNPnmsRxGM)
+* [Video of S3 Uploading](http://youtu.be/bAeGKJ-Wl4g)
+* [Code Example Built in Class](https://github.com/tiyd-rails-2015-01/s3_example)
 * [Paperclip](https://github.com/thoughtbot/paperclip)
 * [Paperclip and S3 on Heroku](https://devcenter.heroku.com/articles/paperclip-s3)
 * [List of common media types](http://en.wikipedia.org/wiki/Internet_media_type#List_of_common_media_types)
