@@ -58,6 +58,12 @@ Students should be comfortable with the following at the end of this week:
 * Active Job
 * Email again
 
+#### Links
+
+* [Video of Challenge and HW Review](https://www.youtube.com/watch?v=wla10CPMTUg)
+* [Video of Database Optimizations](https://www.youtube.com/watch?v=sPkraiw-IOI)
+* [Code Example Built in Class](https://github.com/tiyd-rails-2015-01/mailer_example)
+
 #### Assignment
 
 * [Delayed Mailer](https://github.com/tiyd-rails-2015-01/delayed_mailer)
