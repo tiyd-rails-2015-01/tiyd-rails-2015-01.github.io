@@ -80,7 +80,6 @@ Students should be comfortable with the following at the end of this week:
 * [Challenge](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/discuss_supporting_technologies.md)
 * Assignment Review
   * Mailer settings (SMTP vs. Sendmail)
-  *
 
 * Files as part of HTML forms
 * File reading and writing
