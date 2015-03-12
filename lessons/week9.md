@@ -78,6 +78,8 @@ Students should be comfortable with the following at the end of this week:
 #### Lecture
 
 * [Challenge](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/discuss_supporting_technologies.md)
+  * Javascript Frameworks
+  * NoSQL
 * Assignment Review
   * Mailer settings (SMTP vs. Sendmail)
 
@@ -85,6 +87,7 @@ Students should be comfortable with the following at the end of this week:
 * File reading and writing
 * Paperclip
 * S3
+* `render_as_string`
 
 #### Links
 
@@ -100,7 +103,6 @@ Students should be comfortable with the following at the end of this week:
 
 * [Reports on S3](https://github.com/tiyd-rails-2015-01/reports_on_s3)
 
-<!--
 
 ## Thursday
 
@@ -112,48 +114,3 @@ Students should be comfortable with the following at the end of this week:
 * Devise and Omniauth (Michael)
 * Capybara (Thomas and Chris)
 * [SimpleForm](https://github.com/plataformatec/simple_form)
-
-
-
-
-
-
-
-* Multi-tenancy
-* Simplecov
-
-* Versioning in a Database
-* Disabled_at pattern
-
-* Mocking and stubbing
-
-* Underscore vs hyphen vs camelCase review
-
-* [Merging Apps and Heroku Deployments](https://github.com/masonfmatthews/rails_assignments/tree/master/assignments/heroku_deployments) - AS PAIRS
-
-* [Student Awards](https://github.com/masonfmatthews/rails_assignments/tree/master/assignments/student_awards)
-
-* [Rails Testing and Coverage](https://github.com/masonfmatthews/rails_assignments/tree/master/assignments/rails_testing_and_coverage)
-
-* http://mislav.uniqpath.com/poignant-guide/
-
-* Polymorphism?
-* Single Table Inheritance?
-
-* scoped associations
-
-    class Item < ActiveRecord::Base
-      has_many :orders do
-        def for_user(user_id)
-          where(user_id: user_id)
-        end
-      end
-    end
-
-    Item.first.orders.for_user(current_user)
-
-* Multi-tenancy discussion
-* Trying to change an array in an outer scope inside a called function.
-
-* NoSQL
--->

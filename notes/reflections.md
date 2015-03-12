@@ -36,8 +36,7 @@ Other assignment ideas:
 * Volunteer Coordination
 * Hotel Accessibility Review Site
 
-
-Rails approach for next time:
+Potential Rails approach for next time (I HAVE A BETTER ONE NOW):
 
 * W3D2: Rails new (structure on board), HTML forms, GET and POST, params, rails-footnotes gem.
 * Motivation
@@ -53,3 +52,26 @@ Rails approach for next time:
 * Teacherbook
 * W4D4: Review and rebuild it all together.
 * WEEKEND: Gradebook
+
+
+Never got to:
+
+* Multi-tenancy
+* Simplecov
+* Versioning in a Database
+* Disabled_at pattern (soft delete)
+* Mocking and stubbing
+* http://mislav.uniqpath.com/poignant-guide/
+* Single Table Inheritance
+* Call-by-reference surprises
+* scoped associations
+
+    class Item < ActiveRecord::Base
+      has_many :orders do
+        def for_user(user_id)
+          where(user_id: user_id)
+        end
+      end
+    end
+
+    Item.first.orders.for_user(current_user)
